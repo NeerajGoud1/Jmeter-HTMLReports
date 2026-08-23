@@ -1,0 +1,1251 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1787204207081,69,GetStarted,200,OK,ApacheJmeter 3-4,text,true,,101879,142,4,14,https://jmeter.apache.org/usermanual/get-started.html,52,0,42
+1787204206953,213,GetStarted,200,OK,ApacheJmeter 3-3,text,true,,101879,142,5,15,https://jmeter.apache.org/usermanual/get-started.html,180,0,142
+1787204207154,13,ReleaseNotes,200,OK,ApacheJmeter 3-4,text,true,,32303,127,5,15,https://jmeter.apache.org/changes.html,12,0,0
+1787204207167,11,UserManual,200,OK,ApacheJmeter 3-4,text,true,,47114,136,5,15,https://jmeter.apache.org/usermanual/index.html,10,0,0
+1787204207166,16,ReleaseNotes,200,OK,ApacheJmeter 3-3,text,true,,32303,127,5,15,https://jmeter.apache.org/changes.html,16,0,0
+1787204207179,8,BestPractices,200,OK,ApacheJmeter 3-4,text,true,,42305,145,5,15,https://jmeter.apache.org/usermanual/best-practices.html,7,0,0
+1787204207183,10,UserManual,200,OK,ApacheJmeter 3-3,text,true,,47114,136,5,15,https://jmeter.apache.org/usermanual/index.html,7,0,0
+1787204206852,349,GetStarted,200,OK,ApacheJmeter 3-2,text,true,,101878,142,5,15,https://jmeter.apache.org/usermanual/get-started.html,291,0,265
+1787204207153,48,GetStarted,200,OK,ApacheJmeter 3-5,text,true,,101879,142,5,15,https://jmeter.apache.org/usermanual/get-started.html,40,0,32
+1787204207194,8,BestPractices,200,OK,ApacheJmeter 3-3,text,true,,42306,145,5,15,https://jmeter.apache.org/usermanual/best-practices.html,7,0,0
+1787204206812,392,GetStarted,200,OK,ApacheJmeter 3-1,text,true,,101879,142,5,15,https://jmeter.apache.org/usermanual/get-started.html,346,0,322
+1787204207201,7,ReleaseNotes,200,OK,ApacheJmeter 3-5,text,true,,32302,127,5,15,https://jmeter.apache.org/changes.html,7,0,0
+1787204207204,8,ReleaseNotes,200,OK,ApacheJmeter 3-1,text,true,,32302,127,5,15,https://jmeter.apache.org/changes.html,7,0,0
+1787204207201,11,ReleaseNotes,200,OK,ApacheJmeter 3-2,text,true,,32302,127,5,15,https://jmeter.apache.org/changes.html,9,0,0
+1787204207208,7,UserManual,200,OK,ApacheJmeter 3-5,text,true,,47114,136,5,15,https://jmeter.apache.org/usermanual/index.html,6,0,0
+1787204207212,5,UserManual,200,OK,ApacheJmeter 3-1,text,true,,47114,136,5,15,https://jmeter.apache.org/usermanual/index.html,4,0,0
+1787204207215,5,BestPractices,200,OK,ApacheJmeter 3-5,text,true,,42305,145,5,15,https://jmeter.apache.org/usermanual/best-practices.html,5,0,0
+1787204207212,8,UserManual,200,OK,ApacheJmeter 3-2,text,true,,47114,136,5,15,https://jmeter.apache.org/usermanual/index.html,5,0,0
+1787204207217,5,BestPractices,200,OK,ApacheJmeter 3-1,text,true,,42305,145,5,16,https://jmeter.apache.org/usermanual/best-practices.html,5,0,0
+1787204207220,7,BestPractices,200,OK,ApacheJmeter 3-2,text,true,,42305,145,5,16,https://jmeter.apache.org/usermanual/best-practices.html,5,0,0
+1787204207251,66,GetStarted,200,OK,ApacheJmeter 3-6,text,true,,101879,142,6,18,https://jmeter.apache.org/usermanual/get-started.html,52,0,45
+1787204207318,13,ReleaseNotes,200,OK,ApacheJmeter 3-6,text,true,,32303,127,6,19,https://jmeter.apache.org/changes.html,13,0,0
+1787204207332,8,UserManual,200,OK,ApacheJmeter 3-6,text,true,,47114,136,6,19,https://jmeter.apache.org/usermanual/index.html,5,0,0
+1787204207340,9,BestPractices,200,OK,ApacheJmeter 3-6,text,true,,42305,145,6,20,https://jmeter.apache.org/usermanual/best-practices.html,8,0,0
+1787204207353,33,GetStarted,200,OK,ApacheJmeter 3-7,text,true,,101878,142,7,21,https://jmeter.apache.org/usermanual/get-started.html,26,0,21
+1787204207187,202,Downloads,200,OK,ApacheJmeter 3-4,text,true,,18881,134,7,21,https://jmeter.apache.org/download_jmeter.cgi,201,0,0
+1787204207386,5,ReleaseNotes,200,OK,ApacheJmeter 3-7,text,true,,32302,127,7,21,https://jmeter.apache.org/changes.html,5,0,0
+1787204207392,5,UserManual,200,OK,ApacheJmeter 3-7,text,true,,47114,136,7,21,https://jmeter.apache.org/usermanual/index.html,5,0,0
+1787204207390,9,GetStarted,200,OK,ApacheJmeter 3-4,text,true,,101879,142,7,21,https://jmeter.apache.org/usermanual/get-started.html,4,0,0
+1787204207397,8,BestPractices,200,OK,ApacheJmeter 3-7,text,true,,42305,145,7,21,https://jmeter.apache.org/usermanual/best-practices.html,7,0,0
+1787204207400,6,ReleaseNotes,200,OK,ApacheJmeter 3-4,text,true,,32303,127,7,21,https://jmeter.apache.org/changes.html,6,0,0
+1787204207406,5,UserManual,200,OK,ApacheJmeter 3-4,text,true,,47114,136,7,21,https://jmeter.apache.org/usermanual/index.html,4,0,0
+1787204207412,5,BestPractices,200,OK,ApacheJmeter 3-4,text,true,,42305,145,7,21,https://jmeter.apache.org/usermanual/best-practices.html,5,0,0
+1787204207227,205,Downloads,200,OK,ApacheJmeter 3-2,text,true,,18881,134,7,22,https://jmeter.apache.org/download_jmeter.cgi,204,0,0
+1787204207203,229,Downloads,200,OK,ApacheJmeter 3-3,text,true,,18888,134,7,22,https://jmeter.apache.org/download_jmeter.cgi,222,0,0
+1787204207222,230,Downloads,200,OK,ApacheJmeter 3-1,text,true,,18889,134,7,23,https://jmeter.apache.org/download_jmeter.cgi,230,0,0
+1787204207220,232,Downloads,200,OK,ApacheJmeter 3-5,text,true,,18888,134,7,23,https://jmeter.apache.org/download_jmeter.cgi,211,0,0
+1787204207432,26,GetStarted,200,OK,ApacheJmeter 3-3,text,true,,101879,142,8,24,https://jmeter.apache.org/usermanual/get-started.html,22,0,0
+1787204207432,27,GetStarted,200,OK,ApacheJmeter 3-2,text,true,,101878,142,8,24,https://jmeter.apache.org/usermanual/get-started.html,21,0,0
+1787204207455,9,GetStarted,200,OK,ApacheJmeter 3-5,text,true,,101879,142,8,24,https://jmeter.apache.org/usermanual/get-started.html,7,0,0
+1787204207453,18,GetStarted,200,OK,ApacheJmeter 3-1,text,true,,101879,142,8,24,https://jmeter.apache.org/usermanual/get-started.html,9,0,0
+1787204207459,12,ReleaseNotes,200,OK,ApacheJmeter 3-2,text,true,,32302,127,8,24,https://jmeter.apache.org/changes.html,12,0,0
+1787204207458,15,ReleaseNotes,200,OK,ApacheJmeter 3-3,text,true,,32303,127,8,24,https://jmeter.apache.org/changes.html,8,0,0
+1787204207465,8,ReleaseNotes,200,OK,ApacheJmeter 3-5,text,true,,32302,127,8,24,https://jmeter.apache.org/changes.html,8,0,0
+1787204207471,8,UserManual,200,OK,ApacheJmeter 3-2,text,true,,47114,136,8,24,https://jmeter.apache.org/usermanual/index.html,7,0,0
+1787204207472,6,ReleaseNotes,200,OK,ApacheJmeter 3-1,text,true,,32302,127,8,24,https://jmeter.apache.org/changes.html,6,0,0
+1787204207473,8,UserManual,200,OK,ApacheJmeter 3-3,text,true,,47114,136,8,24,https://jmeter.apache.org/usermanual/index.html,8,0,0
+1787204207474,7,UserManual,200,OK,ApacheJmeter 3-5,text,true,,47114,136,8,24,https://jmeter.apache.org/usermanual/index.html,7,0,0
+1787204207479,6,UserManual,200,OK,ApacheJmeter 3-1,text,true,,47114,136,8,24,https://jmeter.apache.org/usermanual/index.html,5,0,0
+1787204207481,6,BestPractices,200,OK,ApacheJmeter 3-3,text,true,,42306,145,8,24,https://jmeter.apache.org/usermanual/best-practices.html,5,0,0
+1787204207482,5,BestPractices,200,OK,ApacheJmeter 3-5,text,true,,42305,145,8,24,https://jmeter.apache.org/usermanual/best-practices.html,5,0,0
+1787204207479,8,BestPractices,200,OK,ApacheJmeter 3-2,text,true,,42305,145,8,24,https://jmeter.apache.org/usermanual/best-practices.html,6,0,0
+1787204207485,7,BestPractices,200,OK,ApacheJmeter 3-1,text,true,,42306,145,8,24,https://jmeter.apache.org/usermanual/best-practices.html,7,0,0
+1787204207457,42,GetStarted,200,OK,ApacheJmeter 3-8,text,true,,101878,142,8,24,https://jmeter.apache.org/usermanual/get-started.html,36,0,28
+1787204207499,5,ReleaseNotes,200,OK,ApacheJmeter 3-8,text,true,,32302,127,8,24,https://jmeter.apache.org/changes.html,4,0,0
+1787204207504,5,UserManual,200,OK,ApacheJmeter 3-8,text,true,,47114,136,8,24,https://jmeter.apache.org/usermanual/index.html,4,0,0
+1787204207509,6,BestPractices,200,OK,ApacheJmeter 3-8,text,true,,42305,145,8,24,https://jmeter.apache.org/usermanual/best-practices.html,5,0,0
+1787204207349,208,Downloads,200,OK,ApacheJmeter 3-6,text,true,,18888,134,9,27,https://jmeter.apache.org/download_jmeter.cgi,208,0,0
+1787204207558,12,GetStarted,200,OK,ApacheJmeter 3-6,text,true,,101879,142,9,27,https://jmeter.apache.org/usermanual/get-started.html,8,0,0
+1787204207572,14,ReleaseNotes,200,OK,ApacheJmeter 3-6,text,true,,32303,127,9,27,https://jmeter.apache.org/changes.html,14,0,0
+1787204207557,34,GetStarted,200,OK,ApacheJmeter 3-9,text,true,,101879,142,9,27,https://jmeter.apache.org/usermanual/get-started.html,29,0,15
+1787204207586,8,UserManual,200,OK,ApacheJmeter 3-6,text,true,,47114,136,9,27,https://jmeter.apache.org/usermanual/index.html,6,0,0
+1787204207591,5,ReleaseNotes,200,OK,ApacheJmeter 3-9,text,true,,32302,127,9,27,https://jmeter.apache.org/changes.html,5,0,0
+1787204207594,6,BestPractices,200,OK,ApacheJmeter 3-6,text,true,,42305,145,9,27,https://jmeter.apache.org/usermanual/best-practices.html,4,0,0
+1787204207596,6,UserManual,200,OK,ApacheJmeter 3-9,text,true,,47113,136,9,27,https://jmeter.apache.org/usermanual/index.html,6,0,0
+1787204207603,13,BestPractices,200,OK,ApacheJmeter 3-9,text,true,,42305,145,9,27,https://jmeter.apache.org/usermanual/best-practices.html,4,0,0
+1787204207405,222,Downloads,200,OK,ApacheJmeter 3-7,text,true,,18888,134,9,28,https://jmeter.apache.org/download_jmeter.cgi,218,0,0
+1787204207627,11,GetStarted,200,OK,ApacheJmeter 3-7,text,true,,101878,142,9,28,https://jmeter.apache.org/usermanual/get-started.html,8,0,0
+1787204207638,13,ReleaseNotes,200,OK,ApacheJmeter 3-7,text,true,,32302,127,9,29,https://jmeter.apache.org/changes.html,13,0,0
+1787204207652,16,UserManual,200,OK,ApacheJmeter 3-7,text,true,,47114,136,10,30,https://jmeter.apache.org/usermanual/index.html,16,0,0
+1787204207669,14,BestPractices,200,OK,ApacheJmeter 3-7,text,true,,42305,145,10,30,https://jmeter.apache.org/usermanual/best-practices.html,13,0,0
+1787204207488,212,Downloads,200,OK,ApacheJmeter 3-2,text,true,,18889,134,10,30,https://jmeter.apache.org/download_jmeter.cgi,194,0,0
+1787204207654,58,GetStarted,200,OK,ApacheJmeter 3-10,text,true,,101878,142,10,30,https://jmeter.apache.org/usermanual/get-started.html,46,0,32
+1787204207487,225,Downloads,200,OK,ApacheJmeter 3-3,text,true,,18889,134,10,30,https://jmeter.apache.org/download_jmeter.cgi,213,0,0
+1787204207487,225,Downloads,200,OK,ApacheJmeter 3-5,text,true,,18888,134,10,30,https://jmeter.apache.org/download_jmeter.cgi,225,0,0
+1787204207712,8,ReleaseNotes,200,OK,ApacheJmeter 3-10,text,true,,32302,127,10,30,https://jmeter.apache.org/changes.html,7,0,0
+1787204207713,9,GetStarted,200,OK,ApacheJmeter 3-5,text,true,,101879,142,10,30,https://jmeter.apache.org/usermanual/get-started.html,5,0,0
+1787204207720,8,UserManual,200,OK,ApacheJmeter 3-10,text,true,,47114,136,10,30,https://jmeter.apache.org/usermanual/index.html,6,0,0
+1787204207700,28,GetStarted,200,OK,ApacheJmeter 3-2,text,true,,101878,142,10,30,https://jmeter.apache.org/usermanual/get-started.html,11,0,0
+1787204207712,17,GetStarted,200,OK,ApacheJmeter 3-3,text,true,,101879,142,10,30,https://jmeter.apache.org/usermanual/get-started.html,7,0,0
+1787204207722,8,ReleaseNotes,200,OK,ApacheJmeter 3-5,text,true,,32302,127,10,30,https://jmeter.apache.org/changes.html,7,0,0
+1787204207729,4,ReleaseNotes,200,OK,ApacheJmeter 3-3,text,true,,32303,127,10,30,https://jmeter.apache.org/changes.html,4,0,0
+1787204207730,5,UserManual,200,OK,ApacheJmeter 3-5,text,true,,47114,136,10,30,https://jmeter.apache.org/usermanual/index.html,5,0,0
+1787204207730,12,ReleaseNotes,200,OK,ApacheJmeter 3-2,text,true,,32302,127,10,30,https://jmeter.apache.org/changes.html,5,0,0
+1787204207728,15,BestPractices,200,OK,ApacheJmeter 3-10,text,true,,42305,145,10,30,https://jmeter.apache.org/usermanual/best-practices.html,7,0,0
+1787204207736,7,BestPractices,200,OK,ApacheJmeter 3-5,text,true,,42306,145,10,30,https://jmeter.apache.org/usermanual/best-practices.html,7,0,0
+1787204207734,10,UserManual,200,OK,ApacheJmeter 3-3,text,true,,47114,136,10,30,https://jmeter.apache.org/usermanual/index.html,9,0,0
+1787204207744,6,BestPractices,200,OK,ApacheJmeter 3-3,text,true,,42306,145,10,30,https://jmeter.apache.org/usermanual/best-practices.html,6,0,0
+1787204207742,10,UserManual,200,OK,ApacheJmeter 3-2,text,true,,47114,136,10,30,https://jmeter.apache.org/usermanual/index.html,7,0,0
+1787204207753,13,BestPractices,200,OK,ApacheJmeter 3-2,text,true,,42305,145,10,30,https://jmeter.apache.org/usermanual/best-practices.html,12,0,0
+1787204207515,282,Downloads,200,OK,ApacheJmeter 3-8,text,true,,18888,134,10,30,https://jmeter.apache.org/download_jmeter.cgi,271,0,0
+1787204207601,200,Downloads,200,OK,ApacheJmeter 3-6,text,true,,18881,134,10,30,https://jmeter.apache.org/download_jmeter.cgi,200,0,0
+1787204207797,9,GetStarted,200,OK,ApacheJmeter 3-8,text,true,,101878,142,10,30,https://jmeter.apache.org/usermanual/get-started.html,7,0,0
+1787204207806,9,ReleaseNotes,200,OK,ApacheJmeter 3-8,text,true,,32302,127,10,30,https://jmeter.apache.org/changes.html,9,0,0
+1787204207801,15,GetStarted,200,OK,ApacheJmeter 3-6,text,true,,101879,142,10,30,https://jmeter.apache.org/usermanual/get-started.html,4,0,0
+1787204207817,13,ReleaseNotes,200,OK,ApacheJmeter 3-6,text,true,,32303,127,10,30,https://jmeter.apache.org/changes.html,8,0,0
+1787204207817,13,UserManual,200,OK,ApacheJmeter 3-8,text,true,,47114,136,10,30,https://jmeter.apache.org/usermanual/index.html,13,0,0
+1787204207831,5,BestPractices,200,OK,ApacheJmeter 3-8,text,true,,42305,145,10,30,https://jmeter.apache.org/usermanual/best-practices.html,4,0,0
+1787204207830,8,UserManual,200,OK,ApacheJmeter 3-6,text,true,,47114,136,10,30,https://jmeter.apache.org/usermanual/index.html,5,0,0
+1787204207838,5,BestPractices,200,OK,ApacheJmeter 3-6,text,true,,42306,145,10,30,https://jmeter.apache.org/usermanual/best-practices.html,4,0,0
+1787204207616,248,Downloads,200,OK,ApacheJmeter 3-9,text,true,,18888,134,10,30,https://jmeter.apache.org/download_jmeter.cgi,239,0,0
+1787204207865,6,GetStarted,200,OK,ApacheJmeter 3-9,text,true,,101879,142,10,30,https://jmeter.apache.org/usermanual/get-started.html,4,0,0
+1787204207871,5,ReleaseNotes,200,OK,ApacheJmeter 3-9,text,true,,32302,127,10,30,https://jmeter.apache.org/changes.html,5,0,0
+1787204207876,24,UserManual,200,OK,ApacheJmeter 3-9,text,true,,47114,136,10,30,https://jmeter.apache.org/usermanual/index.html,4,0,0
+1787204207900,5,BestPractices,200,OK,ApacheJmeter 3-9,text,true,,42305,145,10,30,https://jmeter.apache.org/usermanual/best-practices.html,5,0,0
+1787204207743,221,Downloads,200,OK,ApacheJmeter 3-5,text,true,,18888,134,10,30,https://jmeter.apache.org/download_jmeter.cgi,219,0,0
+1787204207964,7,GetStarted,200,OK,ApacheJmeter 3-5,text,true,,101879,142,10,30,https://jmeter.apache.org/usermanual/get-started.html,6,0,0
+1787204207971,4,ReleaseNotes,200,OK,ApacheJmeter 3-5,text,true,,32302,127,10,30,https://jmeter.apache.org/changes.html,4,0,0
+1787204207743,233,Downloads,200,OK,ApacheJmeter 3-10,text,true,,18888,134,10,30,https://jmeter.apache.org/download_jmeter.cgi,231,0,0
+1787204207975,4,UserManual,200,OK,ApacheJmeter 3-5,text,true,,47114,136,10,30,https://jmeter.apache.org/usermanual/index.html,3,0,0
+1787204207977,6,GetStarted,200,OK,ApacheJmeter 3-10,text,true,,101878,142,10,30,https://jmeter.apache.org/usermanual/get-started.html,4,0,0
+1787204207979,5,BestPractices,200,OK,ApacheJmeter 3-5,text,true,,42306,145,10,30,https://jmeter.apache.org/usermanual/best-practices.html,4,0,0
+1787204207984,4,ReleaseNotes,200,OK,ApacheJmeter 3-10,text,true,,32302,127,10,30,https://jmeter.apache.org/changes.html,4,0,0
+1787204207751,240,Downloads,200,OK,ApacheJmeter 3-3,text,true,,18889,134,10,30,https://jmeter.apache.org/download_jmeter.cgi,219,0,0
+1787204207989,4,UserManual,200,OK,ApacheJmeter 3-10,text,true,,47114,136,10,30,https://jmeter.apache.org/usermanual/index.html,4,0,0
+1787204207991,6,GetStarted,200,OK,ApacheJmeter 3-3,text,true,,101879,142,10,30,https://jmeter.apache.org/usermanual/get-started.html,4,0,0
+1787204207993,5,BestPractices,200,OK,ApacheJmeter 3-10,text,true,,42305,145,10,30,https://jmeter.apache.org/usermanual/best-practices.html,4,0,0
+1787204207997,4,ReleaseNotes,200,OK,ApacheJmeter 3-3,text,true,,32303,127,10,30,https://jmeter.apache.org/changes.html,4,0,0
+1787204208001,4,UserManual,200,OK,ApacheJmeter 3-3,text,true,,47114,136,10,30,https://jmeter.apache.org/usermanual/index.html,4,0,0
+1787204208005,4,BestPractices,200,OK,ApacheJmeter 3-3,text,true,,42306,145,10,30,https://jmeter.apache.org/usermanual/best-practices.html,4,0,0
+1787204207766,246,Downloads,200,OK,ApacheJmeter 3-2,text,true,,18888,134,10,30,https://jmeter.apache.org/download_jmeter.cgi,241,0,0
+1787204208012,11,GetStarted,200,OK,ApacheJmeter 3-2,text,true,,101878,142,10,30,https://jmeter.apache.org/usermanual/get-started.html,3,0,0
+1787204207417,607,Downloads,200,OK,ApacheJmeter 3-4,text,true,,18916,134,10,30,https://jmeter.apache.org/download_jmeter.cgi,597,0,0
+1787204208024,15,ReleaseNotes,200,OK,ApacheJmeter 3-2,text,true,,32302,127,10,30,https://jmeter.apache.org/changes.html,14,0,0
+1787204208024,17,GetStarted,200,OK,ApacheJmeter 3-4,text,true,,101879,142,10,30,https://jmeter.apache.org/usermanual/get-started.html,16,0,0
+1787204208039,21,UserManual,200,OK,ApacheJmeter 3-2,text,true,,47114,136,10,30,https://jmeter.apache.org/usermanual/index.html,20,0,0
+1787204208041,19,ReleaseNotes,200,OK,ApacheJmeter 3-4,text,true,,32303,127,10,30,https://jmeter.apache.org/changes.html,18,0,0
+1787204207843,218,Downloads,200,OK,ApacheJmeter 3-6,text,true,,18888,134,10,30,https://jmeter.apache.org/download_jmeter.cgi,218,0,0
+1787204207837,223,Downloads,200,OK,ApacheJmeter 3-8,text,true,,18888,134,10,30,https://jmeter.apache.org/download_jmeter.cgi,222,0,0
+1787204208060,13,BestPractices,200,OK,ApacheJmeter 3-2,text,true,,42305,145,10,30,https://jmeter.apache.org/usermanual/best-practices.html,6,0,0
+1787204208061,13,UserManual,200,OK,ApacheJmeter 3-4,text,true,,47114,136,10,30,https://jmeter.apache.org/usermanual/index.html,11,0,0
+1787204206842,1232,Products,200,OK,AutomationExecrise 2-2,text,true,,48948,128,10,30,https://automationexercise.com/products,1230,0,273
+1787204208063,12,GetStarted,200,OK,ApacheJmeter 3-8,text,true,,101878,142,10,30,https://jmeter.apache.org/usermanual/get-started.html,8,0,0
+1787204208062,15,GetStarted,200,OK,ApacheJmeter 3-6,text,true,,101879,142,10,30,https://jmeter.apache.org/usermanual/get-started.html,10,0,0
+1787204208074,5,BestPractices,200,OK,ApacheJmeter 3-4,text,true,,42306,145,10,30,https://jmeter.apache.org/usermanual/best-practices.html,4,0,0
+1787204208075,6,ReleaseNotes,200,OK,ApacheJmeter 3-8,text,true,,32302,127,10,30,https://jmeter.apache.org/changes.html,6,0,0
+1787204208077,5,ReleaseNotes,200,OK,ApacheJmeter 3-6,text,true,,32303,127,10,30,https://jmeter.apache.org/changes.html,4,0,0
+1787204208081,6,UserManual,200,OK,ApacheJmeter 3-8,text,true,,47114,136,10,30,https://jmeter.apache.org/usermanual/index.html,6,0,0
+1787204208082,7,UserManual,200,OK,ApacheJmeter 3-6,text,true,,47114,136,10,30,https://jmeter.apache.org/usermanual/index.html,7,0,0
+1787204208087,5,BestPractices,200,OK,ApacheJmeter 3-8,text,true,,42305,145,10,30,https://jmeter.apache.org/usermanual/best-practices.html,5,0,0
+1787204208090,6,BestPractices,200,OK,ApacheJmeter 3-6,text,true,,42306,145,10,30,https://jmeter.apache.org/usermanual/best-practices.html,6,0,0
+1787204207905,229,Downloads,200,OK,ApacheJmeter 3-9,text,true,,18889,134,10,30,https://jmeter.apache.org/download_jmeter.cgi,220,0,0
+1787204208134,5,GetStarted,200,OK,ApacheJmeter 3-9,text,true,,101879,142,10,30,https://jmeter.apache.org/usermanual/get-started.html,4,0,0
+1787204208140,3,ReleaseNotes,200,OK,ApacheJmeter 3-9,text,true,,32302,127,10,30,https://jmeter.apache.org/changes.html,3,0,0
+1787204206812,1335,Products,200,OK,AutomationExecrise 2-1,text,true,,48943,128,10,30,https://automationexercise.com/products,1334,0,310
+1787204208144,4,UserManual,200,OK,ApacheJmeter 3-9,text,true,,47114,136,10,30,https://jmeter.apache.org/usermanual/index.html,4,0,0
+1787204207492,668,Downloads,200,OK,ApacheJmeter 3-1,text,true,,18888,134,10,30,https://jmeter.apache.org/download_jmeter.cgi,633,0,0
+1787204208148,12,BestPractices,200,OK,ApacheJmeter 3-9,text,true,,42305,145,10,30,https://jmeter.apache.org/usermanual/best-practices.html,12,0,0
+1787204207042,1134,Products,200,OK,AutomationExecrise 2-4,text,true,,48943,128,10,30,https://automationexercise.com/products,1121,0,72
+1787204208161,15,GetStarted,200,OK,ApacheJmeter 3-1,text,true,,101879,142,10,30,https://jmeter.apache.org/usermanual/get-started.html,14,0,0
+1787204208176,3,ReleaseNotes,200,OK,ApacheJmeter 3-1,text,true,,32302,127,10,30,https://jmeter.apache.org/changes.html,3,0,0
+1787204208180,11,UserManual,200,OK,ApacheJmeter 3-1,text,true,,47114,136,10,30,https://jmeter.apache.org/usermanual/index.html,11,0,0
+1787204206946,1246,Products,200,OK,AutomationExecrise 2-3,text,true,,48949,128,10,30,https://automationexercise.com/products,1245,0,168
+1787204208191,17,BestPractices,200,OK,ApacheJmeter 3-1,text,true,,42306,145,10,30,https://jmeter.apache.org/usermanual/best-practices.html,17,0,0
+1787204207998,223,Downloads,200,OK,ApacheJmeter 3-10,text,true,,18888,134,10,30,https://jmeter.apache.org/download_jmeter.cgi,223,0,0
+1787204207984,237,Downloads,200,OK,ApacheJmeter 3-5,text,true,,18889,134,10,30,https://jmeter.apache.org/download_jmeter.cgi,225,0,0
+1787204208222,7,GetStarted,200,OK,ApacheJmeter 3-10,text,true,,101878,142,10,30,https://jmeter.apache.org/usermanual/get-started.html,5,0,0
+1787204208222,7,GetStarted,200,OK,ApacheJmeter 3-5,text,true,,101879,142,10,30,https://jmeter.apache.org/usermanual/get-started.html,7,0,0
+1787204208010,226,Downloads,200,OK,ApacheJmeter 3-3,text,true,,18888,134,10,30,https://jmeter.apache.org/download_jmeter.cgi,220,0,0
+1787204208229,7,ReleaseNotes,200,OK,ApacheJmeter 3-5,text,true,,32303,127,10,30,https://jmeter.apache.org/changes.html,7,0,0
+1787204208229,7,ReleaseNotes,200,OK,ApacheJmeter 3-10,text,true,,32302,127,10,30,https://jmeter.apache.org/changes.html,7,0,0
+1787204208236,12,UserManual,200,OK,ApacheJmeter 3-10,text,true,,47114,136,10,30,https://jmeter.apache.org/usermanual/index.html,12,0,0
+1787204208236,12,UserManual,200,OK,ApacheJmeter 3-5,text,true,,47114,136,10,30,https://jmeter.apache.org/usermanual/index.html,12,0,0
+1787204208236,13,GetStarted,200,OK,ApacheJmeter 3-3,text,true,,101879,142,10,30,https://jmeter.apache.org/usermanual/get-started.html,12,0,0
+1787204208249,5,BestPractices,200,OK,ApacheJmeter 3-10,text,true,,42305,145,10,30,https://jmeter.apache.org/usermanual/best-practices.html,5,0,0
+1787204208249,5,ReleaseNotes,200,OK,ApacheJmeter 3-3,text,true,,32303,127,10,30,https://jmeter.apache.org/changes.html,5,0,0
+1787204208249,9,BestPractices,200,OK,ApacheJmeter 3-5,text,true,,42306,145,10,30,https://jmeter.apache.org/usermanual/best-practices.html,9,0,0
+1787204208255,5,UserManual,200,OK,ApacheJmeter 3-3,text,true,,47114,136,10,30,https://jmeter.apache.org/usermanual/index.html,4,0,0
+1787204208260,5,BestPractices,200,OK,ApacheJmeter 3-3,text,true,,42306,145,10,30,https://jmeter.apache.org/usermanual/best-practices.html,5,0,0
+1787204207239,1040,Products,200,OK,AutomationExecrise 2-6,text,true,,48944,128,10,30,https://automationexercise.com/products,1035,0,36
+1787204207144,1143,Products,200,OK,AutomationExecrise 2-5,text,true,,48941,128,10,30,https://automationexercise.com/products,1142,0,31
+1787204208073,222,Downloads,200,OK,ApacheJmeter 3-2,text,true,,18889,134,10,30,https://jmeter.apache.org/download_jmeter.cgi,213,0,0
+1787204208079,223,Downloads,200,OK,ApacheJmeter 3-4,text,true,,18888,134,10,30,https://jmeter.apache.org/download_jmeter.cgi,223,0,0
+1787204208295,11,GetStarted,200,OK,ApacheJmeter 3-2,text,true,,101878,142,10,30,https://jmeter.apache.org/usermanual/get-started.html,7,0,0
+1787204207683,623,Downloads,200,OK,ApacheJmeter 3-7,text,true,,18889,134,10,30,https://jmeter.apache.org/download_jmeter.cgi,442,0,0
+1787204208303,6,GetStarted,200,OK,ApacheJmeter 3-4,text,true,,101879,142,10,30,https://jmeter.apache.org/usermanual/get-started.html,5,0,0
+1787204208097,214,Downloads,200,OK,ApacheJmeter 3-6,text,true,,18881,134,10,30,https://jmeter.apache.org/download_jmeter.cgi,214,0,0
+1787204208306,6,ReleaseNotes,200,OK,ApacheJmeter 3-2,text,true,,32302,127,10,30,https://jmeter.apache.org/changes.html,5,0,0
+1787204208306,7,GetStarted,200,OK,ApacheJmeter 3-7,text,true,,101878,142,10,30,https://jmeter.apache.org/usermanual/get-started.html,5,0,0
+1787204208309,7,ReleaseNotes,200,OK,ApacheJmeter 3-4,text,true,,32303,127,10,30,https://jmeter.apache.org/changes.html,7,0,0
+1787204208313,7,ReleaseNotes,200,OK,ApacheJmeter 3-7,text,true,,32302,127,10,30,https://jmeter.apache.org/changes.html,7,0,0
+1787204208313,7,UserManual,200,OK,ApacheJmeter 3-2,text,true,,47114,136,10,30,https://jmeter.apache.org/usermanual/index.html,7,0,0
+1787204208317,10,UserManual,200,OK,ApacheJmeter 3-4,text,true,,47114,136,10,30,https://jmeter.apache.org/usermanual/index.html,10,0,0
+1787204208312,15,GetStarted,200,OK,ApacheJmeter 3-6,text,true,,101879,142,10,30,https://jmeter.apache.org/usermanual/get-started.html,4,0,0
+1787204208320,8,BestPractices,200,OK,ApacheJmeter 3-2,text,true,,42305,145,10,30,https://jmeter.apache.org/usermanual/best-practices.html,7,0,0
+1787204208320,9,UserManual,200,OK,ApacheJmeter 3-7,text,true,,47114,136,10,30,https://jmeter.apache.org/usermanual/index.html,9,0,0
+1787204208327,6,ReleaseNotes,200,OK,ApacheJmeter 3-6,text,true,,32303,127,10,30,https://jmeter.apache.org/changes.html,5,0,0
+1787204208327,6,BestPractices,200,OK,ApacheJmeter 3-4,text,true,,42306,145,10,30,https://jmeter.apache.org/usermanual/best-practices.html,6,0,0
+1787204208329,7,BestPractices,200,OK,ApacheJmeter 3-7,text,true,,42305,145,10,30,https://jmeter.apache.org/usermanual/best-practices.html,7,0,0
+1787204208333,5,UserManual,200,OK,ApacheJmeter 3-6,text,true,,47114,136,10,30,https://jmeter.apache.org/usermanual/index.html,4,0,0
+1787204208093,248,Downloads,200,OK,ApacheJmeter 3-8,text,true,,18889,134,10,30,https://jmeter.apache.org/download_jmeter.cgi,228,0,0
+1787204208339,4,BestPractices,200,OK,ApacheJmeter 3-6,text,true,,42306,145,10,30,https://jmeter.apache.org/usermanual/best-practices.html,4,0,0
+1787204208075,272,Cart,200,OK,AutomationExecrise 2-2,text,true,,8274,129,10,30,https://automationexercise.com/view_cart,272,0,0
+1787204208342,8,GetStarted,200,OK,ApacheJmeter 3-8,text,true,,101878,142,10,30,https://jmeter.apache.org/usermanual/get-started.html,5,0,0
+1787204208350,5,ReleaseNotes,200,OK,ApacheJmeter 3-8,text,true,,32302,127,10,30,https://jmeter.apache.org/changes.html,5,0,0
+1787204208355,5,UserManual,200,OK,ApacheJmeter 3-8,text,true,,47114,136,10,30,https://jmeter.apache.org/usermanual/index.html,5,0,0
+1787204208360,12,BestPractices,200,OK,ApacheJmeter 3-8,text,true,,42305,145,10,30,https://jmeter.apache.org/usermanual/best-practices.html,4,0,0
+1787204207341,1045,Products,200,OK,AutomationExecrise 2-7,text,true,,48943,128,10,30,https://automationexercise.com/products,1038,0,22
+1787204207449,938,Products,200,OK,AutomationExecrise 2-8,text,true,,48940,128,10,30,https://automationexercise.com/products,937,0,20
+1787204208146,243,Cart,200,OK,AutomationExecrise 2-1,text,true,,8272,129,10,30,https://automationexercise.com/view_cart,243,0,0
+1787204208209,224,Downloads,200,OK,ApacheJmeter 3-1,text,true,,18889,134,10,30,https://jmeter.apache.org/download_jmeter.cgi,207,0,0
+1787204208192,241,Cart,200,OK,AutomationExecrise 2-3,text,true,,8266,129,10,30,https://automationexercise.com/view_cart,241,0,0
+1787204208176,264,Cart,200,OK,AutomationExecrise 2-4,text,true,,8270,129,10,30,https://automationexercise.com/view_cart,262,0,0
+1787204208434,6,GetStarted,200,OK,ApacheJmeter 3-1,text,true,,101879,142,10,30,https://jmeter.apache.org/usermanual/get-started.html,4,0,0
+1787204208440,5,ReleaseNotes,200,OK,ApacheJmeter 3-1,text,true,,32303,127,10,30,https://jmeter.apache.org/changes.html,5,0,0
+1787204208445,6,UserManual,200,OK,ApacheJmeter 3-1,text,true,,47114,136,10,30,https://jmeter.apache.org/usermanual/index.html,6,0,0
+1787204208452,4,BestPractices,200,OK,ApacheJmeter 3-1,text,true,,42306,145,10,30,https://jmeter.apache.org/usermanual/best-practices.html,3,0,0
+1787204208266,199,Downloads,200,OK,ApacheJmeter 3-3,text,true,,18881,134,10,30,https://jmeter.apache.org/download_jmeter.cgi,199,0,0
+1787204207546,967,Products,200,OK,AutomationExecrise 2-9,text,true,,48940,128,10,29,https://automationexercise.com/products,964,0,19
+1787204208328,193,Downloads,200,OK,ApacheJmeter 3-2,text,true,,18888,134,9,29,https://jmeter.apache.org/download_jmeter.cgi,191,0,0
+1787204208333,198,Downloads,200,OK,ApacheJmeter 3-4,text,true,,18881,134,8,28,https://jmeter.apache.org/download_jmeter.cgi,198,0,0
+1787204208531,5,GetStarted,200,OK,ApacheJmeter 3-4,text,true,,101879,142,8,28,https://jmeter.apache.org/usermanual/get-started.html,4,0,0
+1787204208337,202,Downloads,200,OK,ApacheJmeter 3-7,text,true,,18888,134,8,28,https://jmeter.apache.org/download_jmeter.cgi,201,0,0
+1787204208536,4,ReleaseNotes,200,OK,ApacheJmeter 3-4,text,true,,32303,127,8,28,https://jmeter.apache.org/changes.html,4,0,0
+1787204208539,10,GetStarted,200,OK,ApacheJmeter 3-7,text,true,,101878,142,8,28,https://jmeter.apache.org/usermanual/get-started.html,4,0,0
+1787204208279,270,Cart,200,OK,AutomationExecrise 2-6,text,true,,8276,129,10,28,https://automationexercise.com/view_cart,270,0,0
+1787204208541,8,UserManual,200,OK,ApacheJmeter 3-4,text,true,,47114,136,8,28,https://jmeter.apache.org/usermanual/index.html,8,0,0
+1787204208550,3,ReleaseNotes,200,OK,ApacheJmeter 3-7,text,true,,32302,127,8,28,https://jmeter.apache.org/changes.html,3,0,0
+1787204208550,5,BestPractices,200,OK,ApacheJmeter 3-4,text,true,,42306,145,8,28,https://jmeter.apache.org/usermanual/best-practices.html,4,0,0
+1787204208344,218,Downloads,200,OK,ApacheJmeter 3-6,text,true,,18888,134,8,28,https://jmeter.apache.org/download_jmeter.cgi,218,0,0
+1787204208553,9,UserManual,200,OK,ApacheJmeter 3-7,text,true,,47114,136,8,28,https://jmeter.apache.org/usermanual/index.html,9,0,0
+1787204208563,6,BestPractices,200,OK,ApacheJmeter 3-7,text,true,,42305,145,7,27,https://jmeter.apache.org/usermanual/best-practices.html,6,0,0
+1787204206825,1752,UnitConversions,200,OK,EasyCalculations 1-2,text,true,,24641,288,10,27,https://www.easycalculation.com/unit-conversion/index.php,725,0,491
+1787204206825,725,UnitConversions-0,301,Moved Permanently,EasyCalculations 1-2,text,true,,387,142,10,27,https://easycalculation.com/unit-conversion/index.php,725,0,491
+1787204207552,1025,UnitConversions-1,200,OK,EasyCalculations 1-2,text,true,,24254,146,10,27,https://www.easycalculation.com/unit-conversion/index.php,775,0,515
+1787204208372,217,Downloads,200,OK,ApacheJmeter 3-8,text,true,,18889,134,7,27,https://jmeter.apache.org/download_jmeter.cgi,210,0,0
+1787204208590,7,GetStarted,200,OK,ApacheJmeter 3-8,text,true,,101878,142,7,27,https://jmeter.apache.org/usermanual/get-started.html,5,0,0
+1787204208598,3,ReleaseNotes,200,OK,ApacheJmeter 3-8,text,true,,32302,127,7,27,https://jmeter.apache.org/changes.html,3,0,0
+1787204208602,4,UserManual,200,OK,ApacheJmeter 3-8,text,true,,47114,136,7,27,https://jmeter.apache.org/usermanual/index.html,3,0,0
+1787204208606,4,BestPractices,200,OK,ApacheJmeter 3-8,text,true,,42305,145,7,27,https://jmeter.apache.org/usermanual/best-practices.html,4,0,0
+1787204206812,1807,UnitConversions,200,OK,EasyCalculations 1-1,text,true,,24641,288,10,27,https://www.easycalculation.com/unit-conversion/index.php,813,0,556
+1787204206812,813,UnitConversions-0,301,Moved Permanently,EasyCalculations 1-1,text,true,,387,142,10,27,https://easycalculation.com/unit-conversion/index.php,813,0,556
+1787204207624,995,UnitConversions-1,200,OK,EasyCalculations 1-1,text,true,,24254,146,10,27,https://www.easycalculation.com/unit-conversion/index.php,750,0,502
+1787204206928,1697,UnitConversions,200,OK,EasyCalculations 1-3,text,true,,24641,288,10,27,https://www.easycalculation.com/unit-conversion/index.php,755,0,507
+1787204206928,755,UnitConversions-0,301,Moved Permanently,EasyCalculations 1-3,text,true,,387,142,10,27,https://easycalculation.com/unit-conversion/index.php,755,0,507
+1787204207685,940,UnitConversions-1,200,OK,EasyCalculations 1-3,text,true,,24254,146,10,27,https://www.easycalculation.com/unit-conversion/index.php,939,0,476
+1787204208161,487,Downloads,200,OK,ApacheJmeter 3-9,text,true,,18888,134,7,27,https://jmeter.apache.org/download_jmeter.cgi,452,0,0
+1787204208648,5,GetStarted,200,OK,ApacheJmeter 3-9,text,true,,101879,142,7,27,https://jmeter.apache.org/usermanual/get-started.html,4,0,0
+1787204208654,4,ReleaseNotes,200,OK,ApacheJmeter 3-9,text,true,,32303,127,7,27,https://jmeter.apache.org/changes.html,3,0,0
+1787204208347,317,TestCases,200,OK,AutomationExecrise 2-2,text,true,,43765,130,10,27,https://automationexercise.com/test_cases,317,0,0
+1787204208658,6,UserManual,200,OK,ApacheJmeter 3-9,text,true,,47114,136,7,27,https://jmeter.apache.org/usermanual/index.html,6,0,0
+1787204208287,379,Cart,200,OK,AutomationExecrise 2-5,text,true,,8266,129,10,27,https://automationexercise.com/view_cart,379,0,0
+1787204208665,3,BestPractices,200,OK,ApacheJmeter 3-9,text,true,,42305,145,7,27,https://jmeter.apache.org/usermanual/best-practices.html,3,0,0
+1787204208456,218,Downloads,200,OK,ApacheJmeter 3-1,text,true,,18888,134,7,27,https://jmeter.apache.org/download_jmeter.cgi,215,0,0
+1787204208387,288,Cart,200,OK,AutomationExecrise 2-8,text,true,,8276,129,10,27,https://automationexercise.com/view_cart,287,0,0
+1787204208386,289,Cart,200,OK,AutomationExecrise 2-7,text,true,,8268,129,10,27,https://automationexercise.com/view_cart,289,0,0
+1787204208674,7,GetStarted,200,OK,ApacheJmeter 3-1,text,true,,101879,142,7,27,https://jmeter.apache.org/usermanual/get-started.html,7,0,0
+1787204208682,4,ReleaseNotes,200,OK,ApacheJmeter 3-1,text,true,,32303,127,7,27,https://jmeter.apache.org/changes.html,4,0,0
+1787204208686,4,UserManual,200,OK,ApacheJmeter 3-1,text,true,,47114,136,7,27,https://jmeter.apache.org/usermanual/index.html,4,0,0
+1787204208690,5,BestPractices,200,OK,ApacheJmeter 3-1,text,true,,42306,145,7,27,https://jmeter.apache.org/usermanual/best-practices.html,4,0,0
+1787204208254,444,Downloads,200,OK,ApacheJmeter 3-10,text,true,,18888,134,7,27,https://jmeter.apache.org/download_jmeter.cgi,427,0,0
+1787204208698,6,GetStarted,200,OK,ApacheJmeter 3-10,text,true,,101878,142,7,27,https://jmeter.apache.org/usermanual/get-started.html,4,0,0
+1787204208704,4,ReleaseNotes,200,OK,ApacheJmeter 3-10,text,true,,32302,127,7,27,https://jmeter.apache.org/changes.html,4,0,0
+1787204208708,5,UserManual,200,OK,ApacheJmeter 3-10,text,true,,47114,136,7,27,https://jmeter.apache.org/usermanual/index.html,4,0,0
+1787204208713,4,BestPractices,200,OK,ApacheJmeter 3-10,text,true,,42305,145,7,27,https://jmeter.apache.org/usermanual/best-practices.html,3,0,0
+1787204208389,357,TestCases,200,OK,AutomationExecrise 2-1,text,true,,43769,130,10,27,https://automationexercise.com/test_cases,356,0,0
+1787204208434,315,TestCases,200,OK,AutomationExecrise 2-3,text,true,,43767,130,10,27,https://automationexercise.com/test_cases,314,0,0
+1787204208440,315,TestCases,200,OK,AutomationExecrise 2-4,text,true,,43767,130,10,27,https://automationexercise.com/test_cases,314,0,0
+1787204208555,209,Downloads,200,OK,ApacheJmeter 3-4,text,true,,18889,134,7,27,https://jmeter.apache.org/download_jmeter.cgi,206,0,0
+1787204207649,1124,Products,200,OK,AutomationExecrise 2-10,text,true,,48943,128,10,26,https://automationexercise.com/products,1122,0,21
+1787204207033,1742,UnitConversions,200,OK,EasyCalculations 1-4,text,true,,24641,288,10,26,https://www.easycalculation.com/unit-conversion/index.php,745,0,503
+1787204207033,745,UnitConversions-0,301,Moved Permanently,EasyCalculations 1-4,text,true,,387,142,10,26,https://easycalculation.com/unit-conversion/index.php,745,0,503
+1787204207778,997,UnitConversions-1,200,OK,EasyCalculations 1-4,text,true,,24254,146,10,26,https://www.easycalculation.com/unit-conversion/index.php,995,0,500
+1787204208569,215,Downloads,200,OK,ApacheJmeter 3-7,text,true,,18888,134,6,26,https://jmeter.apache.org/download_jmeter.cgi,212,0,0
+1787204208784,6,GetStarted,200,OK,ApacheJmeter 3-7,text,true,,101878,142,6,26,https://jmeter.apache.org/usermanual/get-started.html,5,0,0
+1787204208790,8,ReleaseNotes,200,OK,ApacheJmeter 3-7,text,true,,32302,127,6,26,https://jmeter.apache.org/changes.html,8,0,0
+1787204208799,4,UserManual,200,OK,ApacheJmeter 3-7,text,true,,47114,136,6,26,https://jmeter.apache.org/usermanual/index.html,4,0,0
+1787204208803,4,BestPractices,200,OK,ApacheJmeter 3-7,text,true,,42305,145,6,26,https://jmeter.apache.org/usermanual/best-practices.html,4,0,0
+1787204208550,297,TestCases,200,OK,AutomationExecrise 2-6,text,true,,43773,130,10,26,https://automationexercise.com/test_cases,297,0,0
+1787204208258,591,Downloads,200,OK,ApacheJmeter 3-5,text,true,,18888,134,6,26,https://jmeter.apache.org/download_jmeter.cgi,591,0,0
+1787204208513,338,Cart,200,OK,AutomationExecrise 2-9,text,true,,8272,129,10,25,https://automationexercise.com/view_cart,338,0,0
+1787204208610,260,Downloads,200,OK,ApacheJmeter 3-8,text,true,,18888,134,5,25,https://jmeter.apache.org/download_jmeter.cgi,260,0,0
+1787204208669,227,Downloads,200,OK,ApacheJmeter 3-9,text,true,,18889,134,4,24,https://jmeter.apache.org/download_jmeter.cgi,218,0,0
+1787204207137,1763,UnitConversions,200,OK,EasyCalculations 1-5,text,true,,24641,288,10,24,https://www.easycalculation.com/unit-conversion/index.php,763,0,509
+1787204207137,763,UnitConversions-0,301,Moved Permanently,EasyCalculations 1-5,text,true,,387,142,10,24,https://easycalculation.com/unit-conversion/index.php,763,0,509
+1787204207901,999,UnitConversions-1,200,OK,EasyCalculations 1-5,text,true,,24254,146,10,24,https://www.easycalculation.com/unit-conversion/index.php,753,0,502
+1787204208897,11,GetStarted,200,OK,ApacheJmeter 3-9,text,true,,101879,142,4,24,https://jmeter.apache.org/usermanual/get-started.html,10,0,0
+1787204208667,245,TestCases,200,OK,AutomationExecrise 2-5,text,true,,43783,130,10,24,https://automationexercise.com/test_cases,245,0,0
+1787204208908,7,ReleaseNotes,200,OK,ApacheJmeter 3-9,text,true,,32303,127,4,24,https://jmeter.apache.org/changes.html,7,0,0
+1787204208665,252,API_List,200,OK,AutomationExecrise 2-2,text,true,,20592,128,10,24,https://automationexercise.com/api_list,252,0,0
+1787204207223,1700,UnitConversions,200,OK,EasyCalculations 1-6,text,true,,24641,288,10,24,https://www.easycalculation.com/unit-conversion/index.php,749,0,503
+1787204207223,749,UnitConversions-0,301,Moved Permanently,EasyCalculations 1-6,text,true,,387,142,10,24,https://easycalculation.com/unit-conversion/index.php,749,0,503
+1787204207973,950,UnitConversions-1,200,OK,EasyCalculations 1-6,text,true,,24254,146,10,24,https://www.easycalculation.com/unit-conversion/index.php,710,0,475
+1787204208915,8,UserManual,200,OK,ApacheJmeter 3-9,text,true,,47114,136,4,24,https://jmeter.apache.org/usermanual/index.html,8,0,0
+1787204208675,250,TestCases,200,OK,AutomationExecrise 2-8,text,true,,43779,130,10,24,https://automationexercise.com/test_cases,249,0,0
+1787204208923,5,BestPractices,200,OK,ApacheJmeter 3-9,text,true,,42305,145,4,24,https://jmeter.apache.org/usermanual/best-practices.html,5,0,0
+1787204208695,235,Downloads,200,OK,ApacheJmeter 3-1,text,true,,18888,134,4,24,https://jmeter.apache.org/download_jmeter.cgi,231,0,0
+1787204208675,271,TestCases,200,OK,AutomationExecrise 2-7,text,true,,43769,130,10,23,https://automationexercise.com/test_cases,271,0,0
+1787204208746,254,API_List,200,OK,AutomationExecrise 2-1,text,true,,20594,128,10,23,https://automationexercise.com/api_list,253,0,0
+1787204208756,244,API_List,200,OK,AutomationExecrise 2-4,text,true,,20592,128,10,23,https://automationexercise.com/api_list,244,0,0
+1787204208750,251,API_List,200,OK,AutomationExecrise 2-3,text,true,,20580,128,10,23,https://automationexercise.com/api_list,251,0,0
+1787204208773,239,Cart,200,OK,AutomationExecrise 2-10,text,true,,8270,129,10,23,https://automationexercise.com/view_cart,239,0,0
+1787204208807,250,Downloads,200,OK,ApacheJmeter 3-7,text,true,,18888,134,3,23,https://jmeter.apache.org/download_jmeter.cgi,234,0,0
+1787204207325,1745,UnitConversions,200,OK,EasyCalculations 1-7,text,true,,24641,288,10,22,https://www.easycalculation.com/unit-conversion/index.php,754,0,506
+1787204207325,754,UnitConversions-0,301,Moved Permanently,EasyCalculations 1-7,text,true,,387,142,10,22,https://easycalculation.com/unit-conversion/index.php,754,0,506
+1787204208080,990,UnitConversions-1,200,OK,EasyCalculations 1-7,text,true,,24254,146,10,22,https://www.easycalculation.com/unit-conversion/index.php,977,0,494
+1787204208578,492,Formulas,200,OK,EasyCalculations 1-2,text,true,,25304,274,10,22,https://www.easycalculation.com/formulas/index.php,233,0,0
+1787204208578,234,Formulas-0,301,Moved Permanently,EasyCalculations 1-2,text,true,,380,135,10,22,https://easycalculation.com/formulas/index.php,233,0,0
+1787204208812,258,Formulas-1,200,OK,EasyCalculations 1-2,text,true,,24924,139,10,22,https://www.easycalculation.com/formulas/index.php,258,0,0
+1787204208848,244,API_List,200,OK,AutomationExecrise 2-6,text,true,,20584,128,10,22,https://automationexercise.com/api_list,244,0,0
+1787204208851,252,TestCases,200,OK,AutomationExecrise 2-9,text,true,,43773,130,10,22,https://automationexercise.com/test_cases,250,0,0
+1787204208626,508,Formulas,200,OK,EasyCalculations 1-3,text,true,,25304,274,10,22,https://www.easycalculation.com/formulas/index.php,260,0,0
+1787204208626,260,Formulas-0,301,Moved Permanently,EasyCalculations 1-3,text,true,,380,135,10,22,https://easycalculation.com/formulas/index.php,260,0,0
+1787204208886,248,Formulas-1,200,OK,EasyCalculations 1-3,text,true,,24924,139,10,22,https://www.easycalculation.com/formulas/index.php,248,0,0
+1787204207426,1710,UnitConversions,200,OK,EasyCalculations 1-8,text,true,,24641,288,10,22,https://www.easycalculation.com/unit-conversion/index.php,722,0,487
+1787204207426,722,UnitConversions-0,301,Moved Permanently,EasyCalculations 1-8,text,true,,387,142,10,22,https://easycalculation.com/unit-conversion/index.php,722,0,487
+1787204208149,987,UnitConversions-1,200,OK,EasyCalculations 1-8,text,true,,24254,146,10,22,https://www.easycalculation.com/unit-conversion/index.php,987,0,487
+1787204208620,532,Formulas,200,OK,EasyCalculations 1-1,text,true,,25304,274,10,22,https://www.easycalculation.com/formulas/index.php,266,0,0
+1787204208620,266,Formulas-0,301,Moved Permanently,EasyCalculations 1-1,text,true,,380,135,10,22,https://easycalculation.com/formulas/index.php,266,0,0
+1787204208887,265,Formulas-1,200,OK,EasyCalculations 1-1,text,true,,24924,139,10,22,https://www.easycalculation.com/formulas/index.php,262,0,0
+1787204208929,235,Downloads,200,OK,ApacheJmeter 3-9,text,true,,18889,134,2,22,https://jmeter.apache.org/download_jmeter.cgi,220,0,0
+1787204208912,252,API_List,200,OK,AutomationExecrise 2-5,text,true,,20578,128,10,22,https://automationexercise.com/api_list,252,0,0
+1787204208917,262,Contact,200,OK,AutomationExecrise 2-2,text,true,,9939,130,10,21,https://automationexercise.com/contact_us,261,0,0
+1787204208925,256,API_List,200,OK,AutomationExecrise 2-8,text,true,,20586,128,10,21,https://automationexercise.com/api_list,256,0,0
+1787204208946,247,API_List,200,OK,AutomationExecrise 2-7,text,true,,20584,128,10,21,https://automationexercise.com/api_list,247,0,0
+1787204209001,248,Contact,200,OK,AutomationExecrise 2-4,text,true,,9925,130,10,21,https://automationexercise.com/contact_us,248,0,0
+1787204209001,255,Contact,200,OK,AutomationExecrise 2-1,text,true,,9935,130,10,21,https://automationexercise.com/contact_us,255,0,0
+1787204209002,254,Contact,200,OK,AutomationExecrise 2-3,text,true,,9933,130,10,21,https://automationexercise.com/contact_us,254,0,0
+1787204207523,1733,UnitConversions,200,OK,EasyCalculations 1-9,text,true,,24641,288,10,21,https://www.easycalculation.com/unit-conversion/index.php,752,0,518
+1787204207523,752,UnitConversions-0,301,Moved Permanently,EasyCalculations 1-9,text,true,,387,142,10,21,https://easycalculation.com/unit-conversion/index.php,752,0,518
+1787204208276,980,UnitConversions-1,200,OK,EasyCalculations 1-9,text,true,,24254,146,10,21,https://www.easycalculation.com/unit-conversion/index.php,980,0,490
+1787204208775,497,Formulas,200,OK,EasyCalculations 1-4,text,true,,25304,274,10,21,https://www.easycalculation.com/formulas/index.php,243,0,0
+1787204209013,259,TestCases,200,OK,AutomationExecrise 2-10,text,true,,43775,130,10,21,https://automationexercise.com/test_cases,259,0,0
+1787204208775,243,Formulas-0,301,Moved Permanently,EasyCalculations 1-4,text,true,,380,135,10,21,https://easycalculation.com/formulas/index.php,243,0,0
+1787204209018,254,Formulas-1,200,OK,EasyCalculations 1-4,text,true,,24924,139,10,21,https://www.easycalculation.com/formulas/index.php,254,0,0
+1787204207625,1667,UnitConversions,200,OK,EasyCalculations 1-10,text,true,,24641,288,10,21,https://www.easycalculation.com/unit-conversion/index.php,711,0,476
+1787204207625,711,UnitConversions-0,301,Moved Permanently,EasyCalculations 1-10,text,true,,387,142,10,21,https://easycalculation.com/unit-conversion/index.php,711,0,476
+1787204208337,955,UnitConversions-1,200,OK,EasyCalculations 1-10,text,true,,24254,146,10,21,https://www.easycalculation.com/unit-conversion/index.php,955,0,475
+1787204208717,617,Downloads,200,OK,ApacheJmeter 3-10,text,true,,18910,134,1,21,https://jmeter.apache.org/download_jmeter.cgi,604,0,0
+1787204209335,8,GetStarted,200,OK,ApacheJmeter 3-10,text,true,,101878,142,1,21,https://jmeter.apache.org/usermanual/get-started.html,7,0,0
+1787204209093,255,Contact,200,OK,AutomationExecrise 2-6,text,true,,9937,130,10,21,https://automationexercise.com/contact_us,255,0,0
+1787204209343,5,ReleaseNotes,200,OK,ApacheJmeter 3-10,text,true,,32302,127,1,21,https://jmeter.apache.org/changes.html,5,0,0
+1787204209103,245,API_List,200,OK,AutomationExecrise 2-9,text,true,,20586,128,10,21,https://automationexercise.com/api_list,245,0,0
+1787204209348,6,UserManual,200,OK,ApacheJmeter 3-10,text,true,,47114,136,1,21,https://jmeter.apache.org/usermanual/index.html,6,0,0
+1787204209354,5,BestPractices,200,OK,ApacheJmeter 3-10,text,true,,42305,145,1,21,https://jmeter.apache.org/usermanual/best-practices.html,5,0,0
+1787204208901,505,Formulas,200,OK,EasyCalculations 1-5,text,true,,25304,274,10,21,https://www.easycalculation.com/formulas/index.php,251,0,0
+1787204208901,251,Formulas-0,301,Moved Permanently,EasyCalculations 1-5,text,true,,380,135,10,21,https://easycalculation.com/formulas/index.php,251,0,0
+1787204209152,254,Formulas-1,200,OK,EasyCalculations 1-5,text,true,,24924,139,10,21,https://www.easycalculation.com/formulas/index.php,254,0,0
+1787204208923,494,Formulas,200,OK,EasyCalculations 1-6,text,true,,25304,274,10,21,https://www.easycalculation.com/formulas/index.php,258,0,0
+1787204208923,258,Formulas-0,301,Moved Permanently,EasyCalculations 1-6,text,true,,380,135,10,21,https://easycalculation.com/formulas/index.php,258,0,0
+1787204209181,236,Formulas-1,200,OK,EasyCalculations 1-6,text,true,,24924,139,10,21,https://www.easycalculation.com/formulas/index.php,236,0,0
+1787204209165,261,Contact,200,OK,AutomationExecrise 2-5,text,true,,9927,130,10,21,https://automationexercise.com/contact_us,261,0,0
+1787204209181,251,Contact,200,OK,AutomationExecrise 2-8,text,true,,9927,130,10,21,https://automationexercise.com/contact_us,251,0,0
+1787204209179,265,Products,200,OK,AutomationExecrise 2-2,text,true,,48944,128,10,21,https://automationexercise.com/products,265,0,0
+1787204209193,258,Contact,200,OK,AutomationExecrise 2-7,text,true,,9933,130,10,21,https://automationexercise.com/contact_us,258,0,0
+1787204209272,253,API_List,200,OK,AutomationExecrise 2-10,text,true,,20588,128,10,21,https://automationexercise.com/api_list,253,0,0
+1787204209250,277,Products,200,OK,AutomationExecrise 2-4,text,true,,48948,128,10,21,https://automationexercise.com/products,276,0,0
+1787204209256,298,Products,200,OK,AutomationExecrise 2-3,text,true,,48940,128,10,21,https://automationexercise.com/products,297,0,0
+1787204209256,299,Products,200,OK,AutomationExecrise 2-1,text,true,,48944,128,10,21,https://automationexercise.com/products,297,0,0
+1787204209071,501,Currencies,200,OK,EasyCalculations 1-2,text,true,,21952,294,10,21,https://www.easycalculation.com/currency-converter/index.php,233,0,0
+1787204209071,233,Currencies-0,301,Moved Permanently,EasyCalculations 1-2,text,true,,390,145,10,21,https://easycalculation.com/currency-converter/index.php,233,0,0
+1787204209304,268,Currencies-1,200,OK,EasyCalculations 1-2,text,true,,21562,149,10,21,https://www.easycalculation.com/currency-converter/index.php,268,0,0
+1787204209070,502,Formulas,200,OK,EasyCalculations 1-7,text,true,,25304,274,10,21,https://www.easycalculation.com/formulas/index.php,248,0,0
+1787204209070,248,Formulas-0,301,Moved Permanently,EasyCalculations 1-7,text,true,,380,135,10,21,https://easycalculation.com/formulas/index.php,248,0,0
+1787204209319,253,Formulas-1,200,OK,EasyCalculations 1-7,text,true,,24924,139,10,21,https://www.easycalculation.com/formulas/index.php,253,0,0
+1787204209359,225,Downloads,200,OK,ApacheJmeter 3-10,text,true,,18888,134,1,21,https://jmeter.apache.org/download_jmeter.cgi,224,0,0
+1787204209348,266,Contact,200,OK,AutomationExecrise 2-9,text,true,,9933,130,10,20,https://automationexercise.com/contact_us,266,0,0
+1787204209135,480,Currencies,200,OK,EasyCalculations 1-3,text,true,,21952,294,10,20,https://www.easycalculation.com/currency-converter/index.php,244,0,0
+1787204209135,244,Currencies-0,301,Moved Permanently,EasyCalculations 1-3,text,true,,390,145,10,20,https://easycalculation.com/currency-converter/index.php,244,0,0
+1787204209380,235,Currencies-1,200,OK,EasyCalculations 1-3,text,true,,21562,149,10,20,https://www.easycalculation.com/currency-converter/index.php,235,0,0
+1787204209348,282,Products,200,OK,AutomationExecrise 2-6,text,true,,48940,128,10,20,https://automationexercise.com/products,282,0,0
+1787204209136,494,Formulas,200,OK,EasyCalculations 1-8,text,true,,25304,274,10,20,https://www.easycalculation.com/formulas/index.php,239,0,0
+1787204209136,239,Formulas-0,301,Moved Permanently,EasyCalculations 1-8,text,true,,380,135,10,20,https://easycalculation.com/formulas/index.php,239,0,0
+1787204209375,255,Formulas-1,200,OK,EasyCalculations 1-8,text,true,,24924,139,10,20,https://www.easycalculation.com/formulas/index.php,255,0,0
+1787204209153,502,Currencies,200,OK,EasyCalculations 1-1,text,true,,21952,294,10,20,https://www.easycalculation.com/currency-converter/index.php,253,0,0
+1787204209153,253,Currencies-0,301,Moved Permanently,EasyCalculations 1-1,text,true,,390,145,10,20,https://easycalculation.com/currency-converter/index.php,253,0,0
+1787204209406,249,Currencies-1,200,OK,EasyCalculations 1-1,text,true,,21562,149,10,20,https://www.easycalculation.com/currency-converter/index.php,249,0,0
+1787204209426,271,Products,200,OK,AutomationExecrise 2-5,text,true,,48952,128,10,20,https://automationexercise.com/products,270,0,0
+1787204209444,256,Cart,200,OK,AutomationExecrise 2-2,text,true,,8268,129,10,20,https://automationexercise.com/view_cart,256,0,0
+1787204209432,282,Products,200,OK,AutomationExecrise 2-8,text,true,,48946,128,10,20,https://automationexercise.com/products,281,0,0
+1787204209452,275,Products,200,OK,AutomationExecrise 2-7,text,true,,48940,128,10,20,https://automationexercise.com/products,273,0,0
+1787204209256,479,Formulas,200,OK,EasyCalculations 1-9,text,true,,25304,274,10,20,https://www.easycalculation.com/formulas/index.php,232,0,0
+1787204209256,233,Formulas-0,301,Moved Permanently,EasyCalculations 1-9,text,true,,380,135,10,20,https://easycalculation.com/formulas/index.php,232,0,0
+1787204209491,244,Formulas-1,200,OK,EasyCalculations 1-9,text,true,,24924,139,10,20,https://www.easycalculation.com/formulas/index.php,244,0,0
+1787204209272,501,Currencies,200,OK,EasyCalculations 1-4,text,true,,21952,294,10,20,https://www.easycalculation.com/currency-converter/index.php,253,0,0
+1787204209527,248,Cart,200,OK,AutomationExecrise 2-4,text,true,,8272,129,10,20,https://automationexercise.com/view_cart,248,0,0
+1787204209272,253,Currencies-0,301,Moved Permanently,EasyCalculations 1-4,text,true,,390,145,10,20,https://easycalculation.com/currency-converter/index.php,253,0,0
+1787204209525,249,Contact,200,OK,AutomationExecrise 2-10,text,true,,9931,130,10,20,https://automationexercise.com/contact_us,249,0,0
+1787204209293,482,Formulas,200,OK,EasyCalculations 1-10,text,true,,25304,274,10,20,https://www.easycalculation.com/formulas/index.php,245,0,0
+1787204209293,245,Formulas-0,301,Moved Permanently,EasyCalculations 1-10,text,true,,380,135,10,20,https://easycalculation.com/formulas/index.php,245,0,0
+1787204209538,237,Formulas-1,200,OK,EasyCalculations 1-10,text,true,,24924,139,10,20,https://www.easycalculation.com/formulas/index.php,237,0,0
+1787204209525,248,Currencies-1,200,OK,EasyCalculations 1-4,text,true,,21562,149,10,20,https://www.easycalculation.com/currency-converter/index.php,248,0,0
+1787204209554,247,Cart,200,OK,AutomationExecrise 2-3,text,true,,8276,129,10,20,https://automationexercise.com/view_cart,247,0,0
+1787204209555,253,Cart,200,OK,AutomationExecrise 2-1,text,true,,8278,129,10,20,https://automationexercise.com/view_cart,252,0,0
+1787204209630,237,Cart,200,OK,AutomationExecrise 2-6,text,true,,8274,129,10,20,https://automationexercise.com/view_cart,237,0,0
+1787204209615,282,Products,200,OK,AutomationExecrise 2-9,text,true,,48940,128,10,20,https://automationexercise.com/products,282,0,0
+1787204209418,479,Currencies,200,OK,EasyCalculations 1-6,text,true,,21952,294,10,20,https://www.easycalculation.com/currency-converter/index.php,245,0,0
+1787204209418,245,Currencies-0,301,Moved Permanently,EasyCalculations 1-6,text,true,,390,145,10,20,https://easycalculation.com/currency-converter/index.php,245,0,0
+1787204209663,234,Currencies-1,200,OK,EasyCalculations 1-6,text,true,,21562,149,10,20,https://www.easycalculation.com/currency-converter/index.php,234,0,0
+1787204209406,495,Currencies,200,OK,EasyCalculations 1-5,text,true,,21952,294,10,20,https://www.easycalculation.com/currency-converter/index.php,245,0,0
+1787204209406,245,Currencies-0,301,Moved Permanently,EasyCalculations 1-5,text,true,,390,145,10,20,https://easycalculation.com/currency-converter/index.php,245,0,0
+1787204209651,250,Currencies-1,200,OK,EasyCalculations 1-5,text,true,,21562,149,10,20,https://www.easycalculation.com/currency-converter/index.php,250,0,0
+1787204209697,239,Cart,200,OK,AutomationExecrise 2-5,text,true,,8276,129,10,20,https://automationexercise.com/view_cart,239,0,0
+1787204209700,259,TestCases,200,OK,AutomationExecrise 2-2,text,true,,43769,130,10,20,https://automationexercise.com/test_cases,259,0,0
+1787204209714,262,Cart,200,OK,AutomationExecrise 2-8,text,true,,8272,129,10,20,https://automationexercise.com/view_cart,262,0,0
+1787204209727,252,Cart,200,OK,AutomationExecrise 2-7,text,true,,8268,129,10,20,https://automationexercise.com/view_cart,252,0,0
+1787204209775,242,TestCases,200,OK,AutomationExecrise 2-4,text,true,,43769,130,10,20,https://automationexercise.com/test_cases,242,0,0
+1787204209801,254,TestCases,200,OK,AutomationExecrise 2-3,text,true,,43775,130,10,20,https://automationexercise.com/test_cases,253,0,0
+1787204209775,281,Products,200,OK,AutomationExecrise 2-10,text,true,,48942,128,10,20,https://automationexercise.com/products,280,0,0
+1787204209573,484,Charts,200,OK,EasyCalculations 1-2,text,true,,33202,280,10,20,https://www.easycalculation.com/charts-and-tables.php,234,0,0
+1787204209573,234,Charts-0,301,Moved Permanently,EasyCalculations 1-2,text,true,,383,138,10,20,https://easycalculation.com/charts-and-tables.php,234,0,0
+1787204209807,250,Charts-1,200,OK,EasyCalculations 1-2,text,true,,32819,142,10,20,https://www.easycalculation.com/charts-and-tables.php,250,0,0
+1787204209808,251,TestCases,200,OK,AutomationExecrise 2-1,text,true,,43771,130,10,20,https://automationexercise.com/test_cases,251,0,0
+1787204209573,504,Currencies,200,OK,EasyCalculations 1-7,text,true,,21952,294,10,20,https://www.easycalculation.com/currency-converter/index.php,260,0,0
+1787204209573,260,Currencies-0,301,Moved Permanently,EasyCalculations 1-7,text,true,,390,145,10,20,https://easycalculation.com/currency-converter/index.php,260,0,0
+1787204209834,243,Currencies-1,200,OK,EasyCalculations 1-7,text,true,,21562,149,10,20,https://www.easycalculation.com/currency-converter/index.php,243,0,0
+1787204209616,478,Charts,200,OK,EasyCalculations 1-3,text,true,,33202,280,10,20,https://www.easycalculation.com/charts-and-tables.php,245,0,0
+1787204209616,245,Charts-0,301,Moved Permanently,EasyCalculations 1-3,text,true,,383,138,10,20,https://easycalculation.com/charts-and-tables.php,245,0,0
+1787204209861,233,Charts-1,200,OK,EasyCalculations 1-3,text,true,,32819,142,10,20,https://www.easycalculation.com/charts-and-tables.php,233,0,0
+1787204209630,484,Currencies,200,OK,EasyCalculations 1-8,text,true,,21952,294,10,20,https://www.easycalculation.com/currency-converter/index.php,235,0,0
+1787204209630,235,Currencies-0,301,Moved Permanently,EasyCalculations 1-8,text,true,,390,145,10,20,https://easycalculation.com/currency-converter/index.php,235,0,0
+1787204209866,248,Currencies-1,200,OK,EasyCalculations 1-8,text,true,,21562,149,10,20,https://www.easycalculation.com/currency-converter/index.php,248,0,0
+1787204209868,254,TestCases,200,OK,AutomationExecrise 2-6,text,true,,43771,130,10,20,https://automationexercise.com/test_cases,253,0,0
+1787204209897,243,Cart,200,OK,AutomationExecrise 2-9,text,true,,8272,129,10,20,https://automationexercise.com/view_cart,243,0,0
+1787204209655,507,Charts,200,OK,EasyCalculations 1-1,text,true,,33202,280,10,20,https://www.easycalculation.com/charts-and-tables.php,252,0,0
+1787204209655,252,Charts-0,301,Moved Permanently,EasyCalculations 1-1,text,true,,383,138,10,20,https://easycalculation.com/charts-and-tables.php,252,0,0
+1787204209908,254,Charts-1,200,OK,EasyCalculations 1-1,text,true,,32819,142,10,20,https://www.easycalculation.com/charts-and-tables.php,254,0,0
+1787204209936,256,TestCases,200,OK,AutomationExecrise 2-5,text,true,,43775,130,10,20,https://automationexercise.com/test_cases,255,0,0
+1787204209736,474,Currencies,200,OK,EasyCalculations 1-9,text,true,,21952,294,10,20,https://www.easycalculation.com/currency-converter/index.php,231,0,0
+1787204209736,231,Currencies-0,301,Moved Permanently,EasyCalculations 1-9,text,true,,390,145,10,20,https://easycalculation.com/currency-converter/index.php,231,0,0
+1787204209967,243,Currencies-1,200,OK,EasyCalculations 1-9,text,true,,21562,149,10,20,https://www.easycalculation.com/currency-converter/index.php,243,0,0
+1787204209959,255,API_List,200,OK,AutomationExecrise 2-2,text,true,,20590,128,10,20,https://automationexercise.com/api_list,254,0,0
+1787204209976,247,TestCases,200,OK,AutomationExecrise 2-8,text,true,,43775,130,10,20,https://automationexercise.com/test_cases,246,0,0
+1787204209980,252,TestCases,200,OK,AutomationExecrise 2-7,text,true,,43765,130,10,20,https://automationexercise.com/test_cases,252,0,0
+1787204209775,472,Currencies,200,OK,EasyCalculations 1-10,text,true,,21952,294,10,20,https://www.easycalculation.com/currency-converter/index.php,236,0,0
+1787204209775,236,Currencies-0,301,Moved Permanently,EasyCalculations 1-10,text,true,,390,145,10,20,https://easycalculation.com/currency-converter/index.php,236,0,0
+1787204210011,236,Currencies-1,200,OK,EasyCalculations 1-10,text,true,,21562,149,10,20,https://www.easycalculation.com/currency-converter/index.php,236,0,0
+1787204209776,489,Charts,200,OK,EasyCalculations 1-4,text,true,,33202,280,10,20,https://www.easycalculation.com/charts-and-tables.php,242,0,0
+1787204209776,242,Charts-0,301,Moved Permanently,EasyCalculations 1-4,text,true,,383,138,10,20,https://easycalculation.com/charts-and-tables.php,242,0,0
+1787204210018,247,Charts-1,200,OK,EasyCalculations 1-4,text,true,,32819,142,10,20,https://www.easycalculation.com/charts-and-tables.php,247,0,0
+1787204210017,250,API_List,200,OK,AutomationExecrise 2-4,text,true,,20578,128,10,20,https://automationexercise.com/api_list,250,0,0
+1787204210059,241,API_List,200,OK,AutomationExecrise 2-1,text,true,,20580,128,10,20,https://automationexercise.com/api_list,241,0,0
+1787204210055,252,API_List,200,OK,AutomationExecrise 2-3,text,true,,20592,128,10,20,https://automationexercise.com/api_list,252,0,0
+1787204210056,251,Cart,200,OK,AutomationExecrise 2-10,text,true,,8282,129,10,20,https://automationexercise.com/view_cart,251,0,0
+1787204210122,251,API_List,200,OK,AutomationExecrise 2-6,text,true,,20578,128,10,20,https://automationexercise.com/api_list,250,0,0
+1787204209897,494,Charts,200,OK,EasyCalculations 1-6,text,true,,33202,280,10,20,https://www.easycalculation.com/charts-and-tables.php,243,0,0
+1787204209897,243,Charts-0,301,Moved Permanently,EasyCalculations 1-6,text,true,,383,138,10,20,https://easycalculation.com/charts-and-tables.php,243,0,0
+1787204210141,250,Charts-1,200,OK,EasyCalculations 1-6,text,true,,32819,142,10,20,https://www.easycalculation.com/charts-and-tables.php,250,0,0
+1787204210140,263,TestCases,200,OK,AutomationExecrise 2-9,text,true,,43769,130,10,20,https://automationexercise.com/test_cases,263,0,0
+1787204209901,516,Charts,200,OK,EasyCalculations 1-5,text,true,,33202,280,10,20,https://www.easycalculation.com/charts-and-tables.php,261,0,0
+1787204209901,261,Charts-0,301,Moved Permanently,EasyCalculations 1-5,text,true,,383,138,10,20,https://easycalculation.com/charts-and-tables.php,261,0,0
+1787204210163,254,Charts-1,200,OK,EasyCalculations 1-5,text,true,,32819,142,10,20,https://www.easycalculation.com/charts-and-tables.php,254,0,0
+1787204210192,260,API_List,200,OK,AutomationExecrise 2-5,text,true,,20586,128,10,20,https://automationexercise.com/api_list,260,0,0
+1787204210223,255,API_List,200,OK,AutomationExecrise 2-8,text,true,,20586,128,10,20,https://automationexercise.com/api_list,255,0,0
+1787204210214,264,Contact,200,OK,AutomationExecrise 2-2,text,true,,9931,130,10,20,https://automationexercise.com/contact_us,264,0,0
+1787204210232,258,API_List,200,OK,AutomationExecrise 2-7,text,true,,20592,128,10,20,https://automationexercise.com/api_list,258,0,0
+1787204210267,262,Contact,200,OK,AutomationExecrise 2-4,text,true,,9933,130,10,20,https://automationexercise.com/contact_us,262,0,0
+1787204210301,240,Contact,200,OK,AutomationExecrise 2-1,text,true,,9931,130,10,20,https://automationexercise.com/contact_us,240,0,0
+1787204210307,252,Contact,200,OK,AutomationExecrise 2-3,text,true,,9925,130,10,20,https://automationexercise.com/contact_us,252,0,0
+1787204210307,258,TestCases,200,OK,AutomationExecrise 2-10,text,true,,43773,130,10,20,https://automationexercise.com/test_cases,258,0,0
+1787204210057,510,Calculators,200,OK,EasyCalculations 1-2,text,true,,48636,256,10,20,https://www.easycalculation.com/index.php,238,0,0
+1787204210057,238,Calculators-0,301,Moved Permanently,EasyCalculations 1-2,text,true,,371,126,10,20,https://easycalculation.com/index.php,238,0,0
+1787204210296,271,Calculators-1,200,OK,EasyCalculations 1-2,text,true,,48265,130,10,20,https://www.easycalculation.com/index.php,270,0,0
+1787204210078,493,Charts,200,OK,EasyCalculations 1-7,text,true,,33202,280,10,20,https://www.easycalculation.com/charts-and-tables.php,248,0,0
+1787204210078,248,Charts-0,301,Moved Permanently,EasyCalculations 1-7,text,true,,383,138,10,20,https://easycalculation.com/charts-and-tables.php,248,0,0
+1787204210326,245,Charts-1,200,OK,EasyCalculations 1-7,text,true,,32819,142,10,20,https://www.easycalculation.com/charts-and-tables.php,245,0,0
+1787204210095,478,Calculators,200,OK,EasyCalculations 1-3,text,true,,48636,256,10,20,https://www.easycalculation.com/index.php,244,0,0
+1787204210095,244,Calculators-0,301,Moved Permanently,EasyCalculations 1-3,text,true,,371,126,10,20,https://easycalculation.com/index.php,244,0,0
+1787204210339,234,Calculators-1,200,OK,EasyCalculations 1-3,text,true,,48265,130,10,20,https://www.easycalculation.com/index.php,234,0,0
+1787204210115,486,Charts,200,OK,EasyCalculations 1-8,text,true,,33202,280,10,20,https://www.easycalculation.com/charts-and-tables.php,243,0,0
+1787204210115,243,Charts-0,301,Moved Permanently,EasyCalculations 1-8,text,true,,383,138,10,20,https://easycalculation.com/charts-and-tables.php,243,0,0
+1787204210358,243,Charts-1,200,OK,EasyCalculations 1-8,text,true,,32819,142,10,20,https://www.easycalculation.com/charts-and-tables.php,243,0,0
+1787204210377,248,Contact,200,OK,AutomationExecrise 2-6,text,true,,9935,130,10,20,https://automationexercise.com/contact_us,248,0,0
+1787204210404,251,API_List,200,OK,AutomationExecrise 2-9,text,true,,20596,128,10,20,https://automationexercise.com/api_list,251,0,0
+1787204210162,503,Calculators,200,OK,EasyCalculations 1-1,text,true,,48636,256,10,20,https://www.easycalculation.com/index.php,256,0,0
+1787204210162,256,Calculators-0,301,Moved Permanently,EasyCalculations 1-1,text,true,,371,126,10,20,https://easycalculation.com/index.php,256,0,0
+1787204210418,247,Calculators-1,200,OK,EasyCalculations 1-1,text,true,,48265,130,10,20,https://www.easycalculation.com/index.php,247,0,0
+1787204210452,238,Contact,200,OK,AutomationExecrise 2-5,text,true,,9935,130,10,20,https://automationexercise.com/contact_us,238,0,0
+1787204210210,487,Charts,200,OK,EasyCalculations 1-9,text,true,,33202,280,10,20,https://www.easycalculation.com/charts-and-tables.php,241,0,0
+1787204210210,241,Charts-0,301,Moved Permanently,EasyCalculations 1-9,text,true,,383,138,10,20,https://easycalculation.com/charts-and-tables.php,241,0,0
+1787204210451,246,Charts-1,200,OK,EasyCalculations 1-9,text,true,,32819,142,10,20,https://www.easycalculation.com/charts-and-tables.php,244,0,0
+1787204210248,472,Charts,200,OK,EasyCalculations 1-10,text,true,,33202,280,10,20,https://www.easycalculation.com/charts-and-tables.php,234,0,0
+1787204210248,234,Charts-0,301,Moved Permanently,EasyCalculations 1-10,text,true,,383,138,10,20,https://easycalculation.com/charts-and-tables.php,234,0,0
+1787204210482,238,Charts-1,200,OK,EasyCalculations 1-10,text,true,,32819,142,10,20,https://www.easycalculation.com/charts-and-tables.php,238,0,0
+1787204210478,256,Contact,200,OK,AutomationExecrise 2-8,text,true,,9931,130,10,20,https://automationexercise.com/contact_us,256,0,0
+1787204210490,250,Contact,200,OK,AutomationExecrise 2-7,text,true,,9933,130,10,20,https://automationexercise.com/contact_us,250,0,0
+1787204210478,281,Products,200,OK,AutomationExecrise 2-2,text,true,,48936,128,10,20,https://automationexercise.com/products,280,0,0
+1787204210265,496,Calculators,200,OK,EasyCalculations 1-4,text,true,,48636,256,10,20,https://www.easycalculation.com/index.php,248,0,0
+1787204210265,248,Calculators-0,301,Moved Permanently,EasyCalculations 1-4,text,true,,371,126,10,20,https://easycalculation.com/index.php,248,0,0
+1787204210513,248,Calculators-1,200,OK,EasyCalculations 1-4,text,true,,48265,130,10,20,https://www.easycalculation.com/index.php,248,0,0
+1787204210541,273,Products,200,OK,AutomationExecrise 2-1,text,true,,48940,128,10,20,https://automationexercise.com/products,273,0,0
+1787204210529,316,Products,200,OK,AutomationExecrise 2-4,text,true,,48934,128,10,20,https://automationexercise.com/products,316,0,0
+1787204210566,287,API_List,200,OK,AutomationExecrise 2-10,text,true,,20582,128,10,20,https://automationexercise.com/api_list,287,0,0
+1787204210559,311,Products,200,OK,AutomationExecrise 2-3,text,true,,48942,128,10,20,https://automationexercise.com/products,311,0,0
+1787204210391,479,Calculators,200,OK,EasyCalculations 1-6,text,true,,48636,256,10,20,https://www.easycalculation.com/index.php,244,0,0
+1787204210391,244,Calculators-0,301,Moved Permanently,EasyCalculations 1-6,text,true,,371,126,10,20,https://easycalculation.com/index.php,244,0,0
+1787204210635,235,Calculators-1,200,OK,EasyCalculations 1-6,text,true,,48265,130,10,20,https://www.easycalculation.com/index.php,235,0,0
+1787204210656,244,Contact,200,OK,AutomationExecrise 2-9,text,true,,9929,130,10,20,https://automationexercise.com/contact_us,244,0,0
+1787204210626,281,Products,200,OK,AutomationExecrise 2-6,text,true,,48940,128,10,20,https://automationexercise.com/products,280,0,0
+1787204210417,494,Calculators,200,OK,EasyCalculations 1-5,text,true,,48636,256,10,20,https://www.easycalculation.com/index.php,244,0,0
+1787204210417,244,Calculators-0,301,Moved Permanently,EasyCalculations 1-5,text,true,,371,126,10,20,https://easycalculation.com/index.php,244,0,0
+1787204210661,250,Calculators-1,200,OK,EasyCalculations 1-5,text,true,,48265,130,10,20,https://www.easycalculation.com/index.php,250,0,0
+1787204210691,282,Products,200,OK,AutomationExecrise 2-5,text,true,,48948,128,10,20,https://automationexercise.com/products,282,0,0
+1787204210759,241,Cart,200,OK,AutomationExecrise 2-2,text,true,,8272,129,10,20,https://automationexercise.com/view_cart,241,0,0
+1787204210735,274,Products,200,OK,AutomationExecrise 2-8,text,true,,48940,128,10,20,https://automationexercise.com/products,274,0,0
+1787204210740,269,Products,200,OK,AutomationExecrise 2-7,text,true,,48938,128,10,20,https://automationexercise.com/products,269,0,0
+1787204210567,487,UnitConversions,200,OK,EasyCalculations 1-2,text,true,,24641,288,10,20,https://www.easycalculation.com/unit-conversion/index.php,233,0,0
+1787204210567,234,UnitConversions-0,301,Moved Permanently,EasyCalculations 1-2,text,true,,387,142,10,20,https://easycalculation.com/unit-conversion/index.php,233,0,0
+1787204210801,253,UnitConversions-1,200,OK,EasyCalculations 1-2,text,true,,24254,146,10,20,https://www.easycalculation.com/unit-conversion/index.php,253,0,0
+1787204210573,483,UnitConversions,200,OK,EasyCalculations 1-3,text,true,,24641,288,10,20,https://www.easycalculation.com/unit-conversion/index.php,245,0,0
+1787204210573,245,UnitConversions-0,301,Moved Permanently,EasyCalculations 1-3,text,true,,387,142,10,20,https://easycalculation.com/unit-conversion/index.php,245,0,0
+1787204210818,238,UnitConversions-1,200,OK,EasyCalculations 1-3,text,true,,24254,146,10,20,https://www.easycalculation.com/unit-conversion/index.php,237,0,0
+1787204210572,489,Calculators,200,OK,EasyCalculations 1-7,text,true,,48636,256,10,20,https://www.easycalculation.com/index.php,246,0,0
+1787204210572,246,Calculators-0,301,Moved Permanently,EasyCalculations 1-7,text,true,,371,126,10,20,https://easycalculation.com/index.php,246,0,0
+1787204210818,243,Calculators-1,200,OK,EasyCalculations 1-7,text,true,,48265,130,10,20,https://www.easycalculation.com/index.php,243,0,0
+1787204210814,256,Cart,200,OK,AutomationExecrise 2-1,text,true,,8276,129,10,20,https://automationexercise.com/view_cart,256,0,0
+1787204210601,482,Calculators,200,OK,EasyCalculations 1-8,text,true,,48636,256,10,20,https://www.easycalculation.com/index.php,239,0,0
+1787204210601,239,Calculators-0,301,Moved Permanently,EasyCalculations 1-8,text,true,,371,126,10,20,https://easycalculation.com/index.php,239,0,0
+1787204210840,243,Calculators-1,200,OK,EasyCalculations 1-8,text,true,,48265,130,10,20,https://www.easycalculation.com/index.php,242,0,0
+1787204210853,250,Contact,200,OK,AutomationExecrise 2-10,text,true,,9941,130,10,20,https://automationexercise.com/contact_us,249,0,0
+1787204210845,262,Cart,200,OK,AutomationExecrise 2-4,text,true,,8270,129,10,20,https://automationexercise.com/view_cart,262,0,0
+1787204210870,242,Cart,200,OK,AutomationExecrise 2-3,text,true,,8274,129,10,20,https://automationexercise.com/view_cart,241,0,0
+1787204210907,251,Cart,200,OK,AutomationExecrise 2-6,text,true,,8268,129,10,20,https://automationexercise.com/view_cart,251,0,0
+1787204210665,500,UnitConversions,200,OK,EasyCalculations 1-1,text,true,,24641,288,10,20,https://www.easycalculation.com/unit-conversion/index.php,252,0,0
+1787204210665,252,UnitConversions-0,301,Moved Permanently,EasyCalculations 1-1,text,true,,387,142,10,20,https://easycalculation.com/unit-conversion/index.php,252,0,0
+1787204210918,247,UnitConversions-1,200,OK,EasyCalculations 1-1,text,true,,24254,146,10,20,https://www.easycalculation.com/unit-conversion/index.php,247,0,0
+1787204210901,284,Products,200,OK,AutomationExecrise 2-9,text,true,,48948,128,10,20,https://automationexercise.com/products,284,0,0
+1787204210697,488,Calculators,200,OK,EasyCalculations 1-9,text,true,,48636,256,10,20,https://www.easycalculation.com/index.php,237,0,0
+1787204210697,238,Calculators-0,301,Moved Permanently,EasyCalculations 1-9,text,true,,371,126,10,20,https://easycalculation.com/index.php,237,0,0
+1787204210936,249,Calculators-1,200,OK,EasyCalculations 1-9,text,true,,48265,130,10,20,https://www.easycalculation.com/index.php,249,0,0
+1787204210720,474,Calculators,200,OK,EasyCalculations 1-10,text,true,,48636,256,10,20,https://www.easycalculation.com/index.php,238,0,0
+1787204210720,238,Calculators-0,301,Moved Permanently,EasyCalculations 1-10,text,true,,371,126,10,20,https://easycalculation.com/index.php,238,0,0
+1787204210958,236,Calculators-1,200,OK,EasyCalculations 1-10,text,true,,48265,130,10,20,https://www.easycalculation.com/index.php,236,0,0
+1787204210974,252,Cart,200,OK,AutomationExecrise 2-5,text,true,,8270,129,10,20,https://automationexercise.com/view_cart,252,0,0
+1787204211000,243,TestCases,200,OK,AutomationExecrise 2-2,text,true,,43773,130,10,20,https://automationexercise.com/test_cases,243,0,0
+1787204211009,247,Cart,200,OK,AutomationExecrise 2-7,text,true,,8268,129,10,20,https://automationexercise.com/view_cart,247,0,0
+1787204210761,497,UnitConversions,200,OK,EasyCalculations 1-4,text,true,,24641,288,10,20,https://www.easycalculation.com/unit-conversion/index.php,248,0,0
+1787204211009,249,Cart,200,OK,AutomationExecrise 2-8,text,true,,8272,129,10,20,https://automationexercise.com/view_cart,249,0,0
+1787204210761,248,UnitConversions-0,301,Moved Permanently,EasyCalculations 1-4,text,true,,387,142,10,20,https://easycalculation.com/unit-conversion/index.php,248,0,0
+1787204211009,249,UnitConversions-1,200,OK,EasyCalculations 1-4,text,true,,24254,146,10,20,https://www.easycalculation.com/unit-conversion/index.php,249,0,0
+1787204211070,248,TestCases,200,OK,AutomationExecrise 2-1,text,true,,43767,130,10,20,https://automationexercise.com/test_cases,247,0,0
+1787204210872,477,UnitConversions,200,OK,EasyCalculations 1-6,text,true,,24641,288,10,20,https://www.easycalculation.com/unit-conversion/index.php,243,0,0
+1787204210872,243,UnitConversions-0,301,Moved Permanently,EasyCalculations 1-6,text,true,,387,142,10,20,https://easycalculation.com/unit-conversion/index.php,243,0,0
+1787204211115,234,UnitConversions-1,200,OK,EasyCalculations 1-6,text,true,,24254,146,10,20,https://www.easycalculation.com/unit-conversion/index.php,234,0,0
+1787204211107,258,TestCases,200,OK,AutomationExecrise 2-4,text,true,,43771,130,10,20,https://automationexercise.com/test_cases,258,0,0
+1787204211112,255,TestCases,200,OK,AutomationExecrise 2-3,text,true,,43781,130,10,20,https://automationexercise.com/test_cases,255,0,0
+1787204211103,275,Products,200,OK,AutomationExecrise 2-10,text,true,,48946,128,10,20,https://automationexercise.com/products,273,0,0
+1787204210911,498,UnitConversions,200,OK,EasyCalculations 1-5,text,true,,24641,288,10,20,https://www.easycalculation.com/unit-conversion/index.php,248,0,0
+1787204210911,248,UnitConversions-0,301,Moved Permanently,EasyCalculations 1-5,text,true,,387,142,10,20,https://easycalculation.com/unit-conversion/index.php,248,0,0
+1787204211159,250,UnitConversions-1,200,OK,EasyCalculations 1-5,text,true,,24254,146,10,20,https://www.easycalculation.com/unit-conversion/index.php,250,0,0
+1787204211159,264,TestCases,200,OK,AutomationExecrise 2-6,text,true,,43767,130,10,20,https://automationexercise.com/test_cases,264,0,0
+1787204211185,240,Cart,200,OK,AutomationExecrise 2-9,text,true,,8276,129,10,20,https://automationexercise.com/view_cart,240,0,0
+1787204211227,241,TestCases,200,OK,AutomationExecrise 2-5,text,true,,43779,130,10,20,https://automationexercise.com/test_cases,241,0,0
+1787204211243,257,API_List,200,OK,AutomationExecrise 2-2,text,true,,20590,128,10,20,https://automationexercise.com/api_list,257,0,0
+1787204211256,245,TestCases,200,OK,AutomationExecrise 2-7,text,true,,43773,130,10,20,https://automationexercise.com/test_cases,245,0,0
+1787204211258,251,TestCases,200,OK,AutomationExecrise 2-8,text,true,,43765,130,10,20,https://automationexercise.com/test_cases,248,0,0
+1787204211056,481,Formulas,200,OK,EasyCalculations 1-3,text,true,,25304,274,10,20,https://www.easycalculation.com/formulas/index.php,247,0,0
+1787204211056,247,Formulas-0,301,Moved Permanently,EasyCalculations 1-3,text,true,,380,135,10,20,https://easycalculation.com/formulas/index.php,247,0,0
+1787204211303,234,Formulas-1,200,OK,EasyCalculations 1-3,text,true,,24924,139,10,20,https://www.easycalculation.com/formulas/index.php,234,0,0
+1787204211055,483,Formulas,200,OK,EasyCalculations 1-2,text,true,,25304,274,10,20,https://www.easycalculation.com/formulas/index.php,233,0,0
+1787204211055,233,Formulas-0,301,Moved Permanently,EasyCalculations 1-2,text,true,,380,135,10,20,https://easycalculation.com/formulas/index.php,233,0,0
+1787204211288,250,Formulas-1,200,OK,EasyCalculations 1-2,text,true,,24924,139,10,20,https://www.easycalculation.com/formulas/index.php,250,0,0
+1787204211062,498,UnitConversions,200,OK,EasyCalculations 1-7,text,true,,24641,288,10,20,https://www.easycalculation.com/unit-conversion/index.php,255,0,0
+1787204211062,255,UnitConversions-0,301,Moved Permanently,EasyCalculations 1-7,text,true,,387,142,10,20,https://easycalculation.com/unit-conversion/index.php,255,0,0
+1787204211318,242,UnitConversions-1,200,OK,EasyCalculations 1-7,text,true,,24254,146,10,20,https://www.easycalculation.com/unit-conversion/index.php,242,0,0
+1787204211318,253,API_List,200,OK,AutomationExecrise 2-1,text,true,,20588,128,10,20,https://automationexercise.com/api_list,253,0,0
+1787204211083,488,UnitConversions,200,OK,EasyCalculations 1-8,text,true,,24641,288,10,20,https://www.easycalculation.com/unit-conversion/index.php,247,0,0
+1787204211083,247,UnitConversions-0,301,Moved Permanently,EasyCalculations 1-8,text,true,,387,142,10,20,https://easycalculation.com/unit-conversion/index.php,247,0,0
+1787204211330,241,UnitConversions-1,200,OK,EasyCalculations 1-8,text,true,,24254,146,10,20,https://www.easycalculation.com/unit-conversion/index.php,241,0,0
+1787204211368,242,API_List,200,OK,AutomationExecrise 2-3,text,true,,20582,128,10,20,https://automationexercise.com/api_list,242,0,0
+1787204211365,246,API_List,200,OK,AutomationExecrise 2-4,text,true,,20582,128,10,20,https://automationexercise.com/api_list,246,0,0
+1787204211378,250,Cart,200,OK,AutomationExecrise 2-10,text,true,,8278,129,10,20,https://automationexercise.com/view_cart,250,0,0
+1787204211194,471,UnitConversions,200,OK,EasyCalculations 1-10,text,true,,24641,288,10,20,https://www.easycalculation.com/unit-conversion/index.php,235,0,0
+1787204211194,235,UnitConversions-0,301,Moved Permanently,EasyCalculations 1-10,text,true,,387,142,10,20,https://easycalculation.com/unit-conversion/index.php,235,0,0
+1787204211430,235,UnitConversions-1,200,OK,EasyCalculations 1-10,text,true,,24254,146,10,20,https://www.easycalculation.com/unit-conversion/index.php,235,0,0
+1787204211423,248,API_List,200,OK,AutomationExecrise 2-6,text,true,,20584,128,10,20,https://automationexercise.com/api_list,248,0,0
+1787204211185,487,UnitConversions,200,OK,EasyCalculations 1-9,text,true,,24641,288,10,20,https://www.easycalculation.com/unit-conversion/index.php,238,0,0
+1787204211185,243,UnitConversions-0,301,Moved Permanently,EasyCalculations 1-9,text,true,,387,142,10,20,https://easycalculation.com/unit-conversion/index.php,238,0,0
+1787204211428,244,UnitConversions-1,200,OK,EasyCalculations 1-9,text,true,,24254,146,10,20,https://www.easycalculation.com/unit-conversion/index.php,244,0,0
+1787204211166,509,Formulas,200,OK,EasyCalculations 1-1,text,true,,25304,274,10,20,https://www.easycalculation.com/formulas/index.php,262,0,0
+1787204211166,262,Formulas-0,301,Moved Permanently,EasyCalculations 1-1,text,true,,380,135,10,20,https://easycalculation.com/formulas/index.php,262,0,0
+1787204211428,247,Formulas-1,200,OK,EasyCalculations 1-1,text,true,,24924,139,10,20,https://www.easycalculation.com/formulas/index.php,246,0,0
+1787204211425,255,TestCases,200,OK,AutomationExecrise 2-9,text,true,,43775,130,10,20,https://automationexercise.com/test_cases,254,0,0
+1787204211468,248,API_List,200,OK,AutomationExecrise 2-5,text,true,,20586,128,10,20,https://automationexercise.com/api_list,248,0,0
+1787204211258,493,Formulas,200,OK,EasyCalculations 1-4,text,true,,25304,274,10,20,https://www.easycalculation.com/formulas/index.php,244,0,0
+1787204211258,244,Formulas-0,301,Moved Permanently,EasyCalculations 1-4,text,true,,380,135,10,20,https://easycalculation.com/formulas/index.php,244,0,0
+1787204211502,249,Formulas-1,200,OK,EasyCalculations 1-4,text,true,,24924,139,10,20,https://www.easycalculation.com/formulas/index.php,249,0,0
+1787204211509,248,API_List,200,OK,AutomationExecrise 2-8,text,true,,20586,128,10,20,https://automationexercise.com/api_list,248,0,0
+1787204211500,258,Contact,200,OK,AutomationExecrise 2-2,text,true,,9935,130,10,20,https://automationexercise.com/contact_us,258,0,0
+1787204211501,271,API_List,200,OK,AutomationExecrise 2-7,text,true,,20596,128,10,20,https://automationexercise.com/api_list,271,0,0
+1787204211571,238,Contact,200,OK,AutomationExecrise 2-1,text,true,,9939,130,10,20,https://automationexercise.com/contact_us,238,0,0
+1787204211349,480,Formulas,200,OK,EasyCalculations 1-6,text,true,,25304,274,10,20,https://www.easycalculation.com/formulas/index.php,244,0,0
+1787204211349,244,Formulas-0,301,Moved Permanently,EasyCalculations 1-6,text,true,,380,135,10,20,https://easycalculation.com/formulas/index.php,244,0,0
+1787204211594,235,Formulas-1,200,OK,EasyCalculations 1-6,text,true,,24924,139,10,20,https://www.easycalculation.com/formulas/index.php,235,0,0
+1787204211611,242,Contact,200,OK,AutomationExecrise 2-4,text,true,,9941,130,10,20,https://automationexercise.com/contact_us,242,0,0
+1787204211610,253,Contact,200,OK,AutomationExecrise 2-3,text,true,,9935,130,10,20,https://automationexercise.com/contact_us,253,0,0
+1787204211628,249,TestCases,200,OK,AutomationExecrise 2-10,text,true,,43773,130,10,20,https://automationexercise.com/test_cases,249,0,0
+1787204211410,493,Formulas,200,OK,EasyCalculations 1-5,text,true,,25304,274,10,20,https://www.easycalculation.com/formulas/index.php,242,0,0
+1787204211410,242,Formulas-0,301,Moved Permanently,EasyCalculations 1-5,text,true,,380,135,10,20,https://easycalculation.com/formulas/index.php,242,0,0
+1787204211652,251,Formulas-1,200,OK,EasyCalculations 1-5,text,true,,24924,139,10,20,https://www.easycalculation.com/formulas/index.php,251,0,0
+1787204211680,238,API_List,200,OK,AutomationExecrise 2-9,text,true,,20578,128,10,20,https://automationexercise.com/api_list,238,0,0
+1787204211671,248,Contact,200,OK,AutomationExecrise 2-6,text,true,,9939,130,10,20,https://automationexercise.com/contact_us,248,0,0
+1787204211716,240,Contact,200,OK,AutomationExecrise 2-5,text,true,,9931,130,10,20,https://automationexercise.com/contact_us,240,0,0
+1787204211758,239,Contact,200,OK,AutomationExecrise 2-8,text,true,,9939,130,10,20,https://automationexercise.com/contact_us,239,0,0
+1787204211772,233,Contact,200,OK,AutomationExecrise 2-7,text,true,,9929,130,10,20,https://automationexercise.com/contact_us,233,0,0
+1787204211538,481,Currencies,200,OK,EasyCalculations 1-3,text,true,,21952,294,10,20,https://www.easycalculation.com/currency-converter/index.php,242,0,0
+1787204211538,242,Currencies-0,301,Moved Permanently,EasyCalculations 1-3,text,true,,390,145,10,20,https://easycalculation.com/currency-converter/index.php,242,0,0
+1787204211780,239,Currencies-1,200,OK,EasyCalculations 1-3,text,true,,21562,149,10,20,https://www.easycalculation.com/currency-converter/index.php,239,0,0
+1787204211538,486,Currencies,200,OK,EasyCalculations 1-2,text,true,,21952,294,10,20,https://www.easycalculation.com/currency-converter/index.php,232,0,0
+1787204211538,232,Currencies-0,301,Moved Permanently,EasyCalculations 1-2,text,true,,390,145,10,20,https://easycalculation.com/currency-converter/index.php,232,0,0
+1787204211758,266,Products,200,OK,AutomationExecrise 2-2,text,true,,48940,128,10,20,https://automationexercise.com/products,266,0,0
+1787204211770,254,Currencies-1,200,OK,EasyCalculations 1-2,text,true,,21562,149,10,20,https://www.easycalculation.com/currency-converter/index.php,254,0,0
+1787204211572,478,Formulas,200,OK,EasyCalculations 1-8,text,true,,25304,274,10,20,https://www.easycalculation.com/formulas/index.php,234,0,0
+1787204211572,234,Formulas-0,301,Moved Permanently,EasyCalculations 1-8,text,true,,380,135,10,20,https://easycalculation.com/formulas/index.php,234,0,0
+1787204211807,243,Formulas-1,200,OK,EasyCalculations 1-8,text,true,,24924,139,10,20,https://www.easycalculation.com/formulas/index.php,243,0,0
+1787204211560,497,Formulas,200,OK,EasyCalculations 1-7,text,true,,25304,274,10,20,https://www.easycalculation.com/formulas/index.php,246,0,0
+1787204211560,246,Formulas-0,301,Moved Permanently,EasyCalculations 1-7,text,true,,380,135,10,20,https://easycalculation.com/formulas/index.php,246,0,0
+1787204211807,250,Formulas-1,200,OK,EasyCalculations 1-7,text,true,,24924,139,10,20,https://www.easycalculation.com/formulas/index.php,250,0,0
+1787204211810,280,Products,200,OK,AutomationExecrise 2-1,text,true,,48944,128,10,20,https://automationexercise.com/products,280,0,0
+1787204211855,264,Products,200,OK,AutomationExecrise 2-4,text,true,,48942,128,10,20,https://automationexercise.com/products,264,0,0
+1787204211878,247,API_List,200,OK,AutomationExecrise 2-10,text,true,,20586,128,10,20,https://automationexercise.com/api_list,247,0,0
+1787204211864,269,Products,200,OK,AutomationExecrise 2-3,text,true,,48938,128,10,20,https://automationexercise.com/products,269,0,0
+1787204211665,475,Formulas,200,OK,EasyCalculations 1-10,text,true,,25304,274,10,20,https://www.easycalculation.com/formulas/index.php,238,0,0
+1787204211665,238,Formulas-0,301,Moved Permanently,EasyCalculations 1-10,text,true,,380,135,10,20,https://easycalculation.com/formulas/index.php,238,0,0
+1787204211904,236,Formulas-1,200,OK,EasyCalculations 1-10,text,true,,24924,139,10,20,https://www.easycalculation.com/formulas/index.php,236,0,0
+1787204211672,479,Formulas,200,OK,EasyCalculations 1-9,text,true,,25304,274,10,20,https://www.easycalculation.com/formulas/index.php,235,0,0
+1787204211672,235,Formulas-0,301,Moved Permanently,EasyCalculations 1-9,text,true,,380,135,10,20,https://easycalculation.com/formulas/index.php,235,0,0
+1787204211908,243,Formulas-1,200,OK,EasyCalculations 1-9,text,true,,24924,139,10,20,https://www.easycalculation.com/formulas/index.php,243,0,0
+1787204211919,237,Contact,200,OK,AutomationExecrise 2-9,text,true,,9933,130,10,20,https://automationexercise.com/contact_us,237,0,0
+1787204211675,500,Currencies,200,OK,EasyCalculations 1-1,text,true,,21952,294,10,20,https://www.easycalculation.com/currency-converter/index.php,251,0,0
+1787204211675,251,Currencies-0,301,Moved Permanently,EasyCalculations 1-1,text,true,,390,145,10,20,https://easycalculation.com/currency-converter/index.php,251,0,0
+1787204211927,248,Currencies-1,200,OK,EasyCalculations 1-1,text,true,,21562,149,10,20,https://www.easycalculation.com/currency-converter/index.php,248,0,0
+1787204211920,284,Products,200,OK,AutomationExecrise 2-6,text,true,,48946,128,10,20,https://automationexercise.com/products,284,0,0
+1787204211958,268,Products,200,OK,AutomationExecrise 2-5,text,true,,48938,128,10,20,https://automationexercise.com/products,267,0,0
+1787204211751,496,Currencies,200,OK,EasyCalculations 1-4,text,true,,21952,294,10,20,https://www.easycalculation.com/currency-converter/index.php,246,0,0
+1787204211751,246,Currencies-0,301,Moved Permanently,EasyCalculations 1-4,text,true,,390,145,10,20,https://easycalculation.com/currency-converter/index.php,246,0,0
+1787204211998,249,Currencies-1,200,OK,EasyCalculations 1-4,text,true,,21562,149,10,20,https://www.easycalculation.com/currency-converter/index.php,249,0,0
+1787204211999,275,Products,200,OK,AutomationExecrise 2-8,text,true,,48942,128,10,20,https://automationexercise.com/products,274,0,0
+1787204212025,249,Cart,200,OK,AutomationExecrise 2-2,text,true,,8272,129,10,20,https://automationexercise.com/view_cart,249,0,0
+1787204212006,276,Products,200,OK,AutomationExecrise 2-7,text,true,,48938,128,10,20,https://automationexercise.com/products,275,0,0
+1787204211830,476,Currencies,200,OK,EasyCalculations 1-6,text,true,,21952,294,10,20,https://www.easycalculation.com/currency-converter/index.php,243,0,0
+1787204211830,243,Currencies-0,301,Moved Permanently,EasyCalculations 1-6,text,true,,390,145,10,20,https://easycalculation.com/currency-converter/index.php,243,0,0
+1787204212073,233,Currencies-1,200,OK,EasyCalculations 1-6,text,true,,21562,149,10,20,https://www.easycalculation.com/currency-converter/index.php,233,0,0
+1787204212091,242,Cart,200,OK,AutomationExecrise 2-1,text,true,,8278,129,10,20,https://automationexercise.com/view_cart,242,0,0
+1787204212125,237,Contact,200,OK,AutomationExecrise 2-10,text,true,,9935,130,10,20,https://automationexercise.com/contact_us,237,0,0
+1787204212119,255,Cart,200,OK,AutomationExecrise 2-4,text,true,,8274,129,10,20,https://automationexercise.com/view_cart,255,0,0
+1787204212134,247,Cart,200,OK,AutomationExecrise 2-3,text,true,,8274,129,10,20,https://automationexercise.com/view_cart,247,0,0
+1787204211905,493,Currencies,200,OK,EasyCalculations 1-5,text,true,,21952,294,10,20,https://www.easycalculation.com/currency-converter/index.php,242,0,0
+1787204211905,242,Currencies-0,301,Moved Permanently,EasyCalculations 1-5,text,true,,390,145,10,20,https://easycalculation.com/currency-converter/index.php,242,0,0
+1787204212148,250,Currencies-1,200,OK,EasyCalculations 1-5,text,true,,21562,149,10,20,https://www.easycalculation.com/currency-converter/index.php,249,0,0
+1787204212156,270,Products,200,OK,AutomationExecrise 2-9,text,true,,48936,128,10,20,https://automationexercise.com/products,270,0,0
+1787204212204,242,Cart,200,OK,AutomationExecrise 2-6,text,true,,8268,129,10,20,https://automationexercise.com/view_cart,241,0,0
+1787204212226,244,Cart,200,OK,AutomationExecrise 2-5,text,true,,8272,129,10,20,https://automationexercise.com/view_cart,244,0,0
+1787204212274,246,TestCases,200,OK,AutomationExecrise 2-2,text,true,,43771,130,10,20,https://automationexercise.com/test_cases,246,0,0
+1787204212025,495,Charts,200,OK,EasyCalculations 1-2,text,true,,33202,280,10,20,https://www.easycalculation.com/charts-and-tables.php,238,0,0
+1787204212025,238,Charts-0,301,Moved Permanently,EasyCalculations 1-2,text,true,,383,138,10,20,https://easycalculation.com/charts-and-tables.php,238,0,0
+1787204212263,257,Charts-1,200,OK,EasyCalculations 1-2,text,true,,32819,142,10,20,https://www.easycalculation.com/charts-and-tables.php,257,0,0
+1787204212274,250,Cart,200,OK,AutomationExecrise 2-8,text,true,,8280,129,10,20,https://automationexercise.com/view_cart,250,0,0
+1787204212282,243,Cart,200,OK,AutomationExecrise 2-7,text,true,,8270,129,10,20,https://automationexercise.com/view_cart,243,0,0
+1787204212050,478,Currencies,200,OK,EasyCalculations 1-8,text,true,,21952,294,10,20,https://www.easycalculation.com/currency-converter/index.php,236,0,0
+1787204212050,236,Currencies-0,301,Moved Permanently,EasyCalculations 1-8,text,true,,390,145,10,20,https://easycalculation.com/currency-converter/index.php,236,0,0
+1787204212286,242,Currencies-1,200,OK,EasyCalculations 1-8,text,true,,21562,149,10,20,https://www.easycalculation.com/currency-converter/index.php,242,0,0
+1787204212058,490,Currencies,200,OK,EasyCalculations 1-7,text,true,,21952,294,10,20,https://www.easycalculation.com/currency-converter/index.php,246,0,0
+1787204212058,246,Currencies-0,301,Moved Permanently,EasyCalculations 1-7,text,true,,390,145,10,20,https://easycalculation.com/currency-converter/index.php,246,0,0
+1787204212304,244,Currencies-1,200,OK,EasyCalculations 1-7,text,true,,21562,149,10,20,https://www.easycalculation.com/currency-converter/index.php,244,0,0
+1787204212333,253,TestCases,200,OK,AutomationExecrise 2-1,text,true,,43769,130,10,20,https://automationexercise.com/test_cases,253,0,0
+1787204212140,471,Currencies,200,OK,EasyCalculations 1-10,text,true,,21952,294,10,20,https://www.easycalculation.com/currency-converter/index.php,235,0,0
+1787204212140,235,Currencies-0,301,Moved Permanently,EasyCalculations 1-10,text,true,,390,145,10,20,https://easycalculation.com/currency-converter/index.php,235,0,0
+1787204212375,236,Currencies-1,200,OK,EasyCalculations 1-10,text,true,,21562,149,10,20,https://www.easycalculation.com/currency-converter/index.php,235,0,0
+1787204212374,245,TestCases,200,OK,AutomationExecrise 2-4,text,true,,43775,130,10,20,https://automationexercise.com/test_cases,245,0,0
+1787204212381,243,TestCases,200,OK,AutomationExecrise 2-3,text,true,,43767,130,10,20,https://automationexercise.com/test_cases,242,0,0
+1787204212151,476,Currencies,200,OK,EasyCalculations 1-9,text,true,,21952,294,10,20,https://www.easycalculation.com/currency-converter/index.php,232,0,0
+1787204212151,232,Currencies-0,301,Moved Permanently,EasyCalculations 1-9,text,true,,390,145,10,20,https://easycalculation.com/currency-converter/index.php,232,0,0
+1787204212383,244,Currencies-1,200,OK,EasyCalculations 1-9,text,true,,21562,149,10,20,https://www.easycalculation.com/currency-converter/index.php,244,0,0
+1787204212362,281,Products,200,OK,AutomationExecrise 2-10,text,true,,48944,128,10,20,https://automationexercise.com/products,279,0,0
+1787204212426,243,Cart,200,OK,AutomationExecrise 2-9,text,true,,8274,129,10,20,https://automationexercise.com/view_cart,243,0,0
+1787204212446,255,TestCases,200,OK,AutomationExecrise 2-6,text,true,,43765,130,10,20,https://automationexercise.com/test_cases,255,0,0
+1787204212470,251,TestCases,200,OK,AutomationExecrise 2-5,text,true,,43771,130,10,20,https://automationexercise.com/test_cases,249,0,0
+1787204212020,729,Charts,200,OK,EasyCalculations 1-3,text,true,,33202,280,10,20,https://www.easycalculation.com/charts-and-tables.php,247,0,0
+1787204212020,247,Charts-0,301,Moved Permanently,EasyCalculations 1-3,text,true,,383,138,10,20,https://easycalculation.com/charts-and-tables.php,247,0,0
+1787204212267,482,Charts-1,200,OK,EasyCalculations 1-3,text,true,,32819,142,10,20,https://www.easycalculation.com/charts-and-tables.php,253,0,0
+1787204212524,240,TestCases,200,OK,AutomationExecrise 2-8,text,true,,43767,130,10,20,https://automationexercise.com/test_cases,240,0,0
+1787204212520,249,API_List,200,OK,AutomationExecrise 2-2,text,true,,20582,128,10,20,https://automationexercise.com/api_list,249,0,0
+1787204212526,251,TestCases,200,OK,AutomationExecrise 2-7,text,true,,43771,130,10,20,https://automationexercise.com/test_cases,249,0,0
+1787204212586,243,API_List,200,OK,AutomationExecrise 2-1,text,true,,20588,128,10,20,https://automationexercise.com/api_list,243,0,0
+1787204212624,242,API_List,200,OK,AutomationExecrise 2-3,text,true,,20580,128,10,20,https://automationexercise.com/api_list,242,0,0
+1787204212619,250,API_List,200,OK,AutomationExecrise 2-4,text,true,,20586,128,10,20,https://automationexercise.com/api_list,250,0,0
+1787204212643,242,Cart,200,OK,AutomationExecrise 2-10,text,true,,8270,129,10,20,https://automationexercise.com/view_cart,242,0,0
+1787204212669,251,TestCases,200,OK,AutomationExecrise 2-9,text,true,,43769,130,10,20,https://automationexercise.com/test_cases,250,0,0
+1787204212175,745,Charts,200,OK,EasyCalculations 1-1,text,true,,33202,280,10,20,https://www.easycalculation.com/charts-and-tables.php,252,0,0
+1787204212175,252,Charts-0,301,Moved Permanently,EasyCalculations 1-1,text,true,,383,138,10,20,https://easycalculation.com/charts-and-tables.php,252,0,0
+1787204212427,493,Charts-1,200,OK,EasyCalculations 1-1,text,true,,32819,142,10,20,https://www.easycalculation.com/charts-and-tables.php,247,0,0
+1787204212702,246,API_List,200,OK,AutomationExecrise 2-6,text,true,,20584,128,10,20,https://automationexercise.com/api_list,246,0,0
+1787204212721,241,API_List,200,OK,AutomationExecrise 2-5,text,true,,20584,128,10,20,https://automationexercise.com/api_list,241,0,0
+1787204212247,737,Charts,200,OK,EasyCalculations 1-4,text,true,,33202,280,10,20,https://www.easycalculation.com/charts-and-tables.php,243,0,0
+1787204212247,244,Charts-0,301,Moved Permanently,EasyCalculations 1-4,text,true,,383,138,10,20,https://easycalculation.com/charts-and-tables.php,243,0,0
+1787204212491,493,Charts-1,200,OK,EasyCalculations 1-4,text,true,,32819,142,10,20,https://www.easycalculation.com/charts-and-tables.php,247,0,0
+1787204212764,250,API_List,200,OK,AutomationExecrise 2-8,text,true,,20580,128,10,20,https://automationexercise.com/api_list,250,0,0
+1787204212306,710,Charts,200,OK,EasyCalculations 1-6,text,true,,33202,280,10,20,https://www.easycalculation.com/charts-and-tables.php,245,0,0
+1787204212306,245,Charts-0,301,Moved Permanently,EasyCalculations 1-6,text,true,,383,138,10,20,https://easycalculation.com/charts-and-tables.php,245,0,0
+1787204212551,465,Charts-1,200,OK,EasyCalculations 1-6,text,true,,32819,142,10,20,https://www.easycalculation.com/charts-and-tables.php,234,0,0
+1787204212770,252,Contact,200,OK,AutomationExecrise 2-2,text,true,,9939,130,10,20,https://automationexercise.com/contact_us,252,0,0
+1787204212778,262,API_List,200,OK,AutomationExecrise 2-7,text,true,,20580,128,10,20,https://automationexercise.com/api_list,261,0,0
+1787204212830,254,Contact,200,OK,AutomationExecrise 2-1,text,true,,9929,130,10,20,https://automationexercise.com/contact_us,254,0,0
+1787204212627,475,Charts,200,OK,EasyCalculations 1-9,text,true,,33202,280,10,20,https://www.easycalculation.com/charts-and-tables.php,231,0,0
+1787204212627,231,Charts-0,301,Moved Permanently,EasyCalculations 1-9,text,true,,383,138,10,20,https://easycalculation.com/charts-and-tables.php,231,0,0
+1787204212858,244,Charts-1,200,OK,EasyCalculations 1-9,text,true,,32819,142,10,20,https://www.easycalculation.com/charts-and-tables.php,244,0,0
+1787204212866,244,Contact,200,OK,AutomationExecrise 2-3,text,true,,9933,130,10,20,https://automationexercise.com/contact_us,244,0,0
+1787204212869,248,Contact,200,OK,AutomationExecrise 2-4,text,true,,9925,130,10,20,https://automationexercise.com/contact_us,248,0,0
+1787204212886,250,TestCases,200,OK,AutomationExecrise 2-10,text,true,,43775,130,10,20,https://automationexercise.com/test_cases,250,0,0
+1787204212398,741,Charts,200,OK,EasyCalculations 1-5,text,true,,33202,280,10,20,https://www.easycalculation.com/charts-and-tables.php,243,0,0
+1787204212398,243,Charts-0,301,Moved Permanently,EasyCalculations 1-5,text,true,,383,138,10,20,https://easycalculation.com/charts-and-tables.php,243,0,0
+1787204212642,497,Charts-1,200,OK,EasyCalculations 1-5,text,true,,32819,142,10,20,https://www.easycalculation.com/charts-and-tables.php,249,0,0
+1787204212920,239,API_List,200,OK,AutomationExecrise 2-9,text,true,,20586,128,10,20,https://automationexercise.com/api_list,239,0,0
+1787204212949,251,Contact,200,OK,AutomationExecrise 2-6,text,true,,9927,130,10,20,https://automationexercise.com/contact_us,251,0,0
+1787204212962,248,Contact,200,OK,AutomationExecrise 2-5,text,true,,9925,130,10,20,https://automationexercise.com/contact_us,248,0,0
+1787204212528,720,Charts,200,OK,EasyCalculations 1-8,text,true,,33202,280,10,20,https://www.easycalculation.com/charts-and-tables.php,237,0,0
+1787204212528,237,Charts-0,301,Moved Permanently,EasyCalculations 1-8,text,true,,383,138,10,20,https://easycalculation.com/charts-and-tables.php,237,0,0
+1787204212765,483,Charts-1,200,OK,EasyCalculations 1-8,text,true,,32819,142,10,20,https://www.easycalculation.com/charts-and-tables.php,242,0,0
+1787204212521,730,Calculators,200,OK,EasyCalculations 1-2,text,true,,48636,256,10,20,https://www.easycalculation.com/index.php,231,0,0
+1787204212521,231,Calculators-0,301,Moved Permanently,EasyCalculations 1-2,text,true,,371,126,10,20,https://easycalculation.com/index.php,231,0,0
+1787204212752,499,Calculators-1,200,OK,EasyCalculations 1-2,text,true,,48265,130,10,20,https://www.easycalculation.com/index.php,250,0,0
+1787204213014,248,Contact,200,OK,AutomationExecrise 2-8,text,true,,9931,130,10,20,https://automationexercise.com/contact_us,248,0,0
+1787204212548,730,Charts,200,OK,EasyCalculations 1-7,text,true,,33202,280,10,20,https://www.easycalculation.com/charts-and-tables.php,247,0,0
+1787204212548,247,Charts-0,301,Moved Permanently,EasyCalculations 1-7,text,true,,383,138,10,20,https://easycalculation.com/charts-and-tables.php,247,0,0
+1787204212795,483,Charts-1,200,OK,EasyCalculations 1-7,text,true,,32819,142,10,20,https://www.easycalculation.com/charts-and-tables.php,242,0,0
+1787204213040,244,Contact,200,OK,AutomationExecrise 2-7,text,true,,9935,130,10,20,https://automationexercise.com/contact_us,244,0,0
+1787204213022,267,Products,200,OK,AutomationExecrise 2-2,text,true,,48944,128,10,20,https://automationexercise.com/products,267,0,0
+1787204212611,707,Charts,200,OK,EasyCalculations 1-10,text,true,,33202,280,10,20,https://www.easycalculation.com/charts-and-tables.php,236,0,0
+1787204212611,236,Charts-0,301,Moved Permanently,EasyCalculations 1-10,text,true,,383,138,10,20,https://easycalculation.com/charts-and-tables.php,236,0,0
+1787204212847,471,Charts-1,200,OK,EasyCalculations 1-10,text,true,,32819,142,10,20,https://www.easycalculation.com/charts-and-tables.php,236,0,0
+1787204213084,265,Products,200,OK,AutomationExecrise 2-1,text,true,,48936,128,10,20,https://automationexercise.com/products,264,0,0
+1787204213111,263,Products,200,OK,AutomationExecrise 2-3,text,true,,48940,128,10,20,https://automationexercise.com/products,263,0,0
+1787204213136,240,API_List,200,OK,AutomationExecrise 2-10,text,true,,20586,128,10,20,https://automationexercise.com/api_list,240,0,0
+1787204213118,273,Products,200,OK,AutomationExecrise 2-4,text,true,,48934,128,10,20,https://automationexercise.com/products,273,0,0
+1787204213159,248,Contact,200,OK,AutomationExecrise 2-9,text,true,,9925,130,10,20,https://automationexercise.com/contact_us,248,0,0
+1787204212750,709,Calculators,200,OK,EasyCalculations 1-3,text,true,,48636,256,10,20,https://www.easycalculation.com/index.php,242,0,0
+1787204212750,242,Calculators-0,301,Moved Permanently,EasyCalculations 1-3,text,true,,371,126,10,20,https://easycalculation.com/index.php,242,0,0
+1787204212992,467,Calculators-1,200,OK,EasyCalculations 1-3,text,true,,48265,130,10,20,https://www.easycalculation.com/index.php,234,0,0
+1787204213200,272,Products,200,OK,AutomationExecrise 2-6,text,true,,48950,128,10,20,https://automationexercise.com/products,272,0,0
+1787204213211,263,Products,200,OK,AutomationExecrise 2-5,text,true,,48938,128,10,20,https://automationexercise.com/products,262,0,0
+1787204213262,270,Products,200,OK,AutomationExecrise 2-8,text,true,,48936,128,10,20,https://automationexercise.com/products,270,0,0
+1787204213284,285,Products,200,OK,AutomationExecrise 2-7,text,true,,48942,128,10,20,https://automationexercise.com/products,284,0,0
+1787204213289,372,Cart,200,OK,AutomationExecrise 2-2,text,true,,8274,129,10,20,https://automationexercise.com/view_cart,372,0,0
+1787204213349,314,Cart,200,OK,AutomationExecrise 2-1,text,true,,8274,129,10,20,https://automationexercise.com/view_cart,313,0,0
+1787204212920,747,Calculators,200,OK,EasyCalculations 1-1,text,true,,48636,256,10,20,https://www.easycalculation.com/index.php,252,0,0
+1787204212920,252,Calculators-0,301,Moved Permanently,EasyCalculations 1-1,text,true,,371,126,10,20,https://easycalculation.com/index.php,252,0,0
+1787204213172,495,Calculators-1,200,OK,EasyCalculations 1-1,text,true,,48265,130,10,20,https://www.easycalculation.com/index.php,248,0,0
+1787204213377,290,Contact,200,OK,AutomationExecrise 2-10,text,true,,9939,130,10,20,https://automationexercise.com/contact_us,290,0,0
+1787204212984,740,Calculators,200,OK,EasyCalculations 1-4,text,true,,48636,256,10,20,https://www.easycalculation.com/index.php,244,0,0
+1787204212984,244,Calculators-0,301,Moved Permanently,EasyCalculations 1-4,text,true,,371,126,10,20,https://easycalculation.com/index.php,244,0,0
+1787204213228,496,Calculators-1,200,OK,EasyCalculations 1-4,text,true,,48265,130,10,20,https://www.easycalculation.com/index.php,247,0,0
+1787204213016,712,Calculators,200,OK,EasyCalculations 1-6,text,true,,48636,256,10,20,https://www.easycalculation.com/index.php,243,0,0
+1787204213016,243,Calculators-0,301,Moved Permanently,EasyCalculations 1-6,text,true,,371,126,10,20,https://easycalculation.com/index.php,243,0,0
+1787204213259,469,Calculators-1,200,OK,EasyCalculations 1-6,text,true,,48265,130,10,20,https://www.easycalculation.com/index.php,237,0,0
+1787204213251,482,UnitConversions,200,OK,EasyCalculations 1-2,text,true,,24641,288,10,20,https://www.easycalculation.com/unit-conversion/index.php,232,0,0
+1787204213251,232,UnitConversions-0,301,Moved Permanently,EasyCalculations 1-2,text,true,,387,142,10,20,https://easycalculation.com/unit-conversion/index.php,232,0,0
+1787204213483,250,UnitConversions-1,200,OK,EasyCalculations 1-2,text,true,,24254,146,10,20,https://www.easycalculation.com/unit-conversion/index.php,250,0,0
+1787204213473,274,Cart,200,OK,AutomationExecrise 2-6,text,true,,8268,129,10,20,https://automationexercise.com/view_cart,274,0,0
+1787204213375,372,Cart,200,OK,AutomationExecrise 2-3,text,true,,8266,129,10,20,https://automationexercise.com/view_cart,372,0,0
+1787204213391,357,Cart,200,OK,AutomationExecrise 2-4,text,true,,8268,129,10,20,https://automationexercise.com/view_cart,357,0,0
+1787204213474,285,Cart,200,OK,AutomationExecrise 2-5,text,true,,8268,129,10,20,https://automationexercise.com/view_cart,285,0,0
+1787204213407,358,Products,200,OK,AutomationExecrise 2-9,text,true,,48940,128,10,20,https://automationexercise.com/products,357,0,0
+1787204213532,247,Cart,200,OK,AutomationExecrise 2-8,text,true,,8278,129,10,20,https://automationexercise.com/view_cart,247,0,0
+1787204213103,719,Calculators,200,OK,EasyCalculations 1-9,text,true,,48636,256,10,20,https://www.easycalculation.com/index.php,232,0,0
+1787204213103,232,Calculators-0,301,Moved Permanently,EasyCalculations 1-9,text,true,,371,126,10,20,https://easycalculation.com/index.php,232,0,0
+1787204213335,487,Calculators-1,200,OK,EasyCalculations 1-9,text,true,,48265,130,10,20,https://www.easycalculation.com/index.php,244,0,0
+1787204213569,259,Cart,200,OK,AutomationExecrise 2-7,text,true,,8270,129,10,20,https://automationexercise.com/view_cart,259,0,0
+1787204213139,744,Calculators,200,OK,EasyCalculations 1-5,text,true,,48636,256,10,20,https://www.easycalculation.com/index.php,245,0,0
+1787204213139,245,Calculators-0,301,Moved Permanently,EasyCalculations 1-5,text,true,,371,126,10,20,https://easycalculation.com/index.php,245,0,0
+1787204213384,499,Calculators-1,200,OK,EasyCalculations 1-5,text,true,,48265,130,10,20,https://www.easycalculation.com/index.php,250,0,0
+1787204213663,245,TestCases,200,OK,AutomationExecrise 2-1,text,true,,43773,130,10,20,https://automationexercise.com/test_cases,245,0,0
+1787204213661,253,TestCases,200,OK,AutomationExecrise 2-2,text,true,,43771,130,10,20,https://automationexercise.com/test_cases,252,0,0
+1787204213460,479,UnitConversions,200,OK,EasyCalculations 1-3,text,true,,24641,288,10,20,https://www.easycalculation.com/unit-conversion/index.php,245,0,0
+1787204213460,245,UnitConversions-0,301,Moved Permanently,EasyCalculations 1-3,text,true,,387,142,10,20,https://easycalculation.com/unit-conversion/index.php,245,0,0
+1787204213706,233,UnitConversions-1,200,OK,EasyCalculations 1-3,text,true,,24254,146,10,20,https://www.easycalculation.com/unit-conversion/index.php,233,0,0
+1787204213667,276,Products,200,OK,AutomationExecrise 2-10,text,true,,48940,128,10,20,https://automationexercise.com/products,274,0,0
+1787204213248,718,Calculators,200,OK,EasyCalculations 1-8,text,true,,48636,256,10,20,https://www.easycalculation.com/index.php,235,0,0
+1787204213248,235,Calculators-0,301,Moved Permanently,EasyCalculations 1-8,text,true,,371,126,10,20,https://easycalculation.com/index.php,235,0,0
+1787204213483,483,Calculators-1,200,OK,EasyCalculations 1-8,text,true,,48265,130,10,20,https://www.easycalculation.com/index.php,242,0,0
+1787204213748,251,TestCases,200,OK,AutomationExecrise 2-6,text,true,,43771,130,10,20,https://automationexercise.com/test_cases,251,0,0
+1787204213278,735,Calculators,200,OK,EasyCalculations 1-7,text,true,,48636,256,10,20,https://www.easycalculation.com/index.php,247,0,0
+1787204213278,247,Calculators-0,301,Moved Permanently,EasyCalculations 1-7,text,true,,371,126,10,20,https://easycalculation.com/index.php,247,0,0
+1787204213526,487,Calculators-1,200,OK,EasyCalculations 1-7,text,true,,48265,130,10,20,https://www.easycalculation.com/index.php,244,0,0
+1787204213765,255,Cart,200,OK,AutomationExecrise 2-9,text,true,,8272,129,10,20,https://automationexercise.com/view_cart,255,0,0
+1787204213779,245,TestCases,200,OK,AutomationExecrise 2-8,text,true,,43777,130,10,20,https://automationexercise.com/test_cases,245,0,0
+1787204213319,706,Calculators,200,OK,EasyCalculations 1-10,text,true,,48636,256,10,20,https://www.easycalculation.com/index.php,236,0,0
+1787204213319,236,Calculators-0,301,Moved Permanently,EasyCalculations 1-10,text,true,,371,126,10,20,https://easycalculation.com/index.php,236,0,0
+1787204213555,470,Calculators-1,200,OK,EasyCalculations 1-10,text,true,,48265,130,10,20,https://www.easycalculation.com/index.php,235,0,0
+1787204213748,292,TestCases,200,OK,AutomationExecrise 2-4,text,true,,43771,130,10,20,https://automationexercise.com/test_cases,257,0,0
+1787204213748,293,TestCases,200,OK,AutomationExecrise 2-3,text,true,,43765,130,10,20,https://automationexercise.com/test_cases,257,0,0
+1787204213759,282,TestCases,200,OK,AutomationExecrise 2-5,text,true,,43779,130,10,20,https://automationexercise.com/test_cases,282,0,0
+1787204213828,249,TestCases,200,OK,AutomationExecrise 2-7,text,true,,43775,130,10,20,https://automationexercise.com/test_cases,249,0,0
+1787204213909,243,API_List,200,OK,AutomationExecrise 2-1,text,true,,20582,128,10,20,https://automationexercise.com/api_list,243,0,0
+1787204213914,252,API_List,200,OK,AutomationExecrise 2-2,text,true,,20582,128,10,20,https://automationexercise.com/api_list,252,0,0
+1787204213667,500,UnitConversions,200,OK,EasyCalculations 1-1,text,true,,24641,288,10,20,https://www.easycalculation.com/unit-conversion/index.php,252,0,0
+1787204213667,252,UnitConversions-0,301,Moved Permanently,EasyCalculations 1-1,text,true,,387,142,10,20,https://easycalculation.com/unit-conversion/index.php,252,0,0
+1787204213919,248,UnitConversions-1,200,OK,EasyCalculations 1-1,text,true,,24254,146,10,20,https://www.easycalculation.com/unit-conversion/index.php,248,0,0
+1787204213943,242,Cart,200,OK,AutomationExecrise 2-10,text,true,,8266,129,10,20,https://automationexercise.com/view_cart,242,0,0
+1787204213729,480,UnitConversions,200,OK,EasyCalculations 1-6,text,true,,24641,288,10,20,https://www.easycalculation.com/unit-conversion/index.php,246,0,0
+1787204213729,246,UnitConversions-0,301,Moved Permanently,EasyCalculations 1-6,text,true,,387,142,10,20,https://easycalculation.com/unit-conversion/index.php,246,0,0
+1787204213976,233,UnitConversions-1,200,OK,EasyCalculations 1-6,text,true,,24254,146,10,20,https://www.easycalculation.com/unit-conversion/index.php,233,0,0
+1787204213724,499,UnitConversions,200,OK,EasyCalculations 1-4,text,true,,24641,288,10,20,https://www.easycalculation.com/unit-conversion/index.php,251,0,0
+1787204213724,251,UnitConversions-0,301,Moved Permanently,EasyCalculations 1-4,text,true,,387,142,10,20,https://easycalculation.com/unit-conversion/index.php,251,0,0
+1787204213975,248,UnitConversions-1,200,OK,EasyCalculations 1-4,text,true,,24254,146,10,20,https://www.easycalculation.com/unit-conversion/index.php,248,0,0
+1787204213733,499,Formulas,200,OK,EasyCalculations 1-2,text,true,,25304,274,10,20,https://www.easycalculation.com/formulas/index.php,241,0,0
+1787204213733,241,Formulas-0,301,Moved Permanently,EasyCalculations 1-2,text,true,,380,135,10,20,https://easycalculation.com/formulas/index.php,241,0,0
+1787204213974,258,Formulas-1,200,OK,EasyCalculations 1-2,text,true,,24924,139,10,20,https://www.easycalculation.com/formulas/index.php,258,0,0
+1787204214000,238,API_List,200,OK,AutomationExecrise 2-6,text,true,,20594,128,10,20,https://automationexercise.com/api_list,238,0,0
+1787204214024,241,API_List,200,OK,AutomationExecrise 2-8,text,true,,20582,128,10,20,https://automationexercise.com/api_list,241,0,0
+1787204214041,245,API_List,200,OK,AutomationExecrise 2-3,text,true,,20592,128,10,20,https://automationexercise.com/api_list,245,0,0
+1787204214020,267,TestCases,200,OK,AutomationExecrise 2-9,text,true,,43773,130,10,20,https://automationexercise.com/test_cases,259,0,0
+1787204213823,475,UnitConversions,200,OK,EasyCalculations 1-9,text,true,,24641,288,10,20,https://www.easycalculation.com/unit-conversion/index.php,232,0,0
+1787204213823,232,UnitConversions-0,301,Moved Permanently,EasyCalculations 1-9,text,true,,387,142,10,20,https://easycalculation.com/unit-conversion/index.php,232,0,0
+1787204214055,243,UnitConversions-1,200,OK,EasyCalculations 1-9,text,true,,24254,146,10,20,https://www.easycalculation.com/unit-conversion/index.php,243,0,0
+1787204214040,259,API_List,200,OK,AutomationExecrise 2-4,text,true,,20586,128,10,20,https://automationexercise.com/api_list,259,0,0
+1787204214041,259,API_List,200,OK,AutomationExecrise 2-5,text,true,,20588,128,10,20,https://automationexercise.com/api_list,259,0,0
+1787204214077,247,API_List,200,OK,AutomationExecrise 2-7,text,true,,20590,128,10,20,https://automationexercise.com/api_list,247,0,0
+1787204213883,494,UnitConversions,200,OK,EasyCalculations 1-5,text,true,,24641,288,10,20,https://www.easycalculation.com/unit-conversion/index.php,244,0,0
+1787204213883,244,UnitConversions-0,301,Moved Permanently,EasyCalculations 1-5,text,true,,387,142,10,20,https://easycalculation.com/unit-conversion/index.php,244,0,0
+1787204214127,250,UnitConversions-1,200,OK,EasyCalculations 1-5,text,true,,24254,146,10,20,https://www.easycalculation.com/unit-conversion/index.php,250,0,0
+1787204214152,254,Contact,200,OK,AutomationExecrise 2-1,text,true,,9931,130,10,20,https://automationexercise.com/contact_us,254,0,0
+1787204214167,252,Contact,200,OK,AutomationExecrise 2-2,text,true,,9931,130,9,19,https://automationexercise.com/contact_us,252,0,0
+1787204213967,479,UnitConversions,200,OK,EasyCalculations 1-8,text,true,,24641,288,10,18,https://www.easycalculation.com/unit-conversion/index.php,236,0,0
+1787204213967,236,UnitConversions-0,301,Moved Permanently,EasyCalculations 1-8,text,true,,387,142,10,18,https://easycalculation.com/unit-conversion/index.php,236,0,0
+1787204214204,242,UnitConversions-1,200,OK,EasyCalculations 1-8,text,true,,24254,146,10,18,https://www.easycalculation.com/unit-conversion/index.php,242,0,0
+1787204214185,276,TestCases,200,OK,AutomationExecrise 2-10,text,true,,43775,130,8,18,https://automationexercise.com/test_cases,268,0,0
+1787204214013,489,UnitConversions,200,OK,EasyCalculations 1-7,text,true,,24641,288,10,18,https://www.easycalculation.com/unit-conversion/index.php,247,0,0
+1787204214013,247,UnitConversions-0,301,Moved Permanently,EasyCalculations 1-7,text,true,,387,142,10,18,https://easycalculation.com/unit-conversion/index.php,247,0,0
+1787204214260,242,UnitConversions-1,200,OK,EasyCalculations 1-7,text,true,,24254,146,10,18,https://www.easycalculation.com/unit-conversion/index.php,242,0,0
+1787204214238,316,Contact,200,OK,AutomationExecrise 2-6,text,true,,9931,130,8,18,https://automationexercise.com/contact_us,316,0,0
+1787204214265,379,Contact,200,OK,AutomationExecrise 2-8,text,true,,9929,130,7,17,https://automationexercise.com/contact_us,379,0,0
+1787204213940,711,Formulas,200,OK,EasyCalculations 1-3,text,true,,25304,274,10,16,https://www.easycalculation.com/formulas/index.php,244,0,0
+1787204213940,244,Formulas-0,301,Moved Permanently,EasyCalculations 1-3,text,true,,380,135,10,16,https://easycalculation.com/formulas/index.php,244,0,0
+1787204214184,467,Formulas-1,200,OK,EasyCalculations 1-3,text,true,,24924,139,10,16,https://www.easycalculation.com/formulas/index.php,237,0,0
+1787204214300,353,Contact,200,OK,AutomationExecrise 2-5,text,true,,9933,130,6,16,https://automationexercise.com/contact_us,353,0,0
+1787204214286,370,Contact,200,OK,AutomationExecrise 2-3,text,true,,9927,130,5,15,https://automationexercise.com/contact_us,370,0,0
+1787204214324,332,Contact,200,OK,AutomationExecrise 2-7,text,true,,9935,130,5,15,https://automationexercise.com/contact_us,332,0,0
+1787204214287,371,API_List,200,OK,AutomationExecrise 2-9,text,true,,20592,128,3,13,https://automationexercise.com/api_list,371,0,0
+1787204214299,359,Contact,200,OK,AutomationExecrise 2-4,text,true,,9929,130,3,13,https://automationexercise.com/contact_us,359,0,0
+1787204214167,504,Formulas,200,OK,EasyCalculations 1-1,text,true,,25304,274,10,12,https://www.easycalculation.com/formulas/index.php,253,0,0
+1787204214167,253,Formulas-0,301,Moved Permanently,EasyCalculations 1-1,text,true,,380,135,10,12,https://easycalculation.com/formulas/index.php,253,0,0
+1787204214420,251,Formulas-1,200,OK,EasyCalculations 1-1,text,true,,24924,139,10,12,https://www.easycalculation.com/formulas/index.php,250,0,0
+1787204214210,476,Formulas,200,OK,EasyCalculations 1-6,text,true,,25304,274,10,12,https://www.easycalculation.com/formulas/index.php,242,0,0
+1787204214210,242,Formulas-0,301,Moved Permanently,EasyCalculations 1-6,text,true,,380,135,10,12,https://easycalculation.com/formulas/index.php,242,0,0
+1787204214452,234,Formulas-1,200,OK,EasyCalculations 1-6,text,true,,24924,139,10,12,https://www.easycalculation.com/formulas/index.php,234,0,0
+1787204214461,242,API_List,200,OK,AutomationExecrise 2-10,text,true,,20586,128,2,12,https://automationexercise.com/api_list,242,0,0
+1787204214223,495,Formulas,200,OK,EasyCalculations 1-4,text,true,,25304,274,10,12,https://www.easycalculation.com/formulas/index.php,246,0,0
+1787204214223,246,Formulas-0,301,Moved Permanently,EasyCalculations 1-4,text,true,,380,135,10,12,https://easycalculation.com/formulas/index.php,246,0,0
+1787204214469,249,Formulas-1,200,OK,EasyCalculations 1-4,text,true,,24924,139,10,12,https://www.easycalculation.com/formulas/index.php,249,0,0
+1787204214232,487,Currencies,200,OK,EasyCalculations 1-2,text,true,,21952,294,10,12,https://www.easycalculation.com/currency-converter/index.php,237,0,0
+1787204214232,237,Currencies-0,301,Moved Permanently,EasyCalculations 1-2,text,true,,390,145,10,12,https://easycalculation.com/currency-converter/index.php,237,0,0
+1787204214469,250,Currencies-1,200,OK,EasyCalculations 1-2,text,true,,21562,149,10,12,https://www.easycalculation.com/currency-converter/index.php,250,0,0
+1787204214026,704,UnitConversions,200,OK,EasyCalculations 1-10,text,true,,24641,288,10,12,https://www.easycalculation.com/unit-conversion/index.php,234,0,0
+1787204214026,234,UnitConversions-0,301,Moved Permanently,EasyCalculations 1-10,text,true,,387,142,10,12,https://easycalculation.com/unit-conversion/index.php,234,0,0
+1787204214260,470,UnitConversions-1,200,OK,EasyCalculations 1-10,text,true,,24254,146,10,12,https://www.easycalculation.com/unit-conversion/index.php,236,0,0
+1787204214299,475,Formulas,200,OK,EasyCalculations 1-9,text,true,,25304,274,10,12,https://www.easycalculation.com/formulas/index.php,231,0,0
+1787204214299,231,Formulas-0,301,Moved Permanently,EasyCalculations 1-9,text,true,,380,135,10,12,https://easycalculation.com/formulas/index.php,231,0,0
+1787204214530,244,Formulas-1,200,OK,EasyCalculations 1-9,text,true,,24924,139,10,12,https://www.easycalculation.com/formulas/index.php,244,0,0
+1787204214377,497,Formulas,200,OK,EasyCalculations 1-5,text,true,,25304,274,10,12,https://www.easycalculation.com/formulas/index.php,244,0,0
+1787204214377,244,Formulas-0,301,Moved Permanently,EasyCalculations 1-5,text,true,,380,135,10,12,https://easycalculation.com/formulas/index.php,244,0,0
+1787204214622,252,Formulas-1,200,OK,EasyCalculations 1-5,text,true,,24924,139,10,12,https://www.easycalculation.com/formulas/index.php,252,0,0
+1787204214658,243,Contact,200,OK,AutomationExecrise 2-9,text,true,,9933,130,2,12,https://automationexercise.com/contact_us,243,0,0
+1787204214446,478,Formulas,200,OK,EasyCalculations 1-8,text,true,,25304,274,10,11,https://www.easycalculation.com/formulas/index.php,235,0,0
+1787204214446,235,Formulas-0,301,Moved Permanently,EasyCalculations 1-8,text,true,,380,135,10,11,https://easycalculation.com/formulas/index.php,235,0,0
+1787204214681,243,Formulas-1,200,OK,EasyCalculations 1-8,text,true,,24924,139,10,11,https://www.easycalculation.com/formulas/index.php,243,0,0
+1787204214703,247,Contact,200,OK,AutomationExecrise 2-10,text,true,,9937,130,1,11,https://automationexercise.com/contact_us,247,0,0
+1787204214503,491,Formulas,200,OK,EasyCalculations 1-7,text,true,,25304,274,10,10,https://www.easycalculation.com/formulas/index.php,248,0,0
+1787204214503,248,Formulas-0,301,Moved Permanently,EasyCalculations 1-7,text,true,,380,135,10,10,https://easycalculation.com/formulas/index.php,248,0,0
+1787204214751,243,Formulas-1,200,OK,EasyCalculations 1-7,text,true,,24924,139,10,10,https://www.easycalculation.com/formulas/index.php,242,0,0
+1787204214651,480,Currencies,200,OK,EasyCalculations 1-3,text,true,,21952,294,10,10,https://www.easycalculation.com/currency-converter/index.php,243,0,0
+1787204214651,243,Currencies-0,301,Moved Permanently,EasyCalculations 1-3,text,true,,390,145,10,10,https://easycalculation.com/currency-converter/index.php,243,0,0
+1787204214894,237,Currencies-1,200,OK,EasyCalculations 1-3,text,true,,21562,149,10,10,https://www.easycalculation.com/currency-converter/index.php,237,0,0
+1787204214686,476,Currencies,200,OK,EasyCalculations 1-6,text,true,,21952,294,10,10,https://www.easycalculation.com/currency-converter/index.php,243,0,0
+1787204214686,243,Currencies-0,301,Moved Permanently,EasyCalculations 1-6,text,true,,390,145,10,10,https://easycalculation.com/currency-converter/index.php,243,0,0
+1787204214929,233,Currencies-1,200,OK,EasyCalculations 1-6,text,true,,21562,149,10,10,https://www.easycalculation.com/currency-converter/index.php,233,0,0
+1787204214671,500,Currencies,200,OK,EasyCalculations 1-1,text,true,,21952,294,10,10,https://www.easycalculation.com/currency-converter/index.php,253,0,0
+1787204214671,253,Currencies-0,301,Moved Permanently,EasyCalculations 1-1,text,true,,390,145,10,10,https://easycalculation.com/currency-converter/index.php,253,0,0
+1787204214925,246,Currencies-1,200,OK,EasyCalculations 1-1,text,true,,21562,149,10,10,https://www.easycalculation.com/currency-converter/index.php,246,0,0
+1787204214719,492,Currencies,200,OK,EasyCalculations 1-4,text,true,,21952,294,10,10,https://www.easycalculation.com/currency-converter/index.php,245,0,0
+1787204214719,245,Currencies-0,301,Moved Permanently,EasyCalculations 1-4,text,true,,390,145,10,10,https://easycalculation.com/currency-converter/index.php,245,0,0
+1787204214964,247,Currencies-1,200,OK,EasyCalculations 1-4,text,true,,21562,149,10,10,https://www.easycalculation.com/currency-converter/index.php,247,0,0
+1787204214775,478,Currencies,200,OK,EasyCalculations 1-9,text,true,,21952,294,10,10,https://www.easycalculation.com/currency-converter/index.php,235,0,0
+1787204214775,235,Currencies-0,301,Moved Permanently,EasyCalculations 1-9,text,true,,390,145,10,10,https://easycalculation.com/currency-converter/index.php,235,0,0
+1787204215010,243,Currencies-1,200,OK,EasyCalculations 1-9,text,true,,21562,149,10,10,https://www.easycalculation.com/currency-converter/index.php,243,0,0
+1787204214875,493,Currencies,200,OK,EasyCalculations 1-5,text,true,,21952,294,10,10,https://www.easycalculation.com/currency-converter/index.php,243,0,0
+1787204214875,243,Currencies-0,301,Moved Permanently,EasyCalculations 1-5,text,true,,390,145,10,10,https://easycalculation.com/currency-converter/index.php,243,0,0
+1787204215118,250,Currencies-1,200,OK,EasyCalculations 1-5,text,true,,21562,149,10,10,https://www.easycalculation.com/currency-converter/index.php,249,0,0
+1787204214924,480,Currencies,200,OK,EasyCalculations 1-8,text,true,,21952,294,10,10,https://www.easycalculation.com/currency-converter/index.php,238,0,0
+1787204214924,238,Currencies-0,301,Moved Permanently,EasyCalculations 1-8,text,true,,390,145,10,10,https://easycalculation.com/currency-converter/index.php,238,0,0
+1787204215162,242,Currencies-1,200,OK,EasyCalculations 1-8,text,true,,21562,149,10,10,https://www.easycalculation.com/currency-converter/index.php,242,0,0
+1787204214730,703,Formulas,200,OK,EasyCalculations 1-10,text,true,,25304,274,10,10,https://www.easycalculation.com/formulas/index.php,234,0,0
+1787204214730,234,Formulas-0,301,Moved Permanently,EasyCalculations 1-10,text,true,,380,135,10,10,https://easycalculation.com/formulas/index.php,234,0,0
+1787204214964,469,Formulas-1,200,OK,EasyCalculations 1-10,text,true,,24924,139,10,10,https://www.easycalculation.com/formulas/index.php,235,0,0
+1787204214720,739,Charts,200,OK,EasyCalculations 1-2,text,true,,33202,280,10,10,https://www.easycalculation.com/charts-and-tables.php,233,0,0
+1787204214720,233,Charts-0,301,Moved Permanently,EasyCalculations 1-2,text,true,,383,138,10,10,https://easycalculation.com/charts-and-tables.php,233,0,0
+1787204214953,506,Charts-1,200,OK,EasyCalculations 1-2,text,true,,32819,142,10,10,https://www.easycalculation.com/charts-and-tables.php,250,0,0
+1787204214994,496,Currencies,200,OK,EasyCalculations 1-7,text,true,,21952,294,10,10,https://www.easycalculation.com/currency-converter/index.php,247,0,0
+1787204214994,247,Currencies-0,301,Moved Permanently,EasyCalculations 1-7,text,true,,390,145,10,10,https://easycalculation.com/currency-converter/index.php,247,0,0
+1787204215241,249,Currencies-1,200,OK,EasyCalculations 1-7,text,true,,21562,149,10,10,https://www.easycalculation.com/currency-converter/index.php,249,0,0
+1787204215131,709,Charts,200,OK,EasyCalculations 1-3,text,true,,33202,280,10,10,https://www.easycalculation.com/charts-and-tables.php,244,0,0
+1787204215131,244,Charts-0,301,Moved Permanently,EasyCalculations 1-3,text,true,,383,138,10,10,https://easycalculation.com/charts-and-tables.php,244,0,0
+1787204215375,465,Charts-1,200,OK,EasyCalculations 1-3,text,true,,32819,142,10,10,https://www.easycalculation.com/charts-and-tables.php,233,0,0
+1787204215163,709,Charts,200,OK,EasyCalculations 1-6,text,true,,33202,280,10,10,https://www.easycalculation.com/charts-and-tables.php,241,0,0
+1787204215163,242,Charts-0,301,Moved Permanently,EasyCalculations 1-6,text,true,,383,138,10,10,https://easycalculation.com/charts-and-tables.php,241,0,0
+1787204215405,467,Charts-1,200,OK,EasyCalculations 1-6,text,true,,32819,142,10,10,https://www.easycalculation.com/charts-and-tables.php,233,0,0
+1787204215434,472,Currencies,200,OK,EasyCalculations 1-10,text,true,,21952,294,10,10,https://www.easycalculation.com/currency-converter/index.php,236,0,0
+1787204215434,236,Currencies-0,301,Moved Permanently,EasyCalculations 1-10,text,true,,390,145,10,10,https://easycalculation.com/currency-converter/index.php,236,0,0
+1787204215671,235,Currencies-1,200,OK,EasyCalculations 1-10,text,true,,21562,149,10,10,https://www.easycalculation.com/currency-converter/index.php,235,0,0
+1787204215172,747,Charts,200,OK,EasyCalculations 1-1,text,true,,33202,280,10,10,https://www.easycalculation.com/charts-and-tables.php,252,0,0
+1787204215172,252,Charts-0,301,Moved Permanently,EasyCalculations 1-1,text,true,,383,138,10,10,https://easycalculation.com/charts-and-tables.php,252,0,0
+1787204215424,495,Charts-1,200,OK,EasyCalculations 1-1,text,true,,32819,142,10,10,https://www.easycalculation.com/charts-and-tables.php,249,0,0
+1787204215211,743,Charts,200,OK,EasyCalculations 1-4,text,true,,33202,280,10,10,https://www.easycalculation.com/charts-and-tables.php,249,0,0
+1787204215211,249,Charts-0,301,Moved Permanently,EasyCalculations 1-4,text,true,,383,138,10,10,https://easycalculation.com/charts-and-tables.php,249,0,0
+1787204215460,494,Charts-1,200,OK,EasyCalculations 1-4,text,true,,32819,142,10,10,https://www.easycalculation.com/charts-and-tables.php,247,0,0
+1787204215254,725,Charts,200,OK,EasyCalculations 1-9,text,true,,33202,280,10,10,https://www.easycalculation.com/charts-and-tables.php,238,0,0
+1787204215254,238,Charts-0,301,Moved Permanently,EasyCalculations 1-9,text,true,,383,138,10,10,https://easycalculation.com/charts-and-tables.php,238,0,0
+1787204215492,487,Charts-1,200,OK,EasyCalculations 1-9,text,true,,32819,142,10,10,https://www.easycalculation.com/charts-and-tables.php,243,0,0
+1787204215368,743,Charts,200,OK,EasyCalculations 1-5,text,true,,33202,280,10,10,https://www.easycalculation.com/charts-and-tables.php,243,0,0
+1787204215368,243,Charts-0,301,Moved Permanently,EasyCalculations 1-5,text,true,,383,138,10,10,https://easycalculation.com/charts-and-tables.php,243,0,0
+1787204215611,500,Charts-1,200,OK,EasyCalculations 1-5,text,true,,32819,142,10,10,https://www.easycalculation.com/charts-and-tables.php,249,0,0
+1787204215405,722,Charts,200,OK,EasyCalculations 1-8,text,true,,33202,280,10,10,https://www.easycalculation.com/charts-and-tables.php,235,0,0
+1787204215405,235,Charts-0,301,Moved Permanently,EasyCalculations 1-8,text,true,,383,138,10,10,https://easycalculation.com/charts-and-tables.php,235,0,0
+1787204215640,487,Charts-1,200,OK,EasyCalculations 1-8,text,true,,32819,142,10,10,https://www.easycalculation.com/charts-and-tables.php,246,0,0
+1787204215461,732,Calculators,200,OK,EasyCalculations 1-2,text,true,,48636,256,10,10,https://www.easycalculation.com/index.php,232,0,0
+1787204215461,232,Calculators-0,301,Moved Permanently,EasyCalculations 1-2,text,true,,371,126,10,10,https://easycalculation.com/index.php,232,0,0
+1787204215694,499,Calculators-1,200,OK,EasyCalculations 1-2,text,true,,48265,130,10,10,https://www.easycalculation.com/index.php,250,0,0
+1787204215491,738,Charts,200,OK,EasyCalculations 1-7,text,true,,33202,280,10,10,https://www.easycalculation.com/charts-and-tables.php,246,0,0
+1787204215491,246,Charts-0,301,Moved Permanently,EasyCalculations 1-7,text,true,,383,138,10,10,https://easycalculation.com/charts-and-tables.php,246,0,0
+1787204215738,491,Charts-1,200,OK,EasyCalculations 1-7,text,true,,32819,142,10,10,https://www.easycalculation.com/charts-and-tables.php,244,0,0
+1787204215840,713,Calculators,200,OK,EasyCalculations 1-3,text,true,,48636,256,10,10,https://www.easycalculation.com/index.php,245,0,0
+1787204215840,245,Calculators-0,301,Moved Permanently,EasyCalculations 1-3,text,true,,371,126,10,10,https://easycalculation.com/index.php,245,0,0
+1787204216085,468,Calculators-1,200,OK,EasyCalculations 1-3,text,true,,48265,130,10,10,https://www.easycalculation.com/index.php,235,0,0
+1787204215872,709,Calculators,200,OK,EasyCalculations 1-6,text,true,,48636,256,10,10,https://www.easycalculation.com/index.php,243,0,0
+1787204215872,243,Calculators-0,301,Moved Permanently,EasyCalculations 1-6,text,true,,371,126,10,10,https://easycalculation.com/index.php,243,0,0
+1787204216115,466,Calculators-1,200,OK,EasyCalculations 1-6,text,true,,48265,130,10,10,https://www.easycalculation.com/index.php,234,0,0
+1787204215907,704,Charts,200,OK,EasyCalculations 1-10,text,true,,33202,280,10,10,https://www.easycalculation.com/charts-and-tables.php,235,0,0
+1787204215907,235,Charts-0,301,Moved Permanently,EasyCalculations 1-10,text,true,,383,138,10,10,https://easycalculation.com/charts-and-tables.php,235,0,0
+1787204216142,469,Charts-1,200,OK,EasyCalculations 1-10,text,true,,32819,142,10,10,https://www.easycalculation.com/charts-and-tables.php,236,0,0
+1787204215920,755,Calculators,200,OK,EasyCalculations 1-1,text,true,,48636,256,10,10,https://www.easycalculation.com/index.php,252,0,0
+1787204215920,252,Calculators-0,301,Moved Permanently,EasyCalculations 1-1,text,true,,371,126,10,10,https://easycalculation.com/index.php,252,0,0
+1787204216172,503,Calculators-1,200,OK,EasyCalculations 1-1,text,true,,48265,130,10,10,https://www.easycalculation.com/index.php,248,0,0
+1787204215954,749,Calculators,200,OK,EasyCalculations 1-4,text,true,,48636,256,10,10,https://www.easycalculation.com/index.php,251,0,0
+1787204215954,251,Calculators-0,301,Moved Permanently,EasyCalculations 1-4,text,true,,371,126,10,10,https://easycalculation.com/index.php,251,0,0
+1787204216206,497,Calculators-1,200,OK,EasyCalculations 1-4,text,true,,48265,130,10,10,https://www.easycalculation.com/index.php,251,0,0
+1787204215980,730,Calculators,200,OK,EasyCalculations 1-9,text,true,,48636,256,10,10,https://www.easycalculation.com/index.php,242,0,0
+1787204215980,242,Calculators-0,301,Moved Permanently,EasyCalculations 1-9,text,true,,371,126,10,10,https://easycalculation.com/index.php,242,0,0
+1787204216222,488,Calculators-1,200,OK,EasyCalculations 1-9,text,true,,48265,130,10,10,https://www.easycalculation.com/index.php,245,0,0
+1787204216128,720,Calculators,200,OK,EasyCalculations 1-8,text,true,,48636,256,10,10,https://www.easycalculation.com/index.php,236,0,0
+1787204216128,236,Calculators-0,301,Moved Permanently,EasyCalculations 1-8,text,true,,371,126,10,10,https://easycalculation.com/index.php,236,0,0
+1787204216364,484,Calculators-1,200,OK,EasyCalculations 1-8,text,true,,48265,130,10,10,https://www.easycalculation.com/index.php,242,0,0
+1787204216111,745,Calculators,200,OK,EasyCalculations 1-5,text,true,,48636,256,10,10,https://www.easycalculation.com/index.php,244,0,0
+1787204216111,244,Calculators-0,301,Moved Permanently,EasyCalculations 1-5,text,true,,371,126,10,10,https://easycalculation.com/index.php,244,0,0
+1787204216355,501,Calculators-1,200,OK,EasyCalculations 1-5,text,true,,48265,130,10,10,https://www.easycalculation.com/index.php,250,0,0
+1787204216193,730,UnitConversions,200,OK,EasyCalculations 1-2,text,true,,24641,288,10,10,https://www.easycalculation.com/unit-conversion/index.php,232,0,0
+1787204216193,232,UnitConversions-0,301,Moved Permanently,EasyCalculations 1-2,text,true,,387,142,10,10,https://easycalculation.com/unit-conversion/index.php,232,0,0
+1787204216425,498,UnitConversions-1,200,OK,EasyCalculations 1-2,text,true,,24254,146,10,10,https://www.easycalculation.com/unit-conversion/index.php,252,0,0
+1787204216230,730,Calculators,200,OK,EasyCalculations 1-7,text,true,,48636,256,10,10,https://www.easycalculation.com/index.php,246,0,0
+1787204216230,246,Calculators-0,301,Moved Permanently,EasyCalculations 1-7,text,true,,371,126,10,10,https://easycalculation.com/index.php,246,0,0
+1787204216476,484,Calculators-1,200,OK,EasyCalculations 1-7,text,true,,48265,130,10,10,https://www.easycalculation.com/index.php,243,0,0
+1787204216581,482,UnitConversions,200,OK,EasyCalculations 1-6,text,true,,24641,288,10,10,https://www.easycalculation.com/unit-conversion/index.php,247,0,0
+1787204216581,247,UnitConversions-0,301,Moved Permanently,EasyCalculations 1-6,text,true,,387,142,10,10,https://easycalculation.com/unit-conversion/index.php,247,0,0
+1787204216828,235,UnitConversions-1,200,OK,EasyCalculations 1-6,text,true,,24254,146,10,10,https://www.easycalculation.com/unit-conversion/index.php,235,0,0
+1787204216676,499,UnitConversions,200,OK,EasyCalculations 1-1,text,true,,24641,288,10,10,https://www.easycalculation.com/unit-conversion/index.php,252,0,0
+1787204216676,252,UnitConversions-0,301,Moved Permanently,EasyCalculations 1-1,text,true,,387,142,10,10,https://easycalculation.com/unit-conversion/index.php,252,0,0
+1787204216928,247,UnitConversions-1,200,OK,EasyCalculations 1-1,text,true,,24254,146,10,10,https://www.easycalculation.com/unit-conversion/index.php,247,0,0
+1787204216710,476,UnitConversions,200,OK,EasyCalculations 1-9,text,true,,24641,288,10,10,https://www.easycalculation.com/unit-conversion/index.php,231,0,0
+1787204216710,231,UnitConversions-0,301,Moved Permanently,EasyCalculations 1-9,text,true,,387,142,10,10,https://easycalculation.com/unit-conversion/index.php,231,0,0
+1787204216941,245,UnitConversions-1,200,OK,EasyCalculations 1-9,text,true,,24254,146,10,10,https://www.easycalculation.com/unit-conversion/index.php,245,0,0
+1787204216704,491,UnitConversions,200,OK,EasyCalculations 1-4,text,true,,24641,288,10,10,https://www.easycalculation.com/unit-conversion/index.php,243,0,0
+1787204216704,243,UnitConversions-0,301,Moved Permanently,EasyCalculations 1-4,text,true,,387,142,10,10,https://easycalculation.com/unit-conversion/index.php,243,0,0
+1787204216947,248,UnitConversions-1,200,OK,EasyCalculations 1-4,text,true,,24254,146,10,10,https://www.easycalculation.com/unit-conversion/index.php,248,0,0
+1787204216554,707,UnitConversions,200,OK,EasyCalculations 1-3,text,true,,24641,288,10,10,https://www.easycalculation.com/unit-conversion/index.php,243,0,0
+1787204216554,243,UnitConversions-0,301,Moved Permanently,EasyCalculations 1-3,text,true,,387,142,10,10,https://easycalculation.com/unit-conversion/index.php,243,0,0
+1787204216797,464,UnitConversions-1,200,OK,EasyCalculations 1-3,text,true,,24254,146,10,10,https://www.easycalculation.com/unit-conversion/index.php,234,0,0
+1787204216611,708,Calculators,200,OK,EasyCalculations 1-10,text,true,,48636,256,10,10,https://www.easycalculation.com/index.php,235,0,0
+1787204216611,235,Calculators-0,301,Moved Permanently,EasyCalculations 1-10,text,true,,371,126,10,10,https://easycalculation.com/index.php,235,0,0
+1787204216847,472,Calculators-1,200,OK,EasyCalculations 1-10,text,true,,48265,130,10,10,https://www.easycalculation.com/index.php,238,0,0
+1787204216848,480,UnitConversions,200,OK,EasyCalculations 1-8,text,true,,24641,288,10,10,https://www.easycalculation.com/unit-conversion/index.php,237,0,0
+1787204216848,237,UnitConversions-0,301,Moved Permanently,EasyCalculations 1-8,text,true,,387,142,10,10,https://easycalculation.com/unit-conversion/index.php,237,0,0
+1787204217085,243,UnitConversions-1,200,OK,EasyCalculations 1-8,text,true,,24254,146,10,10,https://www.easycalculation.com/unit-conversion/index.php,242,0,0
+1787204216857,493,UnitConversions,200,OK,EasyCalculations 1-5,text,true,,24641,288,10,10,https://www.easycalculation.com/unit-conversion/index.php,243,0,0
+1787204216857,243,UnitConversions-0,301,Moved Permanently,EasyCalculations 1-5,text,true,,387,142,10,10,https://easycalculation.com/unit-conversion/index.php,243,0,0
+1787204217100,250,UnitConversions-1,200,OK,EasyCalculations 1-5,text,true,,24254,146,10,10,https://www.easycalculation.com/unit-conversion/index.php,250,0,0
+1787204216961,493,UnitConversions,200,OK,EasyCalculations 1-7,text,true,,24641,288,10,10,https://www.easycalculation.com/unit-conversion/index.php,249,0,0
+1787204216961,249,UnitConversions-0,301,Moved Permanently,EasyCalculations 1-7,text,true,,387,142,10,10,https://easycalculation.com/unit-conversion/index.php,249,0,0
+1787204217210,244,UnitConversions-1,200,OK,EasyCalculations 1-7,text,true,,24254,146,10,10,https://www.easycalculation.com/unit-conversion/index.php,244,0,0
+1787204217063,477,Formulas,200,OK,EasyCalculations 1-6,text,true,,25304,274,10,10,https://www.easycalculation.com/formulas/index.php,243,0,0
+1787204217063,243,Formulas-0,301,Moved Permanently,EasyCalculations 1-6,text,true,,380,135,10,10,https://easycalculation.com/formulas/index.php,243,0,0
+1787204217307,233,Formulas-1,200,OK,EasyCalculations 1-6,text,true,,24924,139,10,10,https://www.easycalculation.com/formulas/index.php,233,0,0
+1787204216923,732,Formulas,200,OK,EasyCalculations 1-2,text,true,,25304,274,10,10,https://www.easycalculation.com/formulas/index.php,232,0,0
+1787204216923,232,Formulas-0,301,Moved Permanently,EasyCalculations 1-2,text,true,,380,135,10,10,https://easycalculation.com/formulas/index.php,232,0,0
+1787204217156,499,Formulas-1,200,OK,EasyCalculations 1-2,text,true,,24924,139,10,10,https://www.easycalculation.com/formulas/index.php,249,0,0
+1787204217187,484,Formulas,200,OK,EasyCalculations 1-9,text,true,,25304,274,10,10,https://www.easycalculation.com/formulas/index.php,240,0,0
+1787204217187,240,Formulas-0,301,Moved Permanently,EasyCalculations 1-9,text,true,,380,135,10,10,https://easycalculation.com/formulas/index.php,240,0,0
+1787204217427,244,Formulas-1,200,OK,EasyCalculations 1-9,text,true,,24924,139,10,10,https://www.easycalculation.com/formulas/index.php,244,0,0
+1787204217176,500,Formulas,200,OK,EasyCalculations 1-1,text,true,,25304,274,10,10,https://www.easycalculation.com/formulas/index.php,253,0,0
+1787204217176,253,Formulas-0,301,Moved Permanently,EasyCalculations 1-1,text,true,,380,135,10,10,https://easycalculation.com/formulas/index.php,253,0,0
+1787204217429,247,Formulas-1,200,OK,EasyCalculations 1-1,text,true,,24924,139,10,10,https://www.easycalculation.com/formulas/index.php,247,0,0
+1787204217196,489,Formulas,200,OK,EasyCalculations 1-4,text,true,,25304,274,10,10,https://www.easycalculation.com/formulas/index.php,242,0,0
+1787204217196,242,Formulas-0,301,Moved Permanently,EasyCalculations 1-4,text,true,,380,135,10,10,https://easycalculation.com/formulas/index.php,242,0,0
+1787204217438,247,Formulas-1,200,OK,EasyCalculations 1-4,text,true,,24924,139,10,10,https://www.easycalculation.com/formulas/index.php,247,0,0
+1787204217320,483,UnitConversions,200,OK,EasyCalculations 1-10,text,true,,24641,288,10,10,https://www.easycalculation.com/unit-conversion/index.php,246,0,0
+1787204217320,246,UnitConversions-0,301,Moved Permanently,EasyCalculations 1-10,text,true,,387,142,10,10,https://easycalculation.com/unit-conversion/index.php,246,0,0
+1787204217566,237,UnitConversions-1,200,OK,EasyCalculations 1-10,text,true,,24254,146,10,10,https://www.easycalculation.com/unit-conversion/index.php,237,0,0
+1787204217328,480,Formulas,200,OK,EasyCalculations 1-8,text,true,,25304,274,10,10,https://www.easycalculation.com/formulas/index.php,238,0,0
+1787204217328,238,Formulas-0,301,Moved Permanently,EasyCalculations 1-8,text,true,,380,135,10,10,https://easycalculation.com/formulas/index.php,238,0,0
+1787204217566,242,Formulas-1,200,OK,EasyCalculations 1-8,text,true,,24924,139,10,10,https://www.easycalculation.com/formulas/index.php,242,0,0
+1787204217351,497,Formulas,200,OK,EasyCalculations 1-5,text,true,,25304,274,10,10,https://www.easycalculation.com/formulas/index.php,246,0,0
+1787204217351,246,Formulas-0,301,Moved Permanently,EasyCalculations 1-5,text,true,,380,135,10,10,https://easycalculation.com/formulas/index.php,246,0,0
+1787204217599,249,Formulas-1,200,OK,EasyCalculations 1-5,text,true,,24924,139,10,10,https://www.easycalculation.com/formulas/index.php,249,0,0
+1787204217454,502,Formulas,200,OK,EasyCalculations 1-7,text,true,,25304,274,10,10,https://www.easycalculation.com/formulas/index.php,247,0,0
+1787204217454,247,Formulas-0,301,Moved Permanently,EasyCalculations 1-7,text,true,,380,135,10,10,https://easycalculation.com/formulas/index.php,247,0,0
+1787204217701,255,Formulas-1,200,OK,EasyCalculations 1-7,text,true,,24924,139,10,10,https://www.easycalculation.com/formulas/index.php,255,0,0
+1787204217262,709,Formulas,200,OK,EasyCalculations 1-3,text,true,,25304,274,10,10,https://www.easycalculation.com/formulas/index.php,243,0,0
+1787204217262,243,Formulas-0,301,Moved Permanently,EasyCalculations 1-3,text,true,,380,135,10,10,https://easycalculation.com/formulas/index.php,243,0,0
+1787204217505,466,Formulas-1,200,OK,EasyCalculations 1-3,text,true,,24924,139,10,10,https://www.easycalculation.com/formulas/index.php,233,0,0
+1787204217540,478,Currencies,200,OK,EasyCalculations 1-6,text,true,,21952,294,10,10,https://www.easycalculation.com/currency-converter/index.php,243,0,0
+1787204217540,243,Currencies-0,301,Moved Permanently,EasyCalculations 1-6,text,true,,390,145,10,10,https://easycalculation.com/currency-converter/index.php,243,0,0
+1787204217784,234,Currencies-1,200,OK,EasyCalculations 1-6,text,true,,21562,149,10,10,https://www.easycalculation.com/currency-converter/index.php,234,0,0
+1787204217655,482,Currencies,200,OK,EasyCalculations 1-2,text,true,,21952,294,10,10,https://www.easycalculation.com/currency-converter/index.php,232,0,0
+1787204217655,232,Currencies-0,301,Moved Permanently,EasyCalculations 1-2,text,true,,390,145,10,10,https://easycalculation.com/currency-converter/index.php,232,0,0
+1787204217888,249,Currencies-1,200,OK,EasyCalculations 1-2,text,true,,21562,149,10,10,https://www.easycalculation.com/currency-converter/index.php,249,0,0
+1787204217671,495,Currencies,200,OK,EasyCalculations 1-9,text,true,,21952,294,10,10,https://www.easycalculation.com/currency-converter/index.php,251,0,0
+1787204217671,251,Currencies-0,301,Moved Permanently,EasyCalculations 1-9,text,true,,390,145,10,10,https://easycalculation.com/currency-converter/index.php,251,0,0
+1787204217922,244,Currencies-1,200,OK,EasyCalculations 1-9,text,true,,21562,149,10,10,https://www.easycalculation.com/currency-converter/index.php,244,0,0
+1787204217685,494,Currencies,200,OK,EasyCalculations 1-4,text,true,,21952,294,10,10,https://www.easycalculation.com/currency-converter/index.php,241,0,0
+1787204217685,241,Currencies-0,301,Moved Permanently,EasyCalculations 1-4,text,true,,390,145,10,10,https://easycalculation.com/currency-converter/index.php,241,0,0
+1787204217926,253,Currencies-1,200,OK,EasyCalculations 1-4,text,true,,21562,149,10,10,https://www.easycalculation.com/currency-converter/index.php,253,0,0
+1787204217676,503,Currencies,200,OK,EasyCalculations 1-1,text,true,,21952,294,10,10,https://www.easycalculation.com/currency-converter/index.php,252,0,0
+1787204217676,252,Currencies-0,301,Moved Permanently,EasyCalculations 1-1,text,true,,390,145,10,10,https://easycalculation.com/currency-converter/index.php,252,0,0
+1787204217929,250,Currencies-1,200,OK,EasyCalculations 1-1,text,true,,21562,149,10,10,https://www.easycalculation.com/currency-converter/index.php,250,0,0
+1787204217803,470,Formulas,200,OK,EasyCalculations 1-10,text,true,,25304,274,10,10,https://www.easycalculation.com/formulas/index.php,235,0,0
+1787204217803,235,Formulas-0,301,Moved Permanently,EasyCalculations 1-10,text,true,,380,135,10,10,https://easycalculation.com/formulas/index.php,235,0,0
+1787204218038,235,Formulas-1,200,OK,EasyCalculations 1-10,text,true,,24924,139,10,10,https://www.easycalculation.com/formulas/index.php,235,0,0
+1787204217808,478,Currencies,200,OK,EasyCalculations 1-8,text,true,,21952,294,10,10,https://www.easycalculation.com/currency-converter/index.php,236,0,0
+1787204217808,236,Currencies-0,301,Moved Permanently,EasyCalculations 1-8,text,true,,390,145,10,10,https://easycalculation.com/currency-converter/index.php,236,0,0
+1787204218044,242,Currencies-1,200,OK,EasyCalculations 1-8,text,true,,21562,149,10,10,https://www.easycalculation.com/currency-converter/index.php,242,0,0
+1787204217849,496,Currencies,200,OK,EasyCalculations 1-5,text,true,,21952,294,10,10,https://www.easycalculation.com/currency-converter/index.php,245,0,0
+1787204217849,245,Currencies-0,301,Moved Permanently,EasyCalculations 1-5,text,true,,390,145,10,10,https://easycalculation.com/currency-converter/index.php,245,0,0
+1787204218094,251,Currencies-1,200,OK,EasyCalculations 1-5,text,true,,21562,149,10,10,https://www.easycalculation.com/currency-converter/index.php,250,0,0
+1787204217971,477,Currencies,200,OK,EasyCalculations 1-3,text,true,,21952,294,10,10,https://www.easycalculation.com/currency-converter/index.php,243,0,0
+1787204217971,244,Currencies-0,301,Moved Permanently,EasyCalculations 1-3,text,true,,390,145,10,10,https://easycalculation.com/currency-converter/index.php,243,0,0
+1787204218215,233,Currencies-1,200,OK,EasyCalculations 1-3,text,true,,21562,149,10,10,https://www.easycalculation.com/currency-converter/index.php,233,0,0
+1787204217956,493,Currencies,200,OK,EasyCalculations 1-7,text,true,,21952,294,10,10,https://www.easycalculation.com/currency-converter/index.php,250,0,0
+1787204217956,250,Currencies-0,301,Moved Permanently,EasyCalculations 1-7,text,true,,390,145,10,10,https://easycalculation.com/currency-converter/index.php,250,0,0
+1787204218206,243,Currencies-1,200,OK,EasyCalculations 1-7,text,true,,21562,149,10,10,https://www.easycalculation.com/currency-converter/index.php,243,0,0
+1787204218018,709,Charts,200,OK,EasyCalculations 1-6,text,true,,33202,280,10,10,https://www.easycalculation.com/charts-and-tables.php,242,0,0
+1787204218018,242,Charts-0,301,Moved Permanently,EasyCalculations 1-6,text,true,,383,138,10,10,https://easycalculation.com/charts-and-tables.php,242,0,0
+1787204218261,466,Charts-1,200,OK,EasyCalculations 1-6,text,true,,32819,142,10,10,https://www.easycalculation.com/charts-and-tables.php,234,0,0
+1787204218276,470,Currencies,200,OK,EasyCalculations 1-10,text,true,,21952,294,10,10,https://www.easycalculation.com/currency-converter/index.php,235,0,0
+1787204218276,235,Currencies-0,301,Moved Permanently,EasyCalculations 1-10,text,true,,390,145,10,10,https://easycalculation.com/currency-converter/index.php,235,0,0
+1787204218511,235,Currencies-1,200,OK,EasyCalculations 1-10,text,true,,21562,149,10,10,https://www.easycalculation.com/currency-converter/index.php,235,0,0
+1787204218138,732,Charts,200,OK,EasyCalculations 1-2,text,true,,33202,280,10,10,https://www.easycalculation.com/charts-and-tables.php,233,0,0
+1787204218138,233,Charts-0,301,Moved Permanently,EasyCalculations 1-2,text,true,,383,138,10,10,https://easycalculation.com/charts-and-tables.php,233,0,0
+1787204218371,499,Charts-1,200,OK,EasyCalculations 1-2,text,true,,32819,142,10,10,https://www.easycalculation.com/charts-and-tables.php,250,0,0
+1787204218166,718,Charts,200,OK,EasyCalculations 1-9,text,true,,33202,280,10,10,https://www.easycalculation.com/charts-and-tables.php,231,0,0
+1787204218166,231,Charts-0,301,Moved Permanently,EasyCalculations 1-9,text,true,,383,138,10,10,https://easycalculation.com/charts-and-tables.php,231,0,0
+1787204218398,486,Charts-1,200,OK,EasyCalculations 1-9,text,true,,32819,142,10,10,https://www.easycalculation.com/charts-and-tables.php,243,0,0
+1787204218179,736,Charts,200,OK,EasyCalculations 1-4,text,true,,33202,280,10,10,https://www.easycalculation.com/charts-and-tables.php,243,0,0
+1787204218179,243,Charts-0,301,Moved Permanently,EasyCalculations 1-4,text,true,,383,138,10,10,https://easycalculation.com/charts-and-tables.php,243,0,0
+1787204218423,492,Charts-1,200,OK,EasyCalculations 1-4,text,true,,32819,142,10,10,https://www.easycalculation.com/charts-and-tables.php,246,0,0
+1787204218179,745,Charts,200,OK,EasyCalculations 1-1,text,true,,33202,280,10,10,https://www.easycalculation.com/charts-and-tables.php,252,0,0
+1787204218179,252,Charts-0,301,Moved Permanently,EasyCalculations 1-1,text,true,,383,138,10,10,https://easycalculation.com/charts-and-tables.php,252,0,0
+1787204218431,493,Charts-1,200,OK,EasyCalculations 1-1,text,true,,32819,142,10,10,https://www.easycalculation.com/charts-and-tables.php,247,0,0
+1787204218286,721,Charts,200,OK,EasyCalculations 1-8,text,true,,33202,280,10,10,https://www.easycalculation.com/charts-and-tables.php,236,0,0
+1787204218286,236,Charts-0,301,Moved Permanently,EasyCalculations 1-8,text,true,,383,138,10,10,https://easycalculation.com/charts-and-tables.php,236,0,0
+1787204218522,485,Charts-1,200,OK,EasyCalculations 1-8,text,true,,32819,142,10,10,https://www.easycalculation.com/charts-and-tables.php,243,0,0
+1787204218346,744,Charts,200,OK,EasyCalculations 1-5,text,true,,33202,280,10,10,https://www.easycalculation.com/charts-and-tables.php,244,0,0
+1787204218346,244,Charts-0,301,Moved Permanently,EasyCalculations 1-5,text,true,,383,138,10,10,https://easycalculation.com/charts-and-tables.php,244,0,0
+1787204218590,500,Charts-1,200,OK,EasyCalculations 1-5,text,true,,32819,142,10,10,https://www.easycalculation.com/charts-and-tables.php,250,0,0
+1787204218448,711,Charts,200,OK,EasyCalculations 1-3,text,true,,33202,280,10,10,https://www.easycalculation.com/charts-and-tables.php,244,0,0
+1787204218448,244,Charts-0,301,Moved Permanently,EasyCalculations 1-3,text,true,,383,138,10,10,https://easycalculation.com/charts-and-tables.php,244,0,0
+1787204218692,467,Charts-1,200,OK,EasyCalculations 1-3,text,true,,32819,142,10,10,https://www.easycalculation.com/charts-and-tables.php,235,0,0
+1787204218449,730,Charts,200,OK,EasyCalculations 1-7,text,true,,33202,280,10,10,https://www.easycalculation.com/charts-and-tables.php,247,0,0
+1787204218449,247,Charts-0,301,Moved Permanently,EasyCalculations 1-7,text,true,,383,138,10,10,https://easycalculation.com/charts-and-tables.php,247,0,0
+1787204218696,483,Charts-1,200,OK,EasyCalculations 1-7,text,true,,32819,142,10,10,https://www.easycalculation.com/charts-and-tables.php,242,0,0
+1787204218727,709,Calculators,200,OK,EasyCalculations 1-6,text,true,,48636,256,10,10,https://www.easycalculation.com/index.php,244,0,0
+1787204218727,244,Calculators-0,301,Moved Permanently,EasyCalculations 1-6,text,true,,371,126,10,10,https://easycalculation.com/index.php,244,0,0
+1787204218971,465,Calculators-1,200,OK,EasyCalculations 1-6,text,true,,48265,130,10,10,https://www.easycalculation.com/index.php,234,0,0
+1787204218747,703,Charts,200,OK,EasyCalculations 1-10,text,true,,33202,280,10,10,https://www.easycalculation.com/charts-and-tables.php,234,0,0
+1787204218747,234,Charts-0,301,Moved Permanently,EasyCalculations 1-10,text,true,,383,138,10,10,https://easycalculation.com/charts-and-tables.php,234,0,0
+1787204218982,468,Charts-1,200,OK,EasyCalculations 1-10,text,true,,32819,142,10,10,https://www.easycalculation.com/charts-and-tables.php,235,0,0
+1787204218870,731,Calculators,200,OK,EasyCalculations 1-2,text,true,,48636,256,10,10,https://www.easycalculation.com/index.php,232,0,0
+1787204218870,232,Calculators-0,301,Moved Permanently,EasyCalculations 1-2,text,true,,371,126,10,10,https://easycalculation.com/index.php,232,0,0
+1787204219102,499,Calculators-1,200,OK,EasyCalculations 1-2,text,true,,48265,130,10,10,https://www.easycalculation.com/index.php,251,0,0
+1787204218884,740,Calculators,200,OK,EasyCalculations 1-9,text,true,,48636,256,10,10,https://www.easycalculation.com/index.php,248,0,0
+1787204218884,248,Calculators-0,301,Moved Permanently,EasyCalculations 1-9,text,true,,371,126,10,10,https://easycalculation.com/index.php,248,0,0
+1787204219133,491,Calculators-1,200,OK,EasyCalculations 1-9,text,true,,48265,130,10,10,https://www.easycalculation.com/index.php,246,0,0
+1787204218916,759,Calculators,200,OK,EasyCalculations 1-4,text,true,,48636,256,10,10,https://www.easycalculation.com/index.php,246,0,0
+1787204218916,246,Calculators-0,301,Moved Permanently,EasyCalculations 1-4,text,true,,371,126,10,10,https://easycalculation.com/index.php,246,0,0
+1787204219162,513,Calculators-1,200,OK,EasyCalculations 1-4,text,true,,48265,130,10,10,https://www.easycalculation.com/index.php,251,0,0
+1787204218925,754,Calculators,200,OK,EasyCalculations 1-1,text,true,,48636,256,10,10,https://www.easycalculation.com/index.php,251,0,0
+1787204218925,251,Calculators-0,301,Moved Permanently,EasyCalculations 1-1,text,true,,371,126,10,10,https://easycalculation.com/index.php,251,0,0
+1787204219177,502,Calculators-1,200,OK,EasyCalculations 1-1,text,true,,48265,130,10,10,https://www.easycalculation.com/index.php,248,0,0
+1787204219007,739,Calculators,200,OK,EasyCalculations 1-8,text,true,,48636,256,10,10,https://www.easycalculation.com/index.php,247,0,0
+1787204219007,247,Calculators-0,301,Moved Permanently,EasyCalculations 1-8,text,true,,371,126,10,10,https://easycalculation.com/index.php,247,0,0
+1787204219255,491,Calculators-1,200,OK,EasyCalculations 1-8,text,true,,48265,130,10,10,https://www.easycalculation.com/index.php,243,0,0
+1787204219090,743,Calculators,200,OK,EasyCalculations 1-5,text,true,,48636,256,10,10,https://www.easycalculation.com/index.php,244,0,0
+1787204219090,244,Calculators-0,301,Moved Permanently,EasyCalculations 1-5,text,true,,371,126,10,10,https://easycalculation.com/index.php,244,0,0
+1787204219334,499,Calculators-1,200,OK,EasyCalculations 1-5,text,true,,48265,130,10,10,https://www.easycalculation.com/index.php,251,0,0
+1787204219162,712,Calculators,200,OK,EasyCalculations 1-3,text,true,,48636,256,10,10,https://www.easycalculation.com/index.php,244,0,0
+1787204219162,244,Calculators-0,301,Moved Permanently,EasyCalculations 1-3,text,true,,371,126,10,10,https://easycalculation.com/index.php,244,0,0
+1787204219406,468,Calculators-1,200,OK,EasyCalculations 1-3,text,true,,48265,130,10,10,https://www.easycalculation.com/index.php,234,0,0
+1787204219179,737,Calculators,200,OK,EasyCalculations 1-7,text,true,,48636,256,10,10,https://www.easycalculation.com/index.php,247,0,0
+1787204219179,247,Calculators-0,301,Moved Permanently,EasyCalculations 1-7,text,true,,371,126,10,10,https://easycalculation.com/index.php,247,0,0
+1787204219426,490,Calculators-1,200,OK,EasyCalculations 1-7,text,true,,48265,130,10,10,https://www.easycalculation.com/index.php,252,0,0
+1787204219437,480,UnitConversions,200,OK,EasyCalculations 1-6,text,true,,24641,288,10,10,https://www.easycalculation.com/unit-conversion/index.php,247,0,0
+1787204219437,247,UnitConversions-0,301,Moved Permanently,EasyCalculations 1-6,text,true,,387,142,10,10,https://easycalculation.com/unit-conversion/index.php,247,0,0
+1787204219684,233,UnitConversions-1,200,OK,EasyCalculations 1-6,text,true,,24254,146,10,10,https://www.easycalculation.com/unit-conversion/index.php,233,0,0
+1787204219602,483,UnitConversions,200,OK,EasyCalculations 1-2,text,true,,24641,288,10,10,https://www.easycalculation.com/unit-conversion/index.php,233,0,0
+1787204219602,233,UnitConversions-0,301,Moved Permanently,EasyCalculations 1-2,text,true,,387,142,10,10,https://easycalculation.com/unit-conversion/index.php,233,0,0
+1787204219835,250,UnitConversions-1,200,OK,EasyCalculations 1-2,text,true,,24254,146,10,10,https://www.easycalculation.com/unit-conversion/index.php,250,0,0
+1787204219624,478,UnitConversions,200,OK,EasyCalculations 1-9,text,true,,24641,288,10,10,https://www.easycalculation.com/unit-conversion/index.php,233,0,0
+1787204219624,233,UnitConversions-0,301,Moved Permanently,EasyCalculations 1-9,text,true,,387,142,10,10,https://easycalculation.com/unit-conversion/index.php,233,0,0
+1787204219858,244,UnitConversions-1,200,OK,EasyCalculations 1-9,text,true,,24254,146,10,10,https://www.easycalculation.com/unit-conversion/index.php,244,0,0
+1787204219451,708,Calculators,200,OK,EasyCalculations 1-10,text,true,,48636,256,10,10,https://www.easycalculation.com/index.php,239,0,0
+1787204219451,239,Calculators-0,301,Moved Permanently,EasyCalculations 1-10,text,true,,371,126,10,10,https://easycalculation.com/index.php,239,0,0
+1787204219690,469,Calculators-1,200,OK,EasyCalculations 1-10,text,true,,48265,130,10,10,https://www.easycalculation.com/index.php,235,0,0
+1787204219677,492,UnitConversions,200,OK,EasyCalculations 1-4,text,true,,24641,288,10,10,https://www.easycalculation.com/unit-conversion/index.php,242,0,0
+1787204219677,242,UnitConversions-0,301,Moved Permanently,EasyCalculations 1-4,text,true,,387,142,10,10,https://easycalculation.com/unit-conversion/index.php,242,0,0
+1787204219920,249,UnitConversions-1,200,OK,EasyCalculations 1-4,text,true,,24254,146,10,10,https://www.easycalculation.com/unit-conversion/index.php,249,0,0
+1787204219680,499,UnitConversions,200,OK,EasyCalculations 1-1,text,true,,24641,288,10,10,https://www.easycalculation.com/unit-conversion/index.php,251,0,0
+1787204219680,251,UnitConversions-0,301,Moved Permanently,EasyCalculations 1-1,text,true,,387,142,10,10,https://easycalculation.com/unit-conversion/index.php,251,0,0
+1787204219931,248,UnitConversions-1,200,OK,EasyCalculations 1-1,text,true,,24254,146,10,10,https://www.easycalculation.com/unit-conversion/index.php,248,0,0
+1787204219747,486,UnitConversions,200,OK,EasyCalculations 1-8,text,true,,24641,288,10,10,https://www.easycalculation.com/unit-conversion/index.php,235,0,0
+1787204219747,235,UnitConversions-0,301,Moved Permanently,EasyCalculations 1-8,text,true,,387,142,10,10,https://easycalculation.com/unit-conversion/index.php,235,0,0
+1787204219982,251,UnitConversions-1,200,OK,EasyCalculations 1-8,text,true,,24254,146,10,10,https://www.easycalculation.com/unit-conversion/index.php,251,0,0
+1787204219834,493,UnitConversions,200,OK,EasyCalculations 1-5,text,true,,24641,288,10,10,https://www.easycalculation.com/unit-conversion/index.php,243,0,0
+1787204219834,243,UnitConversions-0,301,Moved Permanently,EasyCalculations 1-5,text,true,,387,142,10,10,https://easycalculation.com/unit-conversion/index.php,243,0,0
+1787204220078,249,UnitConversions-1,200,OK,EasyCalculations 1-5,text,true,,24254,146,10,10,https://www.easycalculation.com/unit-conversion/index.php,249,0,0
+1787204219917,485,Formulas,200,OK,EasyCalculations 1-6,text,true,,25304,274,10,10,https://www.easycalculation.com/formulas/index.php,252,0,0
+1787204219917,252,Formulas-0,301,Moved Permanently,EasyCalculations 1-6,text,true,,380,135,10,10,https://easycalculation.com/formulas/index.php,252,0,0
+1787204220169,233,Formulas-1,200,OK,EasyCalculations 1-6,text,true,,24924,139,10,10,https://www.easycalculation.com/formulas/index.php,233,0,0
+1787204219917,496,UnitConversions,200,OK,EasyCalculations 1-7,text,true,,24641,288,10,10,https://www.easycalculation.com/unit-conversion/index.php,252,0,0
+1787204219917,252,UnitConversions-0,301,Moved Permanently,EasyCalculations 1-7,text,true,,387,142,10,10,https://easycalculation.com/unit-conversion/index.php,252,0,0
+1787204220169,244,UnitConversions-1,200,OK,EasyCalculations 1-7,text,true,,24254,146,10,10,https://www.easycalculation.com/unit-conversion/index.php,244,0,0
+1787204220093,484,Formulas,200,OK,EasyCalculations 1-2,text,true,,25304,274,10,10,https://www.easycalculation.com/formulas/index.php,233,0,0
+1787204220093,233,Formulas-0,301,Moved Permanently,EasyCalculations 1-2,text,true,,380,135,10,10,https://easycalculation.com/formulas/index.php,233,0,0
+1787204220326,251,Formulas-1,200,OK,EasyCalculations 1-2,text,true,,24924,139,10,10,https://www.easycalculation.com/formulas/index.php,251,0,0
+1787204220103,476,Formulas,200,OK,EasyCalculations 1-9,text,true,,25304,274,10,10,https://www.easycalculation.com/formulas/index.php,232,0,0
+1787204220103,232,Formulas-0,301,Moved Permanently,EasyCalculations 1-9,text,true,,380,135,10,10,https://easycalculation.com/formulas/index.php,232,0,0
+1787204220335,244,Formulas-1,200,OK,EasyCalculations 1-9,text,true,,24924,139,10,10,https://www.easycalculation.com/formulas/index.php,244,0,0
+1787204219874,715,UnitConversions,200,OK,EasyCalculations 1-3,text,true,,24641,288,10,10,https://www.easycalculation.com/unit-conversion/index.php,244,0,0
+1787204219874,244,UnitConversions-0,301,Moved Permanently,EasyCalculations 1-3,text,true,,387,142,10,10,https://easycalculation.com/unit-conversion/index.php,244,0,0
+1787204220118,471,UnitConversions-1,200,OK,EasyCalculations 1-3,text,true,,24254,146,10,10,https://www.easycalculation.com/unit-conversion/index.php,233,0,0
+1787204220159,473,UnitConversions,200,OK,EasyCalculations 1-10,text,true,,24641,288,10,10,https://www.easycalculation.com/unit-conversion/index.php,237,0,0
+1787204220159,237,UnitConversions-0,301,Moved Permanently,EasyCalculations 1-10,text,true,,387,142,10,10,https://easycalculation.com/unit-conversion/index.php,237,0,0
+1787204220396,236,UnitConversions-1,200,OK,EasyCalculations 1-10,text,true,,24254,146,10,10,https://www.easycalculation.com/unit-conversion/index.php,236,0,0
+1787204220169,493,Formulas,200,OK,EasyCalculations 1-4,text,true,,25304,274,10,10,https://www.easycalculation.com/formulas/index.php,246,0,0
+1787204220169,246,Formulas-0,301,Moved Permanently,EasyCalculations 1-4,text,true,,380,135,10,10,https://easycalculation.com/formulas/index.php,246,0,0
+1787204220415,247,Formulas-1,200,OK,EasyCalculations 1-4,text,true,,24924,139,10,10,https://www.easycalculation.com/formulas/index.php,247,0,0
+1787204220179,509,Formulas,200,OK,EasyCalculations 1-1,text,true,,25304,274,10,10,https://www.easycalculation.com/formulas/index.php,254,0,0
+1787204220179,254,Formulas-0,301,Moved Permanently,EasyCalculations 1-1,text,true,,380,135,10,10,https://easycalculation.com/formulas/index.php,254,0,0
+1787204220433,255,Formulas-1,200,OK,EasyCalculations 1-1,text,true,,24924,139,10,10,https://www.easycalculation.com/formulas/index.php,254,0,0
+1787204220234,493,Formulas,200,OK,EasyCalculations 1-8,text,true,,25304,274,10,10,https://www.easycalculation.com/formulas/index.php,246,0,0
+1787204220234,246,Formulas-0,301,Moved Permanently,EasyCalculations 1-8,text,true,,380,135,10,10,https://easycalculation.com/formulas/index.php,246,0,0
+1787204220480,247,Formulas-1,200,OK,EasyCalculations 1-8,text,true,,24924,139,10,10,https://www.easycalculation.com/formulas/index.php,247,0,0
+1787204220329,495,Formulas,200,OK,EasyCalculations 1-5,text,true,,25304,274,10,10,https://www.easycalculation.com/formulas/index.php,244,0,0
+1787204220329,244,Formulas-0,301,Moved Permanently,EasyCalculations 1-5,text,true,,380,135,10,10,https://easycalculation.com/formulas/index.php,244,0,0
+1787204220574,250,Formulas-1,200,OK,EasyCalculations 1-5,text,true,,24924,139,10,10,https://www.easycalculation.com/formulas/index.php,250,0,0
+1787204220403,482,Currencies,200,OK,EasyCalculations 1-6,text,true,,21952,294,10,10,https://www.easycalculation.com/currency-converter/index.php,248,0,0
+1787204220403,248,Currencies-0,301,Moved Permanently,EasyCalculations 1-6,text,true,,390,145,10,10,https://easycalculation.com/currency-converter/index.php,248,0,0
+1787204220651,234,Currencies-1,200,OK,EasyCalculations 1-6,text,true,,21562,149,10,10,https://www.easycalculation.com/currency-converter/index.php,234,0,0
+1787204220414,493,Formulas,200,OK,EasyCalculations 1-7,text,true,,25304,274,10,10,https://www.easycalculation.com/formulas/index.php,250,0,0
+1787204220414,251,Formulas-0,301,Moved Permanently,EasyCalculations 1-7,text,true,,380,135,10,10,https://easycalculation.com/formulas/index.php,250,0,0
+1787204220665,242,Formulas-1,200,OK,EasyCalculations 1-7,text,true,,24924,139,10,10,https://www.easycalculation.com/formulas/index.php,242,0,0
+1787204220579,479,Currencies,200,OK,EasyCalculations 1-9,text,true,,21952,294,10,10,https://www.easycalculation.com/currency-converter/index.php,232,0,0
+1787204220579,232,Currencies-0,301,Moved Permanently,EasyCalculations 1-9,text,true,,390,145,10,10,https://easycalculation.com/currency-converter/index.php,232,0,0
+1787204220812,246,Currencies-1,200,OK,EasyCalculations 1-9,text,true,,21562,149,10,10,https://www.easycalculation.com/currency-converter/index.php,246,0,0
+1787204220578,486,Currencies,200,OK,EasyCalculations 1-2,text,true,,21952,294,10,10,https://www.easycalculation.com/currency-converter/index.php,232,0,0
+1787204220578,232,Currencies-0,301,Moved Permanently,EasyCalculations 1-2,text,true,,390,145,10,10,https://easycalculation.com/currency-converter/index.php,232,0,0
+1787204220810,254,Currencies-1,200,OK,EasyCalculations 1-2,text,true,,21562,149,10,10,https://www.easycalculation.com/currency-converter/index.php,253,0,0
+1787204220632,478,Formulas,200,OK,EasyCalculations 1-10,text,true,,25304,274,10,10,https://www.easycalculation.com/formulas/index.php,235,0,0
+1787204220632,235,Formulas-0,301,Moved Permanently,EasyCalculations 1-10,text,true,,380,135,10,10,https://easycalculation.com/formulas/index.php,235,0,0
+1787204220868,242,Formulas-1,200,OK,EasyCalculations 1-10,text,true,,24924,139,10,10,https://www.easycalculation.com/formulas/index.php,241,0,0
+1787204220665,491,Currencies,200,OK,EasyCalculations 1-4,text,true,,21952,294,10,10,https://www.easycalculation.com/currency-converter/index.php,243,0,0
+1787204220665,243,Currencies-0,301,Moved Permanently,EasyCalculations 1-4,text,true,,390,145,10,10,https://easycalculation.com/currency-converter/index.php,243,0,0
+1787204220909,247,Currencies-1,200,OK,EasyCalculations 1-4,text,true,,21562,149,10,10,https://www.easycalculation.com/currency-converter/index.php,246,0,0
+1787204220688,500,Currencies,200,OK,EasyCalculations 1-1,text,true,,21952,294,10,10,https://www.easycalculation.com/currency-converter/index.php,252,0,0
+1787204220688,252,Currencies-0,301,Moved Permanently,EasyCalculations 1-1,text,true,,390,145,10,10,https://easycalculation.com/currency-converter/index.php,252,0,0
+1787204220940,248,Currencies-1,200,OK,EasyCalculations 1-1,text,true,,21562,149,10,10,https://www.easycalculation.com/currency-converter/index.php,248,0,0
+1787204220728,481,Currencies,200,OK,EasyCalculations 1-8,text,true,,21952,294,10,10,https://www.easycalculation.com/currency-converter/index.php,237,0,0
+1787204220728,237,Currencies-0,301,Moved Permanently,EasyCalculations 1-8,text,true,,390,145,10,10,https://easycalculation.com/currency-converter/index.php,237,0,0
+1787204220965,244,Currencies-1,200,OK,EasyCalculations 1-8,text,true,,21562,149,10,10,https://www.easycalculation.com/currency-converter/index.php,243,0,0
+1787204220589,711,Formulas,200,OK,EasyCalculations 1-3,text,true,,25304,274,10,10,https://www.easycalculation.com/formulas/index.php,243,0,0
+1787204220589,243,Formulas-0,301,Moved Permanently,EasyCalculations 1-3,text,true,,380,135,10,10,https://easycalculation.com/formulas/index.php,243,0,0
+1787204220833,467,Formulas-1,200,OK,EasyCalculations 1-3,text,true,,24924,139,10,10,https://www.easycalculation.com/formulas/index.php,233,0,0
+1787204220824,499,Currencies,200,OK,EasyCalculations 1-5,text,true,,21952,294,10,10,https://www.easycalculation.com/currency-converter/index.php,245,0,0
+1787204220824,245,Currencies-0,301,Moved Permanently,EasyCalculations 1-5,text,true,,390,145,10,10,https://easycalculation.com/currency-converter/index.php,245,0,0
+1787204221069,254,Currencies-1,200,OK,EasyCalculations 1-5,text,true,,21562,149,10,10,https://www.easycalculation.com/currency-converter/index.php,254,0,0
+1787204220908,493,Currencies,200,OK,EasyCalculations 1-7,text,true,,21952,294,10,10,https://www.easycalculation.com/currency-converter/index.php,247,0,0
+1787204220908,247,Currencies-0,301,Moved Permanently,EasyCalculations 1-7,text,true,,390,145,10,10,https://easycalculation.com/currency-converter/index.php,247,0,0
+1787204221155,246,Currencies-1,200,OK,EasyCalculations 1-7,text,true,,21562,149,10,10,https://www.easycalculation.com/currency-converter/index.php,246,0,0
+1787204221110,475,Currencies,200,OK,EasyCalculations 1-10,text,true,,21952,294,10,10,https://www.easycalculation.com/currency-converter/index.php,236,0,0
+1787204221110,236,Currencies-0,301,Moved Permanently,EasyCalculations 1-10,text,true,,390,145,10,10,https://easycalculation.com/currency-converter/index.php,236,0,0
+1787204221346,239,Currencies-1,200,OK,EasyCalculations 1-10,text,true,,21562,149,10,10,https://www.easycalculation.com/currency-converter/index.php,238,0,0
+1787204220886,713,Charts,200,OK,EasyCalculations 1-6,text,true,,33202,280,10,10,https://www.easycalculation.com/charts-and-tables.php,243,0,0
+1787204220886,243,Charts-0,301,Moved Permanently,EasyCalculations 1-6,text,true,,383,138,10,10,https://easycalculation.com/charts-and-tables.php,243,0,0
+1787204221129,470,Charts-1,200,OK,EasyCalculations 1-6,text,true,,32819,142,10,10,https://www.easycalculation.com/charts-and-tables.php,235,0,0
+1787204221058,724,Charts,200,OK,EasyCalculations 1-9,text,true,,33202,280,10,10,https://www.easycalculation.com/charts-and-tables.php,236,0,0
+1787204221058,236,Charts-0,301,Moved Permanently,EasyCalculations 1-9,text,true,,383,138,10,10,https://easycalculation.com/charts-and-tables.php,236,0,0
+1787204221294,488,Charts-1,200,OK,EasyCalculations 1-9,text,true,,32819,142,10,10,https://www.easycalculation.com/charts-and-tables.php,244,0,0
+1787204221064,736,Charts,200,OK,EasyCalculations 1-2,text,true,,33202,280,10,10,https://www.easycalculation.com/charts-and-tables.php,236,0,0
+1787204221064,236,Charts-0,301,Moved Permanently,EasyCalculations 1-2,text,true,,383,138,10,10,https://easycalculation.com/charts-and-tables.php,236,0,0
+1787204221300,500,Charts-1,200,OK,EasyCalculations 1-2,text,true,,32819,142,10,10,https://www.easycalculation.com/charts-and-tables.php,251,0,0
+1787204221300,501,Currencies,200,OK,EasyCalculations 1-3,text,true,,21952,294,10,10,https://www.easycalculation.com/currency-converter/index.php,264,0,0
+1787204221300,264,Currencies-0,301,Moved Permanently,EasyCalculations 1-3,text,true,,390,145,10,10,https://easycalculation.com/currency-converter/index.php,264,0,0
+1787204221565,236,Currencies-1,200,OK,EasyCalculations 1-3,text,true,,21562,149,10,10,https://www.easycalculation.com/currency-converter/index.php,236,0,0
+1787204221158,744,Charts,200,OK,EasyCalculations 1-4,text,true,,33202,280,10,10,https://www.easycalculation.com/charts-and-tables.php,247,0,0
+1787204221158,247,Charts-0,301,Moved Permanently,EasyCalculations 1-4,text,true,,383,138,10,10,https://easycalculation.com/charts-and-tables.php,247,0,0
+1787204221406,496,Charts-1,200,OK,EasyCalculations 1-4,text,true,,32819,142,10,10,https://www.easycalculation.com/charts-and-tables.php,249,0,0
+1787204221212,732,Charts,200,OK,EasyCalculations 1-8,text,true,,33202,280,10,10,https://www.easycalculation.com/charts-and-tables.php,236,0,0
+1787204221212,236,Charts-0,301,Moved Permanently,EasyCalculations 1-8,text,true,,383,138,10,10,https://easycalculation.com/charts-and-tables.php,236,0,0
+1787204221448,496,Charts-1,200,OK,EasyCalculations 1-8,text,true,,32819,142,10,10,https://www.easycalculation.com/charts-and-tables.php,246,0,0
+1787204221188,757,Charts,200,OK,EasyCalculations 1-1,text,true,,33202,280,10,10,https://www.easycalculation.com/charts-and-tables.php,255,0,0
+1787204221188,255,Charts-0,301,Moved Permanently,EasyCalculations 1-1,text,true,,383,138,10,10,https://easycalculation.com/charts-and-tables.php,255,0,0
+1787204221443,502,Charts-1,200,OK,EasyCalculations 1-1,text,true,,32819,142,10,10,https://www.easycalculation.com/charts-and-tables.php,251,0,0
+1787204221323,747,Charts,200,OK,EasyCalculations 1-5,text,true,,33202,280,10,10,https://www.easycalculation.com/charts-and-tables.php,246,0,0
+1787204221323,246,Charts-0,301,Moved Permanently,EasyCalculations 1-5,text,true,,383,138,10,10,https://easycalculation.com/charts-and-tables.php,246,0,0
+1787204221569,501,Charts-1,200,OK,EasyCalculations 1-5,text,true,,32819,142,10,10,https://www.easycalculation.com/charts-and-tables.php,253,0,0
+1787204221402,739,Charts,200,OK,EasyCalculations 1-7,text,true,,33202,280,10,10,https://www.easycalculation.com/charts-and-tables.php,247,0,0
+1787204221402,247,Charts-0,301,Moved Permanently,EasyCalculations 1-7,text,true,,383,138,10,10,https://easycalculation.com/charts-and-tables.php,247,0,0
+1787204221649,492,Charts-1,200,OK,EasyCalculations 1-7,text,true,,32819,142,10,10,https://www.easycalculation.com/charts-and-tables.php,251,0,0
+1787204221585,712,Charts,200,OK,EasyCalculations 1-10,text,true,,33202,280,10,10,https://www.easycalculation.com/charts-and-tables.php,237,0,0
+1787204221585,237,Charts-0,301,Moved Permanently,EasyCalculations 1-10,text,true,,383,138,10,10,https://easycalculation.com/charts-and-tables.php,237,0,0
+1787204221823,474,Charts-1,200,OK,EasyCalculations 1-10,text,true,,32819,142,10,10,https://www.easycalculation.com/charts-and-tables.php,236,0,0
+1787204221600,715,Calculators,200,OK,EasyCalculations 1-6,text,true,,48636,256,10,10,https://www.easycalculation.com/index.php,246,0,0
+1787204221600,246,Calculators-0,301,Moved Permanently,EasyCalculations 1-6,text,true,,371,126,10,10,https://easycalculation.com/index.php,246,0,0
+1787204221846,469,Calculators-1,200,OK,EasyCalculations 1-6,text,true,,48265,130,10,10,https://www.easycalculation.com/index.php,234,0,0
+1787204221801,711,Charts,200,OK,EasyCalculations 1-3,text,true,,33202,280,9,9,https://www.easycalculation.com/charts-and-tables.php,243,0,0
+1787204221801,243,Charts-0,301,Moved Permanently,EasyCalculations 1-3,text,true,,383,138,9,9,https://easycalculation.com/charts-and-tables.php,243,0,0
+1787204222045,467,Charts-1,200,OK,EasyCalculations 1-3,text,true,,32819,142,9,9,https://www.easycalculation.com/charts-and-tables.php,236,0,0
+1787204221800,735,Calculators,200,OK,EasyCalculations 1-2,text,true,,48636,256,9,9,https://www.easycalculation.com/index.php,234,0,0
+1787204221800,234,Calculators-0,301,Moved Permanently,EasyCalculations 1-2,text,true,,371,126,9,9,https://easycalculation.com/index.php,234,0,0
+1787204222034,501,Calculators-1,200,OK,EasyCalculations 1-2,text,true,,48265,130,9,9,https://www.easycalculation.com/index.php,253,0,0
+1787204221783,809,Calculators,200,OK,EasyCalculations 1-9,text,true,,48636,256,8,8,https://www.easycalculation.com/index.php,301,0,0
+1787204221783,301,Calculators-0,301,Moved Permanently,EasyCalculations 1-9,text,true,,371,126,8,8,https://easycalculation.com/index.php,301,0,0
+1787204222084,508,Calculators-1,200,OK,EasyCalculations 1-9,text,true,,48265,130,8,8,https://www.easycalculation.com/index.php,255,0,0
+1787204221903,738,Calculators,200,OK,EasyCalculations 1-4,text,true,,48636,256,7,7,https://www.easycalculation.com/index.php,243,0,0
+1787204221903,243,Calculators-0,301,Moved Permanently,EasyCalculations 1-4,text,true,,371,126,7,7,https://easycalculation.com/index.php,243,0,0
+1787204222146,495,Calculators-1,200,OK,EasyCalculations 1-4,text,true,,48265,130,7,7,https://www.easycalculation.com/index.php,249,0,0
+1787204221945,726,Calculators,200,OK,EasyCalculations 1-8,text,true,,48636,256,6,6,https://www.easycalculation.com/index.php,237,0,0
+1787204221945,237,Calculators-0,301,Moved Permanently,EasyCalculations 1-8,text,true,,371,126,6,6,https://easycalculation.com/index.php,237,0,0
+1787204222182,489,Calculators-1,200,OK,EasyCalculations 1-8,text,true,,48265,130,6,6,https://www.easycalculation.com/index.php,246,0,0
+1787204221946,748,Calculators,200,OK,EasyCalculations 1-1,text,true,,48636,256,5,5,https://www.easycalculation.com/index.php,253,0,0
+1787204221946,253,Calculators-0,301,Moved Permanently,EasyCalculations 1-1,text,true,,371,126,5,5,https://easycalculation.com/index.php,253,0,0
+1787204222199,495,Calculators-1,200,OK,EasyCalculations 1-1,text,true,,48265,130,5,5,https://www.easycalculation.com/index.php,247,0,0
+1787204222071,747,Calculators,200,OK,EasyCalculations 1-5,text,true,,48636,256,4,4,https://www.easycalculation.com/index.php,248,0,0
+1787204222071,248,Calculators-0,301,Moved Permanently,EasyCalculations 1-5,text,true,,371,126,4,4,https://easycalculation.com/index.php,248,0,0
+1787204222319,499,Calculators-1,200,OK,EasyCalculations 1-5,text,true,,48265,130,4,4,https://www.easycalculation.com/index.php,250,0,0
+1787204222141,735,Calculators,200,OK,EasyCalculations 1-7,text,true,,48636,256,3,3,https://www.easycalculation.com/index.php,250,0,0
+1787204222141,250,Calculators-0,301,Moved Permanently,EasyCalculations 1-7,text,true,,371,126,3,3,https://easycalculation.com/index.php,250,0,0
+1787204222392,484,Calculators-1,200,OK,EasyCalculations 1-7,text,true,,48265,130,3,3,https://www.easycalculation.com/index.php,242,0,0
+1787204222297,706,Calculators,200,OK,EasyCalculations 1-10,text,true,,48636,256,2,2,https://www.easycalculation.com/index.php,236,0,0
+1787204222297,236,Calculators-0,301,Moved Permanently,EasyCalculations 1-10,text,true,,371,126,2,2,https://easycalculation.com/index.php,236,0,0
+1787204222533,470,Calculators-1,200,OK,EasyCalculations 1-10,text,true,,48265,130,2,2,https://www.easycalculation.com/index.php,237,0,0
+1787204222513,709,Calculators,200,OK,EasyCalculations 1-3,text,true,,48636,256,1,1,https://www.easycalculation.com/index.php,243,0,0
+1787204222513,243,Calculators-0,301,Moved Permanently,EasyCalculations 1-3,text,true,,371,126,1,1,https://easycalculation.com/index.php,243,0,0
+1787204222756,466,Calculators-1,200,OK,EasyCalculations 1-3,text,true,,48265,130,1,1,https://www.easycalculation.com/index.php,234,0,0
